@@ -1,0 +1,17 @@
+{
+  "name": "Bread VOCA",
+  "short_name": "Bread VOCA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f1e7",
+  "theme_color": "#2f241e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
