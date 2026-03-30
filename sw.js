@@ -1,6 +1,7 @@
-const CACHE_NAME = "voca-shell-v2";
+const CACHE_NAME = "voca-shell-v3";
 const BASE_PATH = self.location.pathname.replace(/[^/]+$/, "");
 const INDEX_URL = `${BASE_PATH}index.html`;
+const BUNDLED_PACK_URL = `${BASE_PATH}vocab_pack.json`;
 const SHELL_URLS = [BASE_PATH, INDEX_URL, `${BASE_PATH}manifest.webmanifest`, `${BASE_PATH}icon.svg`];
 
 self.addEventListener("install", (event) => {
@@ -30,6 +31,19 @@ self.addEventListener("fetch", (event) => {
   if (event.request.mode === "navigate") {
     event.respondWith(
       fetch(event.request).catch(() => caches.match(INDEX_URL))
+    );
+    return;
+  }
+
+  if (requestUrl.pathname === new URL(BUNDLED_PACK_URL, self.location.origin).pathname) {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => {
+          const responseClone = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, responseClone));
+          return response;
+        })
+        .catch(() => caches.match(event.request))
     );
     return;
   }
