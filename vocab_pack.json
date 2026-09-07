@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-08-21T11:06:39.434029+00:00",
+  "generated_at": "2026-09-07T15:20:36Z",
   "entries": [
     {
       "id": "v101_0001_capricious",
@@ -326203,6 +326203,4068 @@
       "raw_gloss": "2주일"
     },
     {
+      "id": "v501_0001_abate",
+      "word": "abate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "완화하다",
+        "완화"
+      ],
+      "source_page": 1,
+      "raw_gloss": "완화하다"
+    },
+    {
+      "id": "v501_0002_aberrant",
+      "word": "aberrant",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "정도를 벗어난"
+      ],
+      "source_page": 1,
+      "raw_gloss": "정도를 벗어난"
+    },
+    {
+      "id": "v501_0003_abet",
+      "word": "abet",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "부추기다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "부추기다"
+    },
+    {
+      "id": "v501_0004_abeyance",
+      "word": "abeyance",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "중지 상태"
+      ],
+      "source_page": 1,
+      "raw_gloss": "중지 상태"
+    },
+    {
+      "id": "v501_0005_about_face",
+      "word": "about-face",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "입장변화"
+      ],
+      "source_page": 1,
+      "raw_gloss": "입장변화"
+    },
+    {
+      "id": "v501_0006_tack",
+      "word": "tack",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "방침[정책]",
+        "을 바꾸다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "방침[정책](을 바꾸다)"
+    },
+    {
+      "id": "v501_0007_abreast",
+      "word": "abreast",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "나란히",
+        "병행하는"
+      ],
+      "source_page": 1,
+      "raw_gloss": "나란히, 병행하는"
+    },
+    {
+      "id": "v501_0008_abrogate",
+      "word": "abrogate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "폐지하다",
+        "폐지"
+      ],
+      "source_page": 1,
+      "raw_gloss": "폐지하다"
+    },
+    {
+      "id": "v501_0009_absenteeism",
+      "word": "absenteeism",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "결석",
+        "결근"
+      ],
+      "source_page": 1,
+      "raw_gloss": "결석; 결근"
+    },
+    {
+      "id": "v501_0010_abstruse",
+      "word": "abstruse",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "난해한",
+        "난해"
+      ],
+      "source_page": 1,
+      "raw_gloss": "난해한"
+    },
+    {
+      "id": "v501_0011_abuse",
+      "word": "abuse",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "학대",
+        "남용",
+        "하다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "학대(하다); 남용(하다)"
+    },
+    {
+      "id": "v501_0012_accord",
+      "word": "accord",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "일치하다",
+        "일치",
+        "협정"
+      ],
+      "source_page": 1,
+      "raw_gloss": "일치하다; 협정"
+    },
+    {
+      "id": "v501_0013_acquit",
+      "word": "acquit",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "무죄판결하다",
+        "무죄판결"
+      ],
+      "source_page": 1,
+      "raw_gloss": "무죄판결하다"
+    },
+    {
+      "id": "v501_0014_convict",
+      "word": "convict",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "유죄 판결을 내리다",
+        "유죄 판결을 받은 죄수"
+      ],
+      "source_page": 1,
+      "raw_gloss": "유죄 판결을 내리다; 유죄 판결을 받은 죄수"
+    },
+    {
+      "id": "v501_0015_acrimonious",
+      "word": "acrimonious",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "신랄한",
+        "신랄"
+      ],
+      "source_page": 1,
+      "raw_gloss": "신랄한"
+    },
+    {
+      "id": "v501_0016_acting",
+      "word": "acting",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "직무대행의"
+      ],
+      "source_page": 1,
+      "raw_gloss": "직무대행의"
+    },
+    {
+      "id": "v501_0017_activist",
+      "word": "activist",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "활동가",
+        "시민운동가"
+      ],
+      "source_page": 1,
+      "raw_gloss": "활동가, 시민운동가"
+    },
+    {
+      "id": "v501_0018_acute",
+      "word": "acute",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "급성의",
+        "예리한",
+        "예리"
+      ],
+      "source_page": 1,
+      "raw_gloss": "급성의; 예리한"
+    },
+    {
+      "id": "v501_0019_adept",
+      "word": "adept",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "숙련된"
+      ],
+      "source_page": 1,
+      "raw_gloss": "숙련된"
+    },
+    {
+      "id": "v501_0020_ad_hoc",
+      "word": "ad hoc",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "임시의",
+        "단발성의"
+      ],
+      "source_page": 1,
+      "raw_gloss": "임시의; 단발성의"
+    },
+    {
+      "id": "v501_0021_adjacent",
+      "word": "adjacent",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "인접한",
+        "인접"
+      ],
+      "source_page": 1,
+      "raw_gloss": "인접한"
+    },
+    {
+      "id": "v501_0022_ado",
+      "word": "ado",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "야단법석"
+      ],
+      "source_page": 1,
+      "raw_gloss": "야단법석"
+    },
+    {
+      "id": "v501_0023_advent",
+      "word": "advent",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "도래",
+        "시작"
+      ],
+      "source_page": 1,
+      "raw_gloss": "도래(到來), 시작"
+    },
+    {
+      "id": "v501_0024_affidavit",
+      "word": "affidavit",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "진술서",
+        "법률"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(법률) 진술서"
+    },
+    {
+      "id": "v501_0025_affiliate",
+      "word": "affiliate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "제휴 업체",
+        "계열사",
+        "제휴하다",
+        "제휴"
+      ],
+      "source_page": 1,
+      "raw_gloss": "제휴(提携)업체; 계열사; 제휴하다"
+    },
+    {
+      "id": "v501_0026_affiliation",
+      "word": "affiliation",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "합병",
+        "제휴"
+      ],
+      "source_page": 1,
+      "raw_gloss": "합병, 제휴"
+    },
+    {
+      "id": "v501_0027_affirmative_action",
+      "word": "affirmative action",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "차별방지책",
+        "소수자"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(소수자) 차별방지책"
+    },
+    {
+      "id": "v501_0028_affluent",
+      "word": "affluent",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "부유한",
+        "부유"
+      ],
+      "source_page": 1,
+      "raw_gloss": "부유한"
+    },
+    {
+      "id": "v501_0029_aforethought",
+      "word": "aforethought",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "사전에 계획한",
+        "사전에 계획"
+      ],
+      "source_page": 1,
+      "raw_gloss": "사전에 계획한"
+    },
+    {
+      "id": "v501_0030_aftereffect",
+      "word": "aftereffect",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "부산물",
+        "후유증",
+        "결과"
+      ],
+      "source_page": 1,
+      "raw_gloss": "부산물; 후유증; 결과"
+    },
+    {
+      "id": "v501_0031_after_shock",
+      "word": "after-shock",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "후유증"
+      ],
+      "source_page": 1,
+      "raw_gloss": "후유증"
+    },
+    {
+      "id": "v501_0032_after_glow",
+      "word": "after-glow",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "저녁노을",
+        "즐거운 회상"
+      ],
+      "source_page": 1,
+      "raw_gloss": "저녁노을; 즐거운 회상"
+    },
+    {
+      "id": "v501_0033_aftermath",
+      "word": "aftermath",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "여파",
+        "후유증"
+      ],
+      "source_page": 1,
+      "raw_gloss": "여파, 후유증"
+    },
+    {
+      "id": "v501_0034_agenda",
+      "word": "agenda",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "안건"
+      ],
+      "source_page": 1,
+      "raw_gloss": "안건"
+    },
+    {
+      "id": "v501_0035_aggregate",
+      "word": "aggregate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "총합"
+      ],
+      "source_page": 1,
+      "raw_gloss": "총합"
+    },
+    {
+      "id": "v501_0036_agitate",
+      "word": "agitate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "동요하다",
+        "동요",
+        "심적으로"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(심적으로) 동요하다"
+    },
+    {
+      "id": "v501_0037_agitation",
+      "word": "agitation",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "심적 동요"
+      ],
+      "source_page": 1,
+      "raw_gloss": "심적 동요"
+    },
+    {
+      "id": "v501_0038_jitters",
+      "word": "jitters",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "심적 동요"
+      ],
+      "source_page": 1,
+      "raw_gloss": "심적 동요"
+    },
+    {
+      "id": "v501_0039_agrarian",
+      "word": "agrarian",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "토지의",
+        "농업의"
+      ],
+      "source_page": 1,
+      "raw_gloss": "토지의; 농업의"
+    },
+    {
+      "id": "v501_0040_aid",
+      "word": "aid",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "원조"
+      ],
+      "source_page": 1,
+      "raw_gloss": "원조"
+    },
+    {
+      "id": "v501_0041_ailment",
+      "word": "ailment",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "질환"
+      ],
+      "source_page": 1,
+      "raw_gloss": "질환"
+    },
+    {
+      "id": "v501_0042_airborne",
+      "word": "airborne",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "공중으로 전달되는",
+        "공수 의"
+      ],
+      "source_page": 1,
+      "raw_gloss": "공중으로 전달되는, 공수(空輸)의"
+    },
+    {
+      "id": "v501_0043_airlift",
+      "word": "airlift",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "공수",
+        "하다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "공수(空輸)(하다)"
+    },
+    {
+      "id": "v501_0044_airstrip",
+      "word": "airstrip",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "활주로",
+        "임시"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(임시)활주로"
+    },
+    {
+      "id": "v501_0045_tarmac",
+      "word": "tarmac",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "항공기가 이동하는 지상의 도로"
+      ],
+      "source_page": 1,
+      "raw_gloss": "항공기가 이동하는 지상의 도로"
+    },
+    {
+      "id": "v501_0046_taxiing",
+      "word": "taxiing",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "활주로까지의 항공기 이동"
+      ],
+      "source_page": 1,
+      "raw_gloss": "활주로까지의 항공기 이동"
+    },
+    {
+      "id": "v501_0047_albatross",
+      "word": "albatross",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "큰 골칫거리",
+        "신천홍",
+        "새"
+      ],
+      "source_page": 1,
+      "raw_gloss": "큰 골칫거리; 신천홍(새)"
+    },
+    {
+      "id": "v501_0048_alias",
+      "word": "alias",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "가명[별명]"
+      ],
+      "source_page": 1,
+      "raw_gloss": "가명[별명]"
+    },
+    {
+      "id": "v501_0049_allegedly",
+      "word": "allegedly",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "전언 에 따르면"
+      ],
+      "source_page": 1,
+      "raw_gloss": "전언(傳言)에 따르면"
+    },
+    {
+      "id": "v501_0050_allegiance",
+      "word": "allegiance",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "충성"
+      ],
+      "source_page": 1,
+      "raw_gloss": "충성"
+    },
+    {
+      "id": "v501_0051_all_embracing",
+      "word": "all-embracing",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "포괄적인",
+        "포괄적",
+        "포괄"
+      ],
+      "source_page": 1,
+      "raw_gloss": "포괄적인"
+    },
+    {
+      "id": "v501_0052_all_encompassing",
+      "word": "all-encompassing",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "포괄적인",
+        "포괄적",
+        "포괄"
+      ],
+      "source_page": 1,
+      "raw_gloss": "포괄적인"
+    },
+    {
+      "id": "v501_0053_comprehensive",
+      "word": "comprehensive",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "포괄적인",
+        "포괄적",
+        "포괄"
+      ],
+      "source_page": 1,
+      "raw_gloss": "포괄적인"
+    },
+    {
+      "id": "v501_0054_all_out",
+      "word": "all-out",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "전면적인",
+        "전면적",
+        "전면"
+      ],
+      "source_page": 1,
+      "raw_gloss": "전면적인"
+    },
+    {
+      "id": "v501_0055_all_out_war",
+      "word": "all-out war",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "전면전"
+      ],
+      "source_page": 1,
+      "raw_gloss": "전면전(全面戰)"
+    },
+    {
+      "id": "v501_0056_all_time",
+      "word": "all-time",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "역대급의"
+      ],
+      "source_page": 1,
+      "raw_gloss": "역대급의"
+    },
+    {
+      "id": "v501_0057_allude_to",
+      "word": "allude to",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "암시하다",
+        "암시"
+      ],
+      "source_page": 1,
+      "raw_gloss": "암시하다"
+    },
+    {
+      "id": "v501_0058_ally",
+      "word": "ally",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "동맹국"
+      ],
+      "source_page": 1,
+      "raw_gloss": "동맹국"
+    },
+    {
+      "id": "v501_0059_alteration",
+      "word": "alteration",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "변경"
+      ],
+      "source_page": 1,
+      "raw_gloss": "변경"
+    },
+    {
+      "id": "v501_0060_altercation",
+      "word": "altercation",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "논박"
+      ],
+      "source_page": 1,
+      "raw_gloss": "논박"
+    },
+    {
+      "id": "v501_0061_alternate",
+      "word": "alternate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "교대로 반복되는"
+      ],
+      "source_page": 1,
+      "raw_gloss": "교대로 반복되는"
+    },
+    {
+      "id": "v501_0062_altitude",
+      "word": "altitude",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "고도"
+      ],
+      "source_page": 1,
+      "raw_gloss": "고도"
+    },
+    {
+      "id": "v501_0063_ambivalent",
+      "word": "ambivalent",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "찬반이 공존하는"
+      ],
+      "source_page": 1,
+      "raw_gloss": "찬반이 공존하는"
+    },
+    {
+      "id": "v501_0064_ambulance_chaser",
+      "word": "ambulance chaser",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "악덕 변호사"
+      ],
+      "source_page": 1,
+      "raw_gloss": "악덕 변호사"
+    },
+    {
+      "id": "v501_0065_ambush",
+      "word": "ambush",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "매복 공격하다",
+        "매복 공격"
+      ],
+      "source_page": 1,
+      "raw_gloss": "매복 공격하다"
+    },
+    {
+      "id": "v501_0066_ammunition",
+      "word": "ammunition",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "탄환"
+      ],
+      "source_page": 1,
+      "raw_gloss": "탄환"
+    },
+    {
+      "id": "v501_0067_ammo",
+      "word": "ammo",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "탄환"
+      ],
+      "source_page": 1,
+      "raw_gloss": "탄환"
+    },
+    {
+      "id": "v501_0068_amok",
+      "word": "amok",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "미친"
+      ],
+      "source_page": 1,
+      "raw_gloss": "미친"
+    },
+    {
+      "id": "v501_0069_amuck",
+      "word": "amuck",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "미친"
+      ],
+      "source_page": 1,
+      "raw_gloss": "미친"
+    },
+    {
+      "id": "v501_0070_amputate",
+      "word": "amputate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "절단하다",
+        "절단",
+        "손발을"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(손발을) 절단하다"
+    },
+    {
+      "id": "v501_0071_anachronism",
+      "word": "anachronism",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "시대착오"
+      ],
+      "source_page": 1,
+      "raw_gloss": "시대착오"
+    },
+    {
+      "id": "v501_0072_analogous_to",
+      "word": "analogous to",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "유사한",
+        "유사"
+      ],
+      "source_page": 1,
+      "raw_gloss": "유사한"
+    },
+    {
+      "id": "v501_0073_anemia",
+      "word": "anemia",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "빈혈"
+      ],
+      "source_page": 1,
+      "raw_gloss": "빈혈"
+    },
+    {
+      "id": "v501_0074_amnesia",
+      "word": "amnesia",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "건망증"
+      ],
+      "source_page": 1,
+      "raw_gloss": "건망증"
+    },
+    {
+      "id": "v501_0075_angst",
+      "word": "angst",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "공포"
+      ],
+      "source_page": 1,
+      "raw_gloss": "공포"
+    },
+    {
+      "id": "v501_0076_animosity",
+      "word": "animosity",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "증오"
+      ],
+      "source_page": 1,
+      "raw_gloss": "증오"
+    },
+    {
+      "id": "v501_0077_annex",
+      "word": "annex",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "합병하다",
+        "합병"
+      ],
+      "source_page": 1,
+      "raw_gloss": "합병하다"
+    },
+    {
+      "id": "v501_0078_annihilate",
+      "word": "annihilate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "전멸시키다",
+        "전멸"
+      ],
+      "source_page": 1,
+      "raw_gloss": "전멸시키다"
+    },
+    {
+      "id": "v501_0079_malice_aforethought",
+      "word": "malice aforethought",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "사전의 범죄 의도",
+        "악의"
+      ],
+      "source_page": 1,
+      "raw_gloss": "사전의 범죄 의도, 악의(惡意)"
+    },
+    {
+      "id": "v501_0080_aggravated_assault",
+      "word": "aggravated assault",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "가중처벌 적용 공격행위"
+      ],
+      "source_page": 1,
+      "raw_gloss": "가중처벌 적용 공격행위"
+    },
+    {
+      "id": "v501_0081_aggravated_murder",
+      "word": "aggravated murder",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "가중처벌 적용 살인"
+      ],
+      "source_page": 1,
+      "raw_gloss": "가중처벌 적용 살인"
+    },
+    {
+      "id": "v501_0082_air_force_one",
+      "word": "Air Force One",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "미 대통령 전용비행기"
+      ],
+      "source_page": 1,
+      "raw_gloss": "미 대통령 전용비행기"
+    },
+    {
+      "id": "v501_0083_albion",
+      "word": "Albion",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "영국의 옛 이름"
+      ],
+      "source_page": 1,
+      "raw_gloss": "영국의 옛 이름"
+    },
+    {
+      "id": "v501_0084_alzheimer_s_disease",
+      "word": "Alzheimer's (disease)",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "알츠하이머병"
+      ],
+      "source_page": 1,
+      "raw_gloss": "알츠하이머병"
+    },
+    {
+      "id": "v501_0085_americorps",
+      "word": "AmeriCorps",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "미국 평화봉사단"
+      ],
+      "source_page": 1,
+      "raw_gloss": "미국 평화봉사단"
+    },
+    {
+      "id": "v501_0086_annul",
+      "word": "annul",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "폐지하다",
+        "폐지",
+        "취소하다",
+        "취소"
+      ],
+      "source_page": 2,
+      "raw_gloss": "폐지하다; 취소하다"
+    },
+    {
+      "id": "v501_0087_anoint",
+      "word": "anoint",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "임명하다",
+        "임명",
+        "기름붓다"
+      ],
+      "source_page": 2,
+      "raw_gloss": "임명하다; 기름붓다"
+    },
+    {
+      "id": "v501_0088_antibiotic",
+      "word": "antibiotic",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "항생제"
+      ],
+      "source_page": 2,
+      "raw_gloss": "항생제"
+    },
+    {
+      "id": "v501_0089_antibody",
+      "word": "antibody",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "항체"
+      ],
+      "source_page": 2,
+      "raw_gloss": "항체"
+    },
+    {
+      "id": "v501_0090_antecedent",
+      "word": "antecedent",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "선행하는",
+        "것"
+      ],
+      "source_page": 2,
+      "raw_gloss": "선행하는 (것)"
+    },
+    {
+      "id": "v501_0091_anticlimax",
+      "word": "anticlimax",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "큰 기대 뒤의 실망",
+        "용두사미"
+      ],
+      "source_page": 2,
+      "raw_gloss": "큰 기대 뒤의 실망, 용두사미"
+    },
+    {
+      "id": "v501_0092_antiquated",
+      "word": "antiquated",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "구식의"
+      ],
+      "source_page": 2,
+      "raw_gloss": "구식의"
+    },
+    {
+      "id": "v501_0093_outmoded",
+      "word": "outmoded",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "구식의"
+      ],
+      "source_page": 2,
+      "raw_gloss": "구식의"
+    },
+    {
+      "id": "v501_0094_anti_semitic",
+      "word": "anti-Semitic",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "반 유대주의의"
+      ],
+      "source_page": 2,
+      "raw_gloss": "반(反)유대주의의"
+    },
+    {
+      "id": "v501_0095_kike",
+      "word": "kike",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "[경멸조] 유대인"
+      ],
+      "source_page": 2,
+      "raw_gloss": "[경멸조] 유대인"
+    },
+    {
+      "id": "v501_0096_antithetical_to",
+      "word": "antithetical to",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "반대되는"
+      ],
+      "source_page": 2,
+      "raw_gloss": "반대되는"
+    },
+    {
+      "id": "v501_0097_apartheid",
+      "word": "apartheid",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "남아프리카의 인종차별정책"
+      ],
+      "source_page": 2,
+      "raw_gloss": "남아프리카의 인종차별정책"
+    },
+    {
+      "id": "v501_0098_apathy",
+      "word": "apathy",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "무관심"
+      ],
+      "source_page": 2,
+      "raw_gloss": "무관심"
+    },
+    {
+      "id": "v501_0099_apex",
+      "word": "apex",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "정상"
+      ],
+      "source_page": 2,
+      "raw_gloss": "정상(頂上)"
+    },
+    {
+      "id": "v501_0100_apocalyptic",
+      "word": "apocalyptic",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "종말론적인",
+        "종말론적",
+        "종말론"
+      ],
+      "source_page": 2,
+      "raw_gloss": "종말론적인"
+    },
+    {
+      "id": "v501_0101_apocalypse",
+      "word": "apocalypse",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "사회적 대변동"
+      ],
+      "source_page": 2,
+      "raw_gloss": "사회적 대변동"
+    },
+    {
+      "id": "v501_0102_apogee",
+      "word": "apogee",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "최고점"
+      ],
+      "source_page": 2,
+      "raw_gloss": "최고점"
+    },
+    {
+      "id": "v501_0103_appalling",
+      "word": "appalling",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "끔찍한",
+        "끔찍"
+      ],
+      "source_page": 2,
+      "raw_gloss": "끔찍한"
+    },
+    {
+      "id": "v501_0104_appeasement_policy",
+      "word": "appeasement policy",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "유화 책",
+        "정"
+      ],
+      "source_page": 2,
+      "raw_gloss": "유화(宥和)(정)책"
+    },
+    {
+      "id": "v501_0105_get_tough_policy",
+      "word": "get-tough policy",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "강경책"
+      ],
+      "source_page": 2,
+      "raw_gloss": "강경책"
+    },
+    {
+      "id": "v501_0106_apposite_to",
+      "word": "apposite to",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "적절한",
+        "적절",
+        "적합한",
+        "적합"
+      ],
+      "source_page": 2,
+      "raw_gloss": "적절한, 적합한"
+    },
+    {
+      "id": "v501_0107_relevant_to",
+      "word": "relevant to",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "적절한",
+        "적절",
+        "적합한",
+        "적합"
+      ],
+      "source_page": 2,
+      "raw_gloss": "적절한, 적합한"
+    },
+    {
+      "id": "v501_0108_appraise",
+      "word": "appraise",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "값을 매기다"
+      ],
+      "source_page": 2,
+      "raw_gloss": "값을 매기다"
+    },
+    {
+      "id": "v501_0109_appreciation",
+      "word": "appreciation",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "평가절상"
+      ],
+      "source_page": 2,
+      "raw_gloss": "평가절상"
+    },
+    {
+      "id": "v501_0110_revaluation",
+      "word": "revaluation",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "평가절상"
+      ],
+      "source_page": 2,
+      "raw_gloss": "평가절상"
+    },
+    {
+      "id": "v501_0111_depreciation",
+      "word": "depreciation",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "평가절하"
+      ],
+      "source_page": 2,
+      "raw_gloss": "평가절하"
+    },
+    {
+      "id": "v501_0112_devaluation",
+      "word": "devaluation",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "평가절하"
+      ],
+      "source_page": 2,
+      "raw_gloss": "평가절하"
+    },
+    {
+      "id": "v501_0113_apprehend",
+      "word": "apprehend",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "이해하다",
+        "이해",
+        "체포하다",
+        "체포"
+      ],
+      "source_page": 2,
+      "raw_gloss": "이해하다; 체포하다"
+    },
+    {
+      "id": "v501_0114_arrest",
+      "word": "arrest",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다"
+    },
+    {
+      "id": "v501_0115_collar",
+      "word": "collar",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포",
+        "깃",
+        "옷의"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다; (옷의) 깃"
+    },
+    {
+      "id": "v501_0116_nab",
+      "word": "nab",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다"
+    },
+    {
+      "id": "v501_0117_nap",
+      "word": "nap",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "낮잠",
+        "얕은 잠"
+      ],
+      "source_page": 2,
+      "raw_gloss": "낮잠, 얕은 잠"
+    },
+    {
+      "id": "v501_0118_nail",
+      "word": "nail",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다"
+    },
+    {
+      "id": "v501_0119_round_up",
+      "word": "round up",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다"
+    },
+    {
+      "id": "v501_0120_apprise",
+      "word": "apprise",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "알리다",
+        "통보하다",
+        "통보"
+      ],
+      "source_page": 2,
+      "raw_gloss": "알리다, 통보하다"
+    },
+    {
+      "id": "v501_0121_arbiter",
+      "word": "arbiter",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "중재자"
+      ],
+      "source_page": 2,
+      "raw_gloss": "중재자"
+    },
+    {
+      "id": "v501_0122_arbitrator",
+      "word": "arbitrator",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "중재자"
+      ],
+      "source_page": 2,
+      "raw_gloss": "중재자"
+    },
+    {
+      "id": "v501_0123_arbitrary",
+      "word": "arbitrary",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "자의적인",
+        "자의적",
+        "자의"
+      ],
+      "source_page": 2,
+      "raw_gloss": "자의적인"
+    },
+    {
+      "id": "v501_0124_arcane",
+      "word": "arcane",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "난해한",
+        "난해"
+      ],
+      "source_page": 2,
+      "raw_gloss": "난해한"
+    },
+    {
+      "id": "v501_0125_archipelago",
+      "word": "archipelago",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "군도"
+      ],
+      "source_page": 2,
+      "raw_gloss": "군도(群島)"
+    },
+    {
+      "id": "v501_0126_the_archipelago",
+      "word": "the Archipelago",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "필리핀의 별칭"
+      ],
+      "source_page": 2,
+      "raw_gloss": "필리핀의 별칭"
+    },
+    {
+      "id": "v501_0127_arm_twisting",
+      "word": "arm-twisting",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "강요",
+        "하는"
+      ],
+      "source_page": 2,
+      "raw_gloss": "강요(하는)"
+    },
+    {
+      "id": "v501_0128_armageddon",
+      "word": "Armageddon",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "아마겟돈",
+        "심판의 날"
+      ],
+      "source_page": 2,
+      "raw_gloss": "아마겟돈, 심판의 날"
+    },
+    {
+      "id": "v501_0129_apocalyptic",
+      "word": "apocalyptic",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "종말론적인",
+        "종말론적",
+        "종말론"
+      ],
+      "source_page": 2,
+      "raw_gloss": "종말론적인"
+    },
+    {
+      "id": "v501_0130_apocalypse",
+      "word": "apocalypse",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "사회적 대변동"
+      ],
+      "source_page": 2,
+      "raw_gloss": "사회적 대변동"
+    },
+    {
+      "id": "v501_0131_armistice",
+      "word": "armistice",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "휴전"
+      ],
+      "source_page": 2,
+      "raw_gloss": "휴전"
+    },
+    {
+      "id": "v501_0132_cease_fire",
+      "word": "cease-fire",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "휴전"
+      ],
+      "source_page": 2,
+      "raw_gloss": "휴전"
+    },
+    {
+      "id": "v501_0133_arraign",
+      "word": "arraign",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "소환하다",
+        "소환"
+      ],
+      "source_page": 2,
+      "raw_gloss": "소환하다"
+    },
+    {
+      "id": "v501_0134_summon",
+      "word": "summon",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "소환하다",
+        "소환",
+        "소환장"
+      ],
+      "source_page": 2,
+      "raw_gloss": "소환하다; 소환장"
+    },
+    {
+      "id": "v501_0135_subpoena",
+      "word": "subpoena",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "소환하다",
+        "소환",
+        "소환장"
+      ],
+      "source_page": 2,
+      "raw_gloss": "소환하다; 소환장"
+    },
+    {
+      "id": "v501_0136_arrear_s",
+      "word": "arrear(s)",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "연체금"
+      ],
+      "source_page": 2,
+      "raw_gloss": "연체금"
+    },
+    {
+      "id": "v501_0137_arrest",
+      "word": "arrest",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포",
+        "저지하다",
+        "저지"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다; 저지하다"
+    },
+    {
+      "id": "v501_0138_apprehend",
+      "word": "apprehend",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포",
+        "염려하다",
+        "염려",
+        "이해하다",
+        "이해"
+      ],
+      "source_page": 2,
+      "raw_gloss": "체포하다; 염려하다; 이해하다"
+    },
+    {
+      "id": "v501_0139_arsenal",
+      "word": "arsenal",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "무기고",
+        "무기의 총량"
+      ],
+      "source_page": 2,
+      "raw_gloss": "무기고; 무기의 총량"
+    },
+    {
+      "id": "v501_0140_ascend",
+      "word": "ascend",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "상승하다",
+        "상승"
+      ],
+      "source_page": 2,
+      "raw_gloss": "상승하다"
+    },
+    {
+      "id": "v501_0141_aspersion",
+      "word": "aspersion",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "비방"
+      ],
+      "source_page": 2,
+      "raw_gloss": "비방"
+    },
+    {
+      "id": "v501_0142_assiduous",
+      "word": "assiduous",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "끈기 있는"
+      ],
+      "source_page": 2,
+      "raw_gloss": "끈기 있는"
+    },
+    {
+      "id": "v501_0143_assisted_suicide",
+      "word": "assisted suicide",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "자살방조"
+      ],
+      "source_page": 2,
+      "raw_gloss": "자살방조"
+    },
+    {
+      "id": "v501_0144_euthanasia",
+      "word": "euthanasia",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "안락사",
+        "자살방조"
+      ],
+      "source_page": 2,
+      "raw_gloss": "안락사; 자살방조"
+    },
+    {
+      "id": "v501_0145_mercy_killing",
+      "word": "mercy killing",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "안락사",
+        "자살방조"
+      ],
+      "source_page": 2,
+      "raw_gloss": "안락사; 자살방조"
+    },
+    {
+      "id": "v501_0146_jack_kevorkian",
+      "word": "Jack Kevorkian",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "안락사 실행으로 유명한 미국병리학자"
+      ],
+      "source_page": 2,
+      "raw_gloss": "안락사 실행으로 유명한 미국병리학자"
+    },
+    {
+      "id": "v501_0147_associate",
+      "word": "associate",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "동료",
+        "준회원"
+      ],
+      "source_page": 2,
+      "raw_gloss": "동료, 준회원"
+    },
+    {
+      "id": "v501_0148_assuage",
+      "word": "assuage",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "완화하다",
+        "완화"
+      ],
+      "source_page": 2,
+      "raw_gloss": "완화하다"
+    },
+    {
+      "id": "v501_0149_asylum",
+      "word": "asylum",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "망명. 은신처"
+      ],
+      "source_page": 2,
+      "raw_gloss": "망명. 은신처"
+    },
+    {
+      "id": "v501_0150_atone",
+      "word": "atone",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "보상하다",
+        "보상"
+      ],
+      "source_page": 2,
+      "raw_gloss": "보상하다"
+    },
+    {
+      "id": "v501_0151_compensate_for",
+      "word": "compensate for",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "보상하다",
+        "보상"
+      ],
+      "source_page": 2,
+      "raw_gloss": "보상하다"
+    },
+    {
+      "id": "v501_0152_atrocity",
+      "word": "atrocity",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "잔악행위"
+      ],
+      "source_page": 2,
+      "raw_gloss": "잔악행위"
+    },
+    {
+      "id": "v501_0153_wartime_atrocity",
+      "word": "wartime atrocity",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "전시 잔학행위"
+      ],
+      "source_page": 2,
+      "raw_gloss": "전시(戰時) 잔학행위"
+    },
+    {
+      "id": "v501_0154_attrition",
+      "word": "attrition",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "소모",
+        "자연발생 실업"
+      ],
+      "source_page": 2,
+      "raw_gloss": "소모; 자연발생 실업"
+    },
+    {
+      "id": "v501_0155_war_of_attrition",
+      "word": "war of attrition",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "소모전"
+      ],
+      "source_page": 2,
+      "raw_gloss": "소모전"
+    },
+    {
+      "id": "v501_0156_attune",
+      "word": "attune",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "조율하다",
+        "조율"
+      ],
+      "source_page": 2,
+      "raw_gloss": "조율하다"
+    },
+    {
+      "id": "v501_0157_audacious",
+      "word": "audacious",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "대담한",
+        "대담"
+      ],
+      "source_page": 2,
+      "raw_gloss": "대담한"
+    },
+    {
+      "id": "v501_0158_invincible",
+      "word": "invincible",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "대담한",
+        "대담",
+        "무적의"
+      ],
+      "source_page": 2,
+      "raw_gloss": "대담한; 무적의"
+    },
+    {
+      "id": "v501_0159_august",
+      "word": "august",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "당당한",
+        "당당"
+      ],
+      "source_page": 2,
+      "raw_gloss": "당당한"
+    },
+    {
+      "id": "v501_0160_auspice",
+      "word": "auspice",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "후원"
+      ],
+      "source_page": 2,
+      "raw_gloss": "후원"
+    },
+    {
+      "id": "v501_0161_austerity_measure",
+      "word": "austerity measure",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "긴축정책"
+      ],
+      "source_page": 2,
+      "raw_gloss": "긴축정책"
+    },
+    {
+      "id": "v501_0162_authorities",
+      "word": "authorities",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "당국"
+      ],
+      "source_page": 2,
+      "raw_gloss": "당국"
+    },
+    {
+      "id": "v501_0163_anti_dumping_duties",
+      "word": "anti-dumping duties",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "반덤핑 관세"
+      ],
+      "source_page": 2,
+      "raw_gloss": "반덤핑 관세"
+    },
+    {
+      "id": "v501_0164_antitrust_law",
+      "word": "antitrust law",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "독점금지법"
+      ],
+      "source_page": 2,
+      "raw_gloss": "독점금지법"
+    },
+    {
+      "id": "v501_0165_apparatchik",
+      "word": "apparatchik",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "공산당 기관원"
+      ],
+      "source_page": 2,
+      "raw_gloss": "공산당 기관원"
+    },
+    {
+      "id": "v501_0166_appellate_court",
+      "word": "appellate court",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "상소법원"
+      ],
+      "source_page": 2,
+      "raw_gloss": "상소법원"
+    },
+    {
+      "id": "v501_0167_arms_buildup",
+      "word": "arms buildup",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "군비 증강"
+      ],
+      "source_page": 2,
+      "raw_gloss": "군비(軍備) 증강"
+    },
+    {
+      "id": "v501_0168_arms_race",
+      "word": "arms race",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "군비 경쟁"
+      ],
+      "source_page": 2,
+      "raw_gloss": "군비 경쟁"
+    },
+    {
+      "id": "v501_0169_artificial_insemination",
+      "word": "artificial insemination",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "인공수정",
+        "AI"
+      ],
+      "source_page": 2,
+      "raw_gloss": "인공수정 (AI)"
+    },
+    {
+      "id": "v501_0170_artificial_intelligence",
+      "word": "artificial intelligence",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "인공지능",
+        "AI"
+      ],
+      "source_page": 2,
+      "raw_gloss": "인공지능 (AI)"
+    },
+    {
+      "id": "v501_0171_attorney_client_privilege",
+      "word": "attorney-client privilege",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "변호사의 묵비권"
+      ],
+      "source_page": 2,
+      "raw_gloss": "변호사의 묵비권"
+    },
+    {
+      "id": "v501_0172_auschwitz",
+      "word": "Auschwitz",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "아우슈비츠"
+      ],
+      "source_page": 2,
+      "raw_gloss": "아우슈비츠"
+    },
+    {
+      "id": "v501_0173_new_normal",
+      "word": "new normal",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "시대 변화에 따라 새롭게 떠오르는 기준 또는 표준",
+        "시대 변화에 따라 새롭게 떠오르는 기준",
+        "표준"
+      ],
+      "source_page": 2,
+      "raw_gloss": "시대 변화에 따라 새롭게 떠오르는 기준 또는 표준"
+    },
+    {
+      "id": "v501_0174_authoritarian",
+      "word": "authoritarian",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "권위주의적인",
+        "권위주의적",
+        "권위주의"
+      ],
+      "source_page": 3,
+      "raw_gloss": "권위주의적인"
+    },
+    {
+      "id": "v501_0175_authoritative",
+      "word": "authoritative",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "권위 있는",
+        "전문가의"
+      ],
+      "source_page": 3,
+      "raw_gloss": "권위 있는; 전문가의"
+    },
+    {
+      "id": "v501_0176_autocrat",
+      "word": "autocrat",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "독재자"
+      ],
+      "source_page": 3,
+      "raw_gloss": "독재자"
+    },
+    {
+      "id": "v501_0177_dictator",
+      "word": "dictator",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "독재자"
+      ],
+      "source_page": 3,
+      "raw_gloss": "독재자"
+    },
+    {
+      "id": "v501_0178_despot",
+      "word": "despot",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "독재자"
+      ],
+      "source_page": 3,
+      "raw_gloss": "독재자"
+    },
+    {
+      "id": "v501_0179_autonomy",
+      "word": "autonomy",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "자치",
+        "지방"
+      ],
+      "source_page": 3,
+      "raw_gloss": "(지방)자치"
+    },
+    {
+      "id": "v501_0180_avail",
+      "word": "avail",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "소용",
+        "쓸모"
+      ],
+      "source_page": 3,
+      "raw_gloss": "소용, 쓸모"
+    },
+    {
+      "id": "v501_0181_avalanche",
+      "word": "avalanche",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "눈사태"
+      ],
+      "source_page": 3,
+      "raw_gloss": "눈사태"
+    },
+    {
+      "id": "v501_0182_landslide",
+      "word": "landslide",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "산사태l 압승"
+      ],
+      "source_page": 3,
+      "raw_gloss": "산사태l 압승"
+    },
+    {
+      "id": "v501_0183_mudslide",
+      "word": "mudslide",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "진흙 사태"
+      ],
+      "source_page": 3,
+      "raw_gloss": "진흙 사태"
+    },
+    {
+      "id": "v501_0184_avert",
+      "word": "avert",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "피하다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "피하다"
+    },
+    {
+      "id": "v501_0185_shun",
+      "word": "shun",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "피하다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "피하다"
+    },
+    {
+      "id": "v501_0186_awareness_campaign",
+      "word": "awareness campaign",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "계몽운동"
+      ],
+      "source_page": 3,
+      "raw_gloss": "계몽운동"
+    },
+    {
+      "id": "v501_0187_axiom",
+      "word": "axiom",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "격언",
+        "이치에 맞는 말"
+      ],
+      "source_page": 3,
+      "raw_gloss": "격언, 이치에 맞는 말"
+    },
+    {
+      "id": "v501_0188_axiomatic",
+      "word": "axiomatic",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "자명한",
+        "자명"
+      ],
+      "source_page": 3,
+      "raw_gloss": "자명한"
+    },
+    {
+      "id": "v501_0189_ay_e",
+      "word": "ay(e)",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "찬성",
+        "자"
+      ],
+      "source_page": 3,
+      "raw_gloss": "찬성(자)"
+    },
+    {
+      "id": "v501_0190_backbiting",
+      "word": "backbiting",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "험담"
+      ],
+      "source_page": 3,
+      "raw_gloss": "험담"
+    },
+    {
+      "id": "v501_0191_backdrop",
+      "word": "backdrop",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "배경"
+      ],
+      "source_page": 3,
+      "raw_gloss": "배경"
+    },
+    {
+      "id": "v501_0192_backlog",
+      "word": "backlog",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "예비"
+      ],
+      "source_page": 3,
+      "raw_gloss": "예비"
+    },
+    {
+      "id": "v501_0193_backpedal",
+      "word": "backpedal",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "약속을 철회하다",
+        "약속을 철회",
+        "후퇴하다",
+        "후퇴"
+      ],
+      "source_page": 3,
+      "raw_gloss": "약속을 철회하다; 후퇴하다"
+    },
+    {
+      "id": "v501_0194_back_to_back",
+      "word": "back-to-back",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "연이은",
+        "연속의"
+      ],
+      "source_page": 3,
+      "raw_gloss": "연이은, 연속의"
+    },
+    {
+      "id": "v501_0195_backwater",
+      "word": "backwater",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "낙후지역"
+      ],
+      "source_page": 3,
+      "raw_gloss": "낙후지역"
+    },
+    {
+      "id": "v501_0196_baffle",
+      "word": "baffle",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "당황하게 만들다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "당황하게 만들다"
+    },
+    {
+      "id": "v501_0197_bail",
+      "word": "bail",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "구조해주다",
+        "보석",
+        "석방하다",
+        "석방"
+      ],
+      "source_page": 3,
+      "raw_gloss": "구조해주다; 보석(석방하다)"
+    },
+    {
+      "id": "v501_0198_bailout",
+      "word": "bailout",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "긴급원조자금",
+        "구제금융"
+      ],
+      "source_page": 3,
+      "raw_gloss": "긴급원조자금, 구제금융"
+    },
+    {
+      "id": "v501_0199_balk_at",
+      "word": "balk at",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "주저하다",
+        "주저"
+      ],
+      "source_page": 3,
+      "raw_gloss": "주저하다"
+    },
+    {
+      "id": "v501_0200_ballistic_missile",
+      "word": "ballistic missile",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "탄도미사일"
+      ],
+      "source_page": 3,
+      "raw_gloss": "탄도미사일"
+    },
+    {
+      "id": "v501_0201_ballot",
+      "word": "ballot",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "투표",
+        "용지"
+      ],
+      "source_page": 3,
+      "raw_gloss": "투표(용지)"
+    },
+    {
+      "id": "v501_0202_ballyhoo",
+      "word": "ballyhoo",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "과대선전",
+        "하다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "과대선전(하다)"
+    },
+    {
+      "id": "v501_0203_baloney",
+      "word": "baloney",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "헛소리"
+      ],
+      "source_page": 3,
+      "raw_gloss": "헛소리"
+    },
+    {
+      "id": "v501_0204_boloney",
+      "word": "boloney",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "헛소리"
+      ],
+      "source_page": 3,
+      "raw_gloss": "헛소리"
+    },
+    {
+      "id": "v501_0205_bankroll",
+      "word": "bankroll",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "자금을 제공하다",
+        "자금을 제공"
+      ],
+      "source_page": 3,
+      "raw_gloss": "자금을 제공하다"
+    },
+    {
+      "id": "v501_0206_bar",
+      "word": "bar",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 제외하고",
+        "을 제외하고",
+        "제외하고",
+        "금지하다",
+        "금지",
+        "변호사업"
+      ],
+      "source_page": 3,
+      "raw_gloss": "-을 제외하고; 금지하다; 변호사업"
+    },
+    {
+      "id": "v501_0207_barbed_wire",
+      "word": "barbed wire",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "철조망"
+      ],
+      "source_page": 3,
+      "raw_gloss": "철조망"
+    },
+    {
+      "id": "v501_0208_bare_knuckled",
+      "word": "bare-knuckled",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "맨주먹의",
+        "인정사정없는"
+      ],
+      "source_page": 3,
+      "raw_gloss": "맨주먹의; 인정사정없는"
+    },
+    {
+      "id": "v501_0209_bargaining_chip",
+      "word": "bargaining chip",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "협상카드"
+      ],
+      "source_page": 3,
+      "raw_gloss": "협상카드"
+    },
+    {
+      "id": "v501_0210_barnstorm",
+      "word": "barnstorm",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "지방 유세하다",
+        "지방 유세",
+        "순회공연하다",
+        "순회공연"
+      ],
+      "source_page": 3,
+      "raw_gloss": "지방 유세하다; 순회공연하다"
+    },
+    {
+      "id": "v501_0211_barracks",
+      "word": "barracks",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "막사 [단복수 동형]"
+      ],
+      "source_page": 3,
+      "raw_gloss": "막사 [단복수 동형]"
+    },
+    {
+      "id": "v501_0212_barrage",
+      "word": "barrage",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "일제사격"
+      ],
+      "source_page": 3,
+      "raw_gloss": "일제사격"
+    },
+    {
+      "id": "v501_0213_barren_of",
+      "word": "barren of",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "결핍된",
+        "-이 없는",
+        "이 없는",
+        "없는"
+      ],
+      "source_page": 3,
+      "raw_gloss": "결핍된, -이 없는"
+    },
+    {
+      "id": "v501_0214_barring",
+      "word": "barring",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 제외하고는",
+        "을 제외하고는",
+        "제외하고는"
+      ],
+      "source_page": 3,
+      "raw_gloss": "-을 제외하고는"
+    },
+    {
+      "id": "v501_0215_barrister",
+      "word": "barrister",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "변호사"
+      ],
+      "source_page": 3,
+      "raw_gloss": "변호사"
+    },
+    {
+      "id": "v501_0216_solicitor",
+      "word": "solicitor",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "사무변호사",
+        "하급"
+      ],
+      "source_page": 3,
+      "raw_gloss": "(하급) 사무변호사"
+    },
+    {
+      "id": "v501_0217_bashing",
+      "word": "bashing",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "때리기",
+        "괴롭히기"
+      ],
+      "source_page": 3,
+      "raw_gloss": "때리기, 괴롭히기"
+    },
+    {
+      "id": "v501_0218_china_bashing",
+      "word": "China-bashing",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "중국 때리기"
+      ],
+      "source_page": 3,
+      "raw_gloss": "중국 때리기"
+    },
+    {
+      "id": "v501_0219_bask",
+      "word": "bask",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "즐기다",
+        "햇볕,혜택을"
+      ],
+      "source_page": 3,
+      "raw_gloss": "(햇볕, 혜택을) 즐기다"
+    },
+    {
+      "id": "v501_0220_bastion",
+      "word": "bastion",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "요새",
+        "성벽"
+      ],
+      "source_page": 3,
+      "raw_gloss": "요새, 성벽"
+    },
+    {
+      "id": "v501_0221_battalion",
+      "word": "battalion",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "대대"
+      ],
+      "source_page": 3,
+      "raw_gloss": "대대(大隊)"
+    },
+    {
+      "id": "v501_0222_be_that_as_it_may",
+      "word": "be that as it may",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "비록 그렇다할지라도",
+        "여하 간에"
+      ],
+      "source_page": 3,
+      "raw_gloss": "비록 그렇다할지라도, 여하 간에"
+    },
+    {
+      "id": "v501_0223_be_all_and_end_all",
+      "word": "be-all (and end-all)",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "가장 중요한 것",
+        "핵심"
+      ],
+      "source_page": 3,
+      "raw_gloss": "가장 중요한 것, 핵심"
+    },
+    {
+      "id": "v501_0224_beachhead",
+      "word": "beachhead",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "교두보",
+        "상륙거점"
+      ],
+      "source_page": 3,
+      "raw_gloss": "교두보; 상륙거점"
+    },
+    {
+      "id": "v501_0225_bridgehead",
+      "word": "bridgehead",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "교두보",
+        "상륙거점"
+      ],
+      "source_page": 3,
+      "raw_gloss": "교두보; 상륙거점"
+    },
+    {
+      "id": "v501_0226_foothold",
+      "word": "foothold",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "교두보",
+        "상륙거점"
+      ],
+      "source_page": 3,
+      "raw_gloss": "교두보; 상륙거점"
+    },
+    {
+      "id": "v501_0227_bear",
+      "word": "bear",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "결실을 맺다",
+        "참다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "결실을 맺다; 참다"
+    },
+    {
+      "id": "v501_0228_bearish",
+      "word": "bearish",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "약세인",
+        "주식이"
+      ],
+      "source_page": 3,
+      "raw_gloss": "(주식이) 약세인"
+    },
+    {
+      "id": "v501_0229_bullish",
+      "word": "bullish",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "강세인",
+        "주식이"
+      ],
+      "source_page": 3,
+      "raw_gloss": "(주식이) 강세인"
+    },
+    {
+      "id": "v501_0230_bedrock",
+      "word": "bedrock",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "암반",
+        "기반",
+        "기초",
+        "의"
+      ],
+      "source_page": 3,
+      "raw_gloss": "암반(巖盤); 기반, 기초(의)"
+    },
+    {
+      "id": "v501_0231_behead",
+      "word": "behead",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "참수 하다",
+        "참수"
+      ],
+      "source_page": 3,
+      "raw_gloss": "참수(斬首)하다"
+    },
+    {
+      "id": "v501_0232_behemoth",
+      "word": "behemoth",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "강력한 것",
+        "거대한 것"
+      ],
+      "source_page": 3,
+      "raw_gloss": "강력한 것, 거대한 것"
+    },
+    {
+      "id": "v501_0233_colossus",
+      "word": "colossus",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "큰 조각상",
+        "거대한 것"
+      ],
+      "source_page": 3,
+      "raw_gloss": "큰 조각상; 거대한 것"
+    },
+    {
+      "id": "v501_0234_behest",
+      "word": "behest",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "부탁"
+      ],
+      "source_page": 3,
+      "raw_gloss": "부탁"
+    },
+    {
+      "id": "v501_0235_behind_the_scenes",
+      "word": "behind-the-scenes",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "막후의",
+        "막후협상"
+      ],
+      "source_page": 3,
+      "raw_gloss": "막후의, 막후협상"
+    },
+    {
+      "id": "v501_0236_behind_the_curtain",
+      "word": "behind-the-curtain",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "막후의",
+        "막후협상"
+      ],
+      "source_page": 3,
+      "raw_gloss": "막후의, 막후협상"
+    },
+    {
+      "id": "v501_0237_closed_door_talks",
+      "word": "closed-door talks",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "막후의",
+        "막후협상"
+      ],
+      "source_page": 3,
+      "raw_gloss": "막후의, 막후협상"
+    },
+    {
+      "id": "v501_0238_beholden_to",
+      "word": "beholden to",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "은혜를 입은"
+      ],
+      "source_page": 3,
+      "raw_gloss": "은혜를 입은"
+    },
+    {
+      "id": "v501_0239_behoove",
+      "word": "behoove",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "-하는 것이 의무이다",
+        "하는 것이 의무이다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "-하는 것이 의무이다"
+    },
+    {
+      "id": "v501_0240_belch",
+      "word": "belch",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "분출하다",
+        "분출",
+        "내뿜다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "분출하다, 내뿜다"
+    },
+    {
+      "id": "v501_0241_spew",
+      "word": "spew",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "분출하다",
+        "분출",
+        "내뿜다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "분출하다, 내뿜다"
+    },
+    {
+      "id": "v501_0242_beleaguer",
+      "word": "beleaguer",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "포위하다",
+        "포위"
+      ],
+      "source_page": 3,
+      "raw_gloss": "포위하다"
+    },
+    {
+      "id": "v501_0243_belie",
+      "word": "belie",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "거짓임을 드러내다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "거짓임을 드러내다"
+    },
+    {
+      "id": "v501_0244_belittle",
+      "word": "belittle",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "얕보다",
+        "업신여기다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "얕보다, 업신여기다"
+    },
+    {
+      "id": "v501_0245_belligerent",
+      "word": "belligerent",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "호전적인",
+        "호전적",
+        "호전"
+      ],
+      "source_page": 3,
+      "raw_gloss": "호전적인"
+    },
+    {
+      "id": "v501_0246_bellwether",
+      "word": "bellwether",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "선도자",
+        "앞날의 징후"
+      ],
+      "source_page": 3,
+      "raw_gloss": "선도자; 앞날의 징후"
+    },
+    {
+      "id": "v501_0247_belt_tightening_measures",
+      "word": "belt-tightening measures",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "긴축정책"
+      ],
+      "source_page": 3,
+      "raw_gloss": "긴축정책"
+    },
+    {
+      "id": "v501_0248_bail_bond",
+      "word": "bail bond",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "보석 보증서"
+      ],
+      "source_page": 3,
+      "raw_gloss": "보석(保釋) 보증서"
+    },
+    {
+      "id": "v501_0249_bailsman",
+      "word": "bailsman",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "보석 보증인"
+      ],
+      "source_page": 3,
+      "raw_gloss": "보석(保釋) 보증인"
+    },
+    {
+      "id": "v501_0250_the_baltic_states",
+      "word": "the Baltic states",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "발트해 연안에 위치한 3국"
+      ],
+      "source_page": 3,
+      "raw_gloss": "발트해 연안에 위치한 3국"
+    },
+    {
+      "id": "v501_0251_the_bar_association",
+      "word": "the bar association",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "변호사협회"
+      ],
+      "source_page": 3,
+      "raw_gloss": "변호사협회"
+    },
+    {
+      "id": "v501_0252_the_beltway",
+      "word": "the Beltway",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "워싱턴 외곽 순환도로",
+        "미국 정계"
+      ],
+      "source_page": 3,
+      "raw_gloss": "워싱턴 외곽 순환도로; 미국 정계(政界)"
+    },
+    {
+      "id": "v501_0253_bench",
+      "word": "bench",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "판사석"
+      ],
+      "source_page": 4,
+      "raw_gloss": "판사석"
+    },
+    {
+      "id": "v501_0254_benchmark",
+      "word": "benchmark",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "기준",
+        "점"
+      ],
+      "source_page": 4,
+      "raw_gloss": "기준(점)"
+    },
+    {
+      "id": "v501_0255_benefactor",
+      "word": "benefactor",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "기부자",
+        "후원자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "기부자, 후원자"
+    },
+    {
+      "id": "v501_0256_beneficiary",
+      "word": "beneficiary",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "수혜자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "수혜자"
+    },
+    {
+      "id": "v501_0257_beneficent",
+      "word": "beneficent",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "자비로운",
+        "인정 많은"
+      ],
+      "source_page": 4,
+      "raw_gloss": "자비로운, 인정 많은"
+    },
+    {
+      "id": "v501_0258_maleficent",
+      "word": "maleficent",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "유해한",
+        "유해",
+        "나쁜"
+      ],
+      "source_page": 4,
+      "raw_gloss": "유해한, 나쁜"
+    },
+    {
+      "id": "v501_0259_benevolent",
+      "word": "benevolent",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "친절한",
+        "친절",
+        "관대한",
+        "관대"
+      ],
+      "source_page": 4,
+      "raw_gloss": "친절한, 관대한"
+    },
+    {
+      "id": "v501_0260_malevolent",
+      "word": "malevolent",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "악의적인",
+        "악의적",
+        "악의",
+        "심술궂은"
+      ],
+      "source_page": 4,
+      "raw_gloss": "악의적인, 심술궂은"
+    },
+    {
+      "id": "v501_0261_benign",
+      "word": "benign",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "다정한",
+        "다정",
+        "양성의",
+        "병이"
+      ],
+      "source_page": 4,
+      "raw_gloss": "다정한; (병이) 양성의"
+    },
+    {
+      "id": "v501_0262_malign",
+      "word": "malign",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "비난하다",
+        "비난",
+        "악성인",
+        "병이"
+      ],
+      "source_page": 4,
+      "raw_gloss": "비난하다; (병이) 악성인"
+    },
+    {
+      "id": "v501_0263_benignant",
+      "word": "benignant",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "자비로운"
+      ],
+      "source_page": 4,
+      "raw_gloss": "자비로운"
+    },
+    {
+      "id": "v501_0264_bent",
+      "word": "bent",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "열심인",
+        "열중하는"
+      ],
+      "source_page": 4,
+      "raw_gloss": "열심인, 열중하는"
+    },
+    {
+      "id": "v501_0265_bereave",
+      "word": "bereave",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "빼앗다",
+        "가족을"
+      ],
+      "source_page": 4,
+      "raw_gloss": "(가족을) 빼앗다"
+    },
+    {
+      "id": "v501_0266_berserk",
+      "word": "berserk",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "화가 나서 날뛰는"
+      ],
+      "source_page": 4,
+      "raw_gloss": "화가 나서 날뛰는"
+    },
+    {
+      "id": "v501_0267_beset",
+      "word": "beset",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "괴롭히다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "괴롭히다"
+    },
+    {
+      "id": "v501_0268_besiege",
+      "word": "besiege",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "포위 공격하다",
+        "포위 공격"
+      ],
+      "source_page": 4,
+      "raw_gloss": "포위 공격하다"
+    },
+    {
+      "id": "v501_0269_betray",
+      "word": "betray",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "무심코 드러내다",
+        "배반하다",
+        "배반"
+      ],
+      "source_page": 4,
+      "raw_gloss": "무심코 드러내다; 배반하다"
+    },
+    {
+      "id": "v501_0270_betrayal",
+      "word": "betrayal",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배반",
+        "배신"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배반, 배신"
+    },
+    {
+      "id": "v501_0271_perfidy",
+      "word": "perfidy",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배반",
+        "배신"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배반, 배신"
+    },
+    {
+      "id": "v501_0272_treachery",
+      "word": "treachery",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배반",
+        "배신"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배반, 배신"
+    },
+    {
+      "id": "v501_0273_treason",
+      "word": "treason",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배반",
+        "배신"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배반, 배신"
+    },
+    {
+      "id": "v501_0274_betrayer",
+      "word": "betrayer",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자"
+    },
+    {
+      "id": "v501_0275_proselyte",
+      "word": "proselyte",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자"
+    },
+    {
+      "id": "v501_0276_quisling",
+      "word": "quisling",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자"
+    },
+    {
+      "id": "v501_0277_recreant",
+      "word": "recreant",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자"
+    },
+    {
+      "id": "v501_0278_renegade",
+      "word": "renegade",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "변절자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "변절자"
+    },
+    {
+      "id": "v501_0279_traitor",
+      "word": "traitor",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자",
+        "매국노"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자, 매국노"
+    },
+    {
+      "id": "v501_0280_turncoat",
+      "word": "turncoat",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자"
+    },
+    {
+      "id": "v501_0281_bicameral",
+      "word": "bicameral",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "양원제의",
+        "의회"
+      ],
+      "source_page": 4,
+      "raw_gloss": "(의회) 양원제의"
+    },
+    {
+      "id": "v501_0282_big_brother",
+      "word": "Big Brother",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "독재 감시자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "독재 감시자"
+    },
+    {
+      "id": "v501_0283_big_gun",
+      "word": "big gun",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "유력자",
+        "실력자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "유력자, 실력자"
+    },
+    {
+      "id": "v501_0284_big_ticket",
+      "word": "big-ticket",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "고가의"
+      ],
+      "source_page": 4,
+      "raw_gloss": "고가의"
+    },
+    {
+      "id": "v501_0285_big_time",
+      "word": "big-time",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "일류의",
+        "최고의"
+      ],
+      "source_page": 4,
+      "raw_gloss": "일류의, 최고의"
+    },
+    {
+      "id": "v501_0286_bigwig",
+      "word": "bigwig",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "거물",
+        "중요인물"
+      ],
+      "source_page": 4,
+      "raw_gloss": "거물, 중요인물"
+    },
+    {
+      "id": "v501_0287_binge",
+      "word": "binge",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "술잔치",
+        "대소동",
+        "야단"
+      ],
+      "source_page": 4,
+      "raw_gloss": "술잔치, 대소동, 야단"
+    },
+    {
+      "id": "v501_0288_bite",
+      "word": "bite",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "비난하다",
+        "비난",
+        "효과를 나타내다",
+        "정책이"
+      ],
+      "source_page": 4,
+      "raw_gloss": "비난하다; (정책이) 효과를 나타내다"
+    },
+    {
+      "id": "v501_0289_blackball",
+      "word": "blackball",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "반대투표",
+        "하다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "반대투표(하다)"
+    },
+    {
+      "id": "v501_0290_blackmail",
+      "word": "blackmail",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "협박하다",
+        "협박"
+      ],
+      "source_page": 4,
+      "raw_gloss": "협박하다"
+    },
+    {
+      "id": "v501_0291_blank_check",
+      "word": "blank check",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "백지수표",
+        "자유행동권"
+      ],
+      "source_page": 4,
+      "raw_gloss": "백지수표; 자유행동권"
+    },
+    {
+      "id": "v501_0292_blanket",
+      "word": "blanket",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "총괄적인",
+        "총괄적",
+        "총괄",
+        "포괄적인",
+        "포괄적",
+        "포괄"
+      ],
+      "source_page": 4,
+      "raw_gloss": "총괄적인, 포괄적인"
+    },
+    {
+      "id": "v501_0293_blast",
+      "word": "blast",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "격렬하게 비난하다",
+        "격렬하게 비난"
+      ],
+      "source_page": 4,
+      "raw_gloss": "격렬하게 비난하다"
+    },
+    {
+      "id": "v501_0294_blemish",
+      "word": "blemish",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "상처",
+        "오점",
+        "더럽히다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "상처, 오점, 더럽히다"
+    },
+    {
+      "id": "v501_0295_blight",
+      "word": "blight",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "파괴하다",
+        "파괴",
+        "고사 시키다",
+        "고사",
+        "꺾다",
+        "희망"
+      ],
+      "source_page": 4,
+      "raw_gloss": "파괴하다; 고사(枯死)시키다; (희망) 꺾다"
+    },
+    {
+      "id": "v501_0296_blindside",
+      "word": "blindside",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "측면을 공격하다",
+        "측면을 공격",
+        "기습공격하다",
+        "기습공격",
+        "약점인"
+      ],
+      "source_page": 4,
+      "raw_gloss": "(약점인) 측면을 공격하다; 기습공격하다"
+    },
+    {
+      "id": "v501_0297_broadside",
+      "word": "broadside",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "맹공",
+        "맹렬한 비난",
+        "일제히"
+      ],
+      "source_page": 4,
+      "raw_gloss": "맹공; 맹렬한 비난; 일제히"
+    },
+    {
+      "id": "v501_0298_blink",
+      "word": "blink",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "눈을 깜박이다",
+        "항복하다",
+        "항복",
+        "눈싸움에서"
+      ],
+      "source_page": 4,
+      "raw_gloss": "(눈싸움에서) 눈을 깜박이다; 항복하다"
+    },
+    {
+      "id": "v501_0299_blitz",
+      "word": "blitz",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "맹공",
+        "급습",
+        "하다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "맹공; 급습(하다)"
+    },
+    {
+      "id": "v501_0300_blitzkrieg",
+      "word": "blitzkrieg",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "기습공격"
+      ],
+      "source_page": 4,
+      "raw_gloss": "기습공격"
+    },
+    {
+      "id": "v501_0301_bloated",
+      "word": "bloated",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "비대한",
+        "비대"
+      ],
+      "source_page": 4,
+      "raw_gloss": "비대한"
+    },
+    {
+      "id": "v501_0302_blockade",
+      "word": "blockade",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "봉쇄"
+      ],
+      "source_page": 4,
+      "raw_gloss": "봉쇄"
+    },
+    {
+      "id": "v501_0303_bloodbath",
+      "word": "bloodbath",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "숙청",
+        "대학살"
+      ],
+      "source_page": 4,
+      "raw_gloss": "숙청, 대학살"
+    },
+    {
+      "id": "v501_0304_bloodletting",
+      "word": "bloodletting",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "유혈사태"
+      ],
+      "source_page": 4,
+      "raw_gloss": "유혈사태"
+    },
+    {
+      "id": "v501_0305_bloodshed",
+      "word": "bloodshed",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "유혈사태"
+      ],
+      "source_page": 4,
+      "raw_gloss": "유혈사태"
+    },
+    {
+      "id": "v501_0306_blotch",
+      "word": "blotch",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "더럽히다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "더럽히다"
+    },
+    {
+      "id": "v501_0307_blow",
+      "word": "blow",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "강타"
+      ],
+      "source_page": 4,
+      "raw_gloss": "강타"
+    },
+    {
+      "id": "v501_0308_blue_chip",
+      "word": "blue-chip",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "우량한",
+        "우량",
+        "탁월한",
+        "탁월"
+      ],
+      "source_page": 4,
+      "raw_gloss": "우량한, 탁월한"
+    },
+    {
+      "id": "v501_0309_big_apple",
+      "word": "Big Apple",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "뉴욕시의 별칭"
+      ],
+      "source_page": 4,
+      "raw_gloss": "뉴욕시의 별칭"
+    },
+    {
+      "id": "v501_0310_big_board",
+      "word": "Big Board",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "NYSE",
+        "뉴욕 증권 거래소"
+      ],
+      "source_page": 4,
+      "raw_gloss": "NYSE, 뉴욕 증권 거래소"
+    },
+    {
+      "id": "v501_0311_naval_blockade",
+      "word": "naval blockade",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "해상봉쇄"
+      ],
+      "source_page": 4,
+      "raw_gloss": "해상봉쇄"
+    },
+    {
+      "id": "v501_0312_blue_chip",
+      "word": "blue chip",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "우량주"
+      ],
+      "source_page": 4,
+      "raw_gloss": "우량주"
+    },
+    {
+      "id": "v501_0313_blue_helmet",
+      "word": "blue helmet",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "유엔의 국제 휴전 감시군"
+      ],
+      "source_page": 4,
+      "raw_gloss": "유엔의 국제 휴전 감시군"
+    },
+    {
+      "id": "v501_0314_the_body_politic",
+      "word": "the body politic",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "완전한 정치적 통일체로서의 국민전체"
+      ],
+      "source_page": 4,
+      "raw_gloss": "완전한 정치적 통일체로서의 국민전체"
+    },
+    {
+      "id": "v501_0315_bond",
+      "word": "bond",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "채권"
+      ],
+      "source_page": 4,
+      "raw_gloss": "채권"
+    },
+    {
+      "id": "v501_0316_bookie",
+      "word": "bookie",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "도박 중개인"
+      ],
+      "source_page": 4,
+      "raw_gloss": "도박 중개인"
+    },
+    {
+      "id": "v501_0317_bookmaker",
+      "word": "bookmaker",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "도박 중개인"
+      ],
+      "source_page": 4,
+      "raw_gloss": "도박 중개인"
+    },
+    {
       "id": "v501_0001_bluff",
       "word": "bluff",
       "book": "V501",
@@ -639099,20 +643161,20 @@
     "quizlet": "quizlet/Mvp1 day1+2(표제어) Flashcards _ Quizlet.pdf"
   },
   "stats": {
-    "entry_count": 19413,
+    "entry_count": 19730,
     "semantic_bucket_count": 690,
     "entries_by_book": {
       "V101": 1981,
       "V201": 1982,
       "V301": 2572,
       "V401": 1969,
-      "V501": 2157,
+      "V501": 2474,
       "V502": 5732,
       "V601": 2920,
       "quizlet": 100
     },
     "entries_by_type": {
-      "flat": 11109,
+      "flat": 11426,
       "semantic": 8304
     },
     "chapter_counts": [
@@ -639540,6 +643602,26 @@
         "book": "V401",
         "chapter": 20,
         "count": 98
+      },
+      {
+        "book": "V501",
+        "chapter": 1,
+        "count": 85
+      },
+      {
+        "book": "V501",
+        "chapter": 2,
+        "count": 88
+      },
+      {
+        "book": "V501",
+        "chapter": 3,
+        "count": 79
+      },
+      {
+        "book": "V501",
+        "chapter": 4,
+        "count": 65
       },
       {
         "book": "V501",
