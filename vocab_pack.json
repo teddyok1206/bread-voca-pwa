@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "generated_at": "2026-09-07T15:20:36Z",
+  "version": "1.1",
+  "generated_at": "2026-09-13T12:44:17Z",
   "entries": [
     {
       "id": "v101_0001_capricious",
@@ -612118,7 +612118,8 @@
         "화음이 좋은",
         "불협화음의",
         "달콤한"
-      ]
+      ],
+      "english_label": "Pleasantness / Unpleasantness"
     },
     {
       "bucket_id": "v301_02",
@@ -612222,7 +612223,8 @@
         "회피하다",
         "방향을 바꾸어 피하다",
         "꾀병을 부려 피하다"
-      ]
+      ],
+      "english_label": "Pursuit / Avoidance"
     },
     {
       "bucket_id": "v301_03",
@@ -612414,7 +612416,8 @@
         "지지론자",
         "비판론자",
         "사소한 점을 두고 비난하다"
-      ]
+      ],
+      "english_label": "Praise / Criticism"
     },
     {
       "bucket_id": "v301_04",
@@ -612551,7 +612554,8 @@
         "혐오하다",
         "적대감",
         "회유할 수 없는"
-      ]
+      ],
+      "english_label": "Flattery / Slander"
     },
     {
       "bucket_id": "v301_05",
@@ -612677,7 +612681,8 @@
         "거짓임을 입증하다",
         "사실임을 주장하다",
         "거짓임을 주장하다"
-      ]
+      ],
+      "english_label": "Proof / Disproof"
     },
     {
       "bucket_id": "v301_06",
@@ -612788,7 +612793,8 @@
         "동의하다",
         "금지하다",
         "퇴짜 놓다"
-      ]
+      ],
+      "english_label": "Approval / Rejection"
     },
     {
       "bucket_id": "v301_07",
@@ -612933,7 +612939,8 @@
         "풍자",
         "불명예스러운, 수치스러운",
         "모욕"
-      ]
+      ],
+      "english_label": "Respect / Contempt"
     },
     {
       "bucket_id": "v301_08",
@@ -613018,7 +613025,8 @@
         "오류의; 거짓의",
         "그럴듯한",
         "그럴듯하지 않은"
-      ]
+      ],
+      "english_label": "Truth / Falsehood"
     },
     {
       "bucket_id": "v301_09",
@@ -613113,7 +613121,8 @@
         "속임수, 핑계",
         "속임수를 쓰지 않는",
         "속임수를 쓰는"
-      ]
+      ],
+      "english_label": "Honesty / Deception"
     },
     {
       "bucket_id": "v301_10",
@@ -613182,7 +613191,8 @@
         "핑계를 대다",
         "감언이설로 속이다",
         "잘못을 바로잡다"
-      ]
+      ],
+      "english_label": "Deception / Correction"
     },
     {
       "bucket_id": "v301_11",
@@ -613243,7 +613253,8 @@
         "잘 속는",
         "의심이 없는",
         "의심할 만한"
-      ]
+      ],
+      "english_label": "Certainty / Doubt"
     },
     {
       "bucket_id": "v301_12",
@@ -613276,7 +613287,8 @@
       "aliases": [
         "충성",
         "배신"
-      ]
+      ],
+      "english_label": "Loyalty / Betrayal"
     },
     {
       "bucket_id": "v301_13",
@@ -613435,7 +613447,8 @@
         "선언하다, 공포(公布)하다",
         "통보하다",
         "감추다"
-      ]
+      ],
+      "english_label": "Disclosure / Secrecy"
     },
     {
       "bucket_id": "v301_14",
@@ -613529,7 +613542,8 @@
         "(총명해서) 이해력이 있는",
         "(명료해서) 이해할 수 있는",
         "난해한"
-      ]
+      ],
+      "english_label": "Comprehensibility / Difficulty"
     },
     {
       "bucket_id": "v301_15",
@@ -613699,7 +613713,8 @@
         "힘, 기력",
         "힘없는, 약한",
         "무기력한"
-      ]
+      ],
+      "english_label": "Vitality / Weakness"
     },
     {
       "bucket_id": "v301_16",
@@ -613771,7 +613786,8 @@
       "aliases": [
         "강화시키다",
         "약화시키다, 쇠약하게 만들다"
-      ]
+      ],
+      "english_label": "Strengthening / Weakening"
     },
     {
       "bucket_id": "v301_17",
@@ -613821,7 +613837,8 @@
       "aliases": [
         "농축하다",
         "빈약하게 만들다, 희박하게 만들다"
-      ]
+      ],
+      "english_label": "Concentration / Dilution"
     },
     {
       "bucket_id": "v301_18",
@@ -613971,7 +613988,8 @@
         "(즐거워서) 흥분한",
         "집착",
         "냉담한"
-      ]
+      ],
+      "english_label": "Passion / Indifference"
     },
     {
       "bucket_id": "v301_19",
@@ -614083,7 +614101,8 @@
         "복종하는; 다루기 쉬운",
         "저항하다, 반항하다",
         "순응하다; 복종하다"
-      ]
+      ],
+      "english_label": "Stubbornness / Compliance"
     },
     {
       "bucket_id": "v301_20",
@@ -614197,7 +614216,8 @@
         "미끄러운",
         "나긋나긋한",
         "잘 부서지는"
-      ]
+      ],
+      "english_label": "Flexibility / Rigidity"
     },
     {
       "bucket_id": "v301_21",
@@ -614414,7 +614434,8 @@
         "호전적인",
         "전쟁광",
         "논쟁을 좋아하는"
-      ]
+      ],
+      "english_label": "Reconciliation / Discord"
     },
     {
       "bucket_id": "v301_22",
@@ -614638,7 +614659,8 @@
         "근심 없는",
         "(악의 없는) 가벼운 조롱",
         "조롱하다"
-      ]
+      ],
+      "english_label": "Joy / Sadness"
     },
     {
       "bucket_id": "v301_23",
@@ -614828,7 +614850,8 @@
         "(성미가) 온화한",
         "화",
         "화를 내다"
-      ]
+      ],
+      "english_label": "Dissatisfaction / Satisfaction"
     },
     {
       "bucket_id": "v301_24",
@@ -615013,7 +615036,8 @@
         "곤경을 해결하다",
         "곤경, 난처한 상황",
         "곤경에 빠뜨리다"
-      ]
+      ],
+      "english_label": "Ease / Difficulty"
     },
     {
       "bucket_id": "v301_25",
@@ -615150,7 +615174,8 @@
         "낭비하다",
         "절약하다",
         "모아서 쌓아두다"
-      ]
+      ],
+      "english_label": "Generosity / Stinginess"
     },
     {
       "bucket_id": "v301_26",
@@ -615249,7 +615274,8 @@
         "상냥한",
         "(태도나 기후가) 온화한",
         "신랄한"
-      ]
+      ],
+      "english_label": "Kindness / Acrimony"
     },
     {
       "bucket_id": "v301_27",
@@ -615524,7 +615550,8 @@
         "경솔함",
         "즉흥적인",
         "즉흥적으로 연주하다"
-      ]
+      ],
+      "english_label": "Caution / Haste"
     },
     {
       "bucket_id": "v301_28",
@@ -615580,7 +615607,8 @@
       "aliases": [
         "돌아다니는",
         "정지한"
-      ]
+      ],
+      "english_label": "Movement / Stillness"
     },
     {
       "bucket_id": "v301_29",
@@ -615673,7 +615701,8 @@
         "건방진",
         "무례한, 불손한",
         "언행(言行)이 상스러운"
-      ]
+      ],
+      "english_label": "Politeness / Rudeness"
     },
     {
       "bucket_id": "v301_30",
@@ -615780,7 +615809,8 @@
         "장식하다",
         "장식이 화려한",
         "장식이 없는, 소박한"
-      ]
+      ],
+      "english_label": "Splendor / Simplicity"
     },
     {
       "bucket_id": "v301_31",
@@ -615961,7 +615991,8 @@
         "아첨하다",
         "아첨하는",
         "아첨꾼"
-      ]
+      ],
+      "english_label": "Arrogance / Humility"
     },
     {
       "bucket_id": "v301_32",
@@ -616091,7 +616122,8 @@
         "호색의, 음란한",
         "금욕주의자",
         "쾌락주의자"
-      ]
+      ],
+      "english_label": "Abstinence / Debauchery"
     },
     {
       "bucket_id": "v301_33",
@@ -616249,7 +616281,8 @@
         "낙담한/풀이 죽은",
         "겁 없는/대담한",
         "용감한"
-      ]
+      ],
+      "english_label": "Timidity / Courage"
     },
     {
       "bucket_id": "v301_34",
@@ -616370,7 +616403,8 @@
       "aliases": [
         "총명한",
         "바보 같은, 어리석은"
-      ]
+      ],
+      "english_label": "Intelligence / Stupidity"
     },
     {
       "bucket_id": "v301_35",
@@ -616474,7 +616508,8 @@
         "서툰, 솜씨 없는",
         "서툴게 다루다, 망쳐놓다",
         "숙달된"
-      ]
+      ],
+      "english_label": "Skill / Inexperience"
     },
     {
       "bucket_id": "v301_36",
@@ -616583,7 +616618,8 @@
         "구체적인",
         "실체가 없는",
         "감각의"
-      ]
+      ],
+      "english_label": "Mind / Matter"
     },
     {
       "bucket_id": "v301_37",
@@ -616691,7 +616727,8 @@
         "포기하다",
         "보상하다",
         "보복하다"
-      ]
+      ],
+      "english_label": "Bestowal / Deprivation"
     },
     {
       "bucket_id": "v301_38",
@@ -616858,7 +616895,8 @@
         "과잉",
         "결핍",
         "궁핍, 가난"
-      ]
+      ],
+      "english_label": "Abundance / Poverty"
     },
     {
       "bucket_id": "v301_39",
@@ -616964,7 +617002,8 @@
         "과묵한",
         "암묵적인",
         "핵심, 요점"
-      ]
+      ],
+      "english_label": "Verbosity / Conciseness"
     },
     {
       "bucket_id": "v301_40",
@@ -617031,7 +617070,8 @@
       "aliases": [
         "번성하다",
         "시들다, 마르다"
-      ]
+      ],
+      "english_label": "Prosperity / Decline"
     },
     {
       "bucket_id": "v301_41",
@@ -617108,7 +617148,8 @@
       "aliases": [
         "다산(多産)의; 비옥한",
         "불임의; 불모의; 척박한"
-      ]
+      ],
+      "english_label": "Fertility / Barrenness"
     },
     {
       "bucket_id": "v301_42",
@@ -617232,7 +617273,8 @@
         "변덕스런, 예측불가의",
         "불변의",
         "변형하다"
-      ]
+      ],
+      "english_label": "Stability / Fickleness"
     },
     {
       "bucket_id": "v301_43",
@@ -617339,7 +617381,8 @@
       "aliases": [
         "동질적인, 같은",
         "이질적인, 다른"
-      ]
+      ],
+      "english_label": "Heterogeneity / Homogeneity"
     },
     {
       "bucket_id": "v301_44",
@@ -617498,7 +617541,8 @@
         "동요시키다",
         "단호하게 결심하다",
         "망설이다, 머뭇거리다"
-      ]
+      ],
+      "english_label": "Calm / Agitation"
     },
     {
       "bucket_id": "v301_45",
@@ -617639,7 +617683,8 @@
         "화음이 좋은, 감미로운",
         "(불협화음의) 시끄러운",
         "전원적, 목가적"
-      ]
+      ],
+      "english_label": "Tranquility / Commotion"
     },
     {
       "bucket_id": "v301_46",
@@ -617695,7 +617740,8 @@
         "투명한, 명확한",
         "반투명한, 명확한",
         "불투명한, 불명료한"
-      ]
+      ],
+      "english_label": "Transparency / Opacity"
     },
     {
       "bucket_id": "v301_47",
@@ -617823,7 +617869,8 @@
         "모호한",
         "명료하게 밝히다",
         "혼동을 주다"
-      ]
+      ],
+      "english_label": "Clarity / Confusion"
     },
     {
       "bucket_id": "v301_48",
@@ -617948,7 +617995,8 @@
         "더러운; 비천한",
         "(명예나 가치를) 더럽히다",
         "(오점이나 얼룩으로) 더럽히다"
-      ]
+      ],
+      "english_label": "Contamination / Purity"
     },
     {
       "bucket_id": "v301_49",
@@ -618194,7 +618242,8 @@
         "흥미로운, 재미있는",
         "톡 쏘는 맛의, 재미있는",
         "따분한, 재미없는"
-      ]
+      ],
+      "english_label": "Novelty / Staleness"
     },
     {
       "bucket_id": "v301_50",
@@ -618322,7 +618371,8 @@
         "직선의; 똑바로 향한",
         "함몰의, 움푹 들어간",
         "요철의, 가장자리가 톱니 모양의"
-      ]
+      ],
+      "english_label": "Straightness / Curvature"
     },
     {
       "bucket_id": "v301_51",
@@ -618462,7 +618512,8 @@
         "방해하다",
         "금지하다",
         "진압하다"
-      ]
+      ],
+      "english_label": "Promotion / Inhibition"
     },
     {
       "bucket_id": "v301_52",
@@ -618644,7 +618695,8 @@
         "풀어주다, 자유롭게 해주다",
         "노예를 해방시키다",
         "추방하다"
-      ]
+      ],
+      "english_label": "Bondage / Liberation"
     },
     {
       "bucket_id": "v301_53",
@@ -618767,7 +618819,8 @@
         "물에 젖은",
         "건조시키다",
         "바싹 마른, 수분이 없는"
-      ]
+      ],
+      "english_label": "Wetness / Dryness"
     },
     {
       "bucket_id": "v301_54",
@@ -618910,7 +618963,8 @@
         "원한을 품은",
         "유해한",
         "해로운/불쾌한"
-      ]
+      ],
+      "english_label": "Benefit / Harm"
     },
     {
       "bucket_id": "v301_55",
@@ -618975,7 +619029,8 @@
         "끈질기게 지속하다",
         "(일시적) 중지, 정지",
         "휴전, 정전"
-      ]
+      ],
+      "english_label": "Continuation / Cessation"
     },
     {
       "bucket_id": "v301_56",
@@ -619106,7 +619161,8 @@
         "일시적인; 수명이 짧은",
         "지속적인, 끊임없는",
         "단속적인; 산발적인"
-      ]
+      ],
+      "english_label": "Permanence / Temporariness"
     },
     {
       "bucket_id": "v301_57",
@@ -619314,7 +619370,8 @@
         "시시한 것, 사소한 것",
         "적절한; 타당한",
         "부적절한; 관련 없는"
-      ]
+      ],
+      "english_label": "Importance / Triviality"
     },
     {
       "bucket_id": "v301_58",
@@ -619477,7 +619534,8 @@
         "짧게 줄이다; 축약하다",
         "증대시키다, 증가시키다",
         "생략하다"
-      ]
+      ],
+      "english_label": "Enlargement / Reduction"
     },
     {
       "bucket_id": "v301_59",
@@ -619574,7 +619632,8 @@
         "모아두다, 쌓아두다",
         "널리 전파하다; 포고하다",
         "제한하다, 억제하다"
-      ]
+      ],
+      "english_label": "Dispersion / Collection"
     },
     {
       "bucket_id": "v301_60",
@@ -619721,7 +619780,8 @@
         "갈라진 틈, 균열",
         "찢다",
         "봉합하다"
-      ]
+      ],
+      "english_label": "Division / Integration"
     },
     {
       "bucket_id": "v301_61",
@@ -619780,7 +619840,8 @@
         "완화시키다",
         "악화시키다",
         "개선하다"
-      ]
+      ],
+      "english_label": "Alleviation / Aggravation"
     },
     {
       "bucket_id": "v301_62",
@@ -619870,7 +619931,8 @@
         "폐지하다, 폐기하다",
         "지지하다, 유지하다",
         "(습관이나 권리 등을) 포기하다"
-      ]
+      ],
+      "english_label": "Preservation / Abolition"
     },
     {
       "bucket_id": "v301_63",
@@ -620033,7 +620095,8 @@
         "흉조(凶兆)의",
         "시기가 좋은, 기회가 좋은",
         "시기가 나쁜, 기회가 나쁜"
-      ]
+      ],
+      "english_label": "Happiness / Unhappiness"
     },
     {
       "bucket_id": "v301_64",
@@ -620118,7 +620181,8 @@
         "상처받기 쉬운",
         "안전한 장소, 피난처",
         "침입하다"
-      ]
+      ],
+      "english_label": "Strength / Vulnerability"
     },
     {
       "bucket_id": "v301_65",
@@ -620244,7 +620308,8 @@
         "파벌적인, 당파성이 있는",
         "불공정한, 편파적인",
         "적성/(좋아하는, 잘하는) 성향"
-      ]
+      ],
+      "english_label": "Fairness / Bias"
     },
     {
       "bucket_id": "v301_66",
@@ -620349,7 +620414,8 @@
         "비투과성의, 밀폐된",
         "주입하다; 스며들게 하다",
         "발산하다; 내뿜다"
-      ]
+      ],
+      "english_label": "Absorption / Emission"
     },
     {
       "bucket_id": "v301_67",
@@ -620450,7 +620516,8 @@
         "전문가",
         "초보의; 미숙한",
         "초보자"
-      ]
+      ],
+      "english_label": "Expert / Novice"
     },
     {
       "bucket_id": "v301_68",
@@ -620638,7 +620705,8 @@
         "작품의 종결부",
         "초기(발생) 단계의",
         "완전히 성장한, 완전히 성숙한"
-      ]
+      ],
+      "english_label": "Beginning / End"
     },
     {
       "bucket_id": "v301_69",
@@ -620697,7 +620765,8 @@
       "aliases": [
         "정점, 최정상",
         "최저점"
-      ]
+      ],
+      "english_label": "Peak / Trough"
     },
     {
       "bucket_id": "v301_70",
@@ -620749,7 +620818,8 @@
       "aliases": [
         "선천적인",
         "후천적인"
-      ]
+      ],
+      "english_label": "Innate / Acquired"
     },
     {
       "bucket_id": "v502_001",
@@ -620783,7 +620853,8 @@
         "swarm",
         "teem"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Full / Abundant"
     },
     {
       "bucket_id": "v502_002",
@@ -620814,7 +620885,8 @@
         "inculcate",
         "rectify"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "teach"
     },
     {
       "bucket_id": "v502_003",
@@ -620833,7 +620905,8 @@
         "associate",
         "join"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Join / Enroll"
     },
     {
       "bucket_id": "v502_004",
@@ -620863,7 +620936,8 @@
         "profess",
         "simulate"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Pretend / Disguise"
     },
     {
       "bucket_id": "v502_005",
@@ -620904,7 +620978,8 @@
         "casuistry",
         "sham"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Fake / Fraud"
     },
     {
       "bucket_id": "v502_006",
@@ -620978,7 +621053,8 @@
         "supposititious",
         "unauthentic"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Fake / Counterfeit"
     },
     {
       "bucket_id": "v502_007",
@@ -621013,7 +621089,8 @@
         "stark",
         "stern"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Harsh / Cruel"
     },
     {
       "bucket_id": "v502_008",
@@ -621051,7 +621128,8 @@
         "succinct",
         "cf. succulent"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Concise"
     },
     {
       "bucket_id": "v502_009",
@@ -621081,7 +621159,8 @@
         "surveillant",
         "turnkey"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Supervisor"
     },
     {
       "bucket_id": "v502_010",
@@ -621101,7 +621180,8 @@
         "mellifluous",
         "mellow"
       ],
-      "source_page": 5
+      "source_page": 5,
+      "english_label": "Sweet / Melodious"
     },
     {
       "bucket_id": "v502_011",
@@ -621155,7 +621235,8 @@
         "inhume",
         "inter"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Hide"
     },
     {
       "bucket_id": "v502_012",
@@ -621176,7 +621257,8 @@
         "pulpit",
         "rostrum"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Platform / Lectern"
     },
     {
       "bucket_id": "v502_013",
@@ -621204,7 +621286,8 @@
         "impose",
         "obtrude"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Force"
     },
     {
       "bucket_id": "v502_014",
@@ -621244,7 +621327,8 @@
         "obligatory",
         "stipulated"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Forced"
     },
     {
       "bucket_id": "v502_015",
@@ -621320,7 +621404,8 @@
         "usurp",
         "wrest"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Rob"
     },
     {
       "bucket_id": "v502_016",
@@ -621341,7 +621426,8 @@
         "kind",
         "sort"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Same type"
     },
     {
       "bucket_id": "v502_017",
@@ -621398,7 +621484,8 @@
         "tremendous",
         "vast"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Huge"
     },
     {
       "bucket_id": "v502_018",
@@ -621442,7 +621529,8 @@
         "smartness",
         "superciliousness"
       ],
-      "source_page": 6
+      "source_page": 6,
+      "english_label": "Arrogance / Rudeness"
     },
     {
       "bucket_id": "v502_019",
@@ -621539,7 +621627,8 @@
       "source_page": 7,
       "aliases": [
         "거만하게 행동하다"
-      ]
+      ],
+      "english_label": "Arrogant / Rude"
     },
     {
       "bucket_id": "v502_020",
@@ -621558,7 +621647,8 @@
         "potentate",
         "tycoon"
       ],
-      "source_page": 7
+      "source_page": 7,
+      "english_label": "Big Shot / Influential Person"
     },
     {
       "bucket_id": "v502_021",
@@ -621587,7 +621677,8 @@
         "repel",
         "repulse"
       ],
-      "source_page": 7
+      "source_page": 7,
+      "english_label": "Refuse / Reject"
     },
     {
       "bucket_id": "v502_022",
@@ -621636,7 +621727,8 @@
       "source_page": 7,
       "aliases": [
         "유리한, 유익한"
-      ]
+      ],
+      "english_label": "Wholesome / Beneficial"
     },
     {
       "bucket_id": "v502_023",
@@ -621795,7 +621887,8 @@
         "거드름을 피우며 천천히 걷다",
         "비틀거리다",
         "구부정하게 걷다"
-      ]
+      ],
+      "english_label": "Ways of Walking / Moving"
     },
     {
       "bucket_id": "v502_024",
@@ -621820,7 +621913,8 @@
         "timorousness",
         "trepidation"
       ],
-      "source_page": 8
+      "source_page": 8,
+      "english_label": "Fear / Timidity"
     },
     {
       "bucket_id": "v502_025",
@@ -621853,7 +621947,8 @@
         "timorous",
         "trepid"
       ],
-      "source_page": 8
+      "source_page": 8,
+      "english_label": "Cowardly / Timid"
     },
     {
       "bucket_id": "v502_026",
@@ -621894,7 +621989,8 @@
         "shrivel",
         "wince"
       ],
-      "source_page": 8
+      "source_page": 8,
+      "english_label": "Be Frightened"
     },
     {
       "bucket_id": "v502_027",
@@ -621979,7 +622075,8 @@
         "무모한",
         "만용, 허세",
         "용기, 기개"
-      ]
+      ],
+      "english_label": "Fearless / Courageous"
     },
     {
       "bucket_id": "v502_028",
@@ -622004,7 +622101,8 @@
         "recreant",
         "sissy"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "Coward"
     },
     {
       "bucket_id": "v502_029",
@@ -622036,7 +622134,8 @@
         "menace",
         "threaten"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "scare"
     },
     {
       "bucket_id": "v502_030",
@@ -622080,7 +622179,8 @@
       "source_page": 9,
       "aliases": [
         "겉만 번드르르한 싸구려 물건"
-      ]
+      ],
+      "english_label": "Gaudy / Tawdry"
     },
     {
       "bucket_id": "v502_031",
@@ -622115,7 +622215,8 @@
       "source_page": 9,
       "aliases": [
         "게으름뱅이"
-      ]
+      ],
+      "english_label": "Lazy / Slothful"
     },
     {
       "bucket_id": "v502_032",
@@ -622136,7 +622237,8 @@
         "upheaval",
         "vicissitude"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "Upheaval"
     },
     {
       "bucket_id": "v502_033",
@@ -622167,7 +622269,8 @@
         "precept",
         "witticism"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "Maxim / Aphorism / Proverb"
     },
     {
       "bucket_id": "v502_034",
@@ -622203,7 +622306,8 @@
         "outrance",
         "upshot"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "ending, denouement, concluding part"
     },
     {
       "bucket_id": "v502_035",
@@ -622226,7 +622330,8 @@
         "matrimonial",
         "nuptial"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "Marital"
     },
     {
       "bucket_id": "v502_036",
@@ -622243,7 +622348,8 @@
         "modesty",
         "humbleness"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "Humility"
     },
     {
       "bucket_id": "v502_037",
@@ -622275,7 +622381,8 @@
         "rim",
         "verge"
       ],
-      "source_page": 9
+      "source_page": 9,
+      "english_label": "Border, edge"
     },
     {
       "bucket_id": "v502_038",
@@ -622297,7 +622404,8 @@
         "watchful",
         "wide-awake"
       ],
-      "source_page": 10
+      "source_page": 10,
+      "english_label": "Watchful"
     },
     {
       "bucket_id": "v502_039",
@@ -622377,7 +622485,8 @@
         "경멸하는",
         "경멸할 만한",
         "경시하다, 과소평가하다"
-      ]
+      ],
+      "english_label": "Contempt / Scorn"
     },
     {
       "bucket_id": "v502_040",
@@ -622432,7 +622541,8 @@
       "source_page": 10,
       "aliases": [
         "경솔한, 경박한, 들뜬"
-      ]
+      ],
+      "english_label": "rash, impetuous, reckless"
     },
     {
       "bucket_id": "v502_041",
@@ -622454,7 +622564,8 @@
         "prodigious",
         "redoubtable"
       ],
-      "source_page": 10
+      "source_page": 10,
+      "english_label": "Awe-inspiring"
     },
     {
       "bucket_id": "v502_042",
@@ -622499,7 +622610,8 @@
         "mar",
         "muddle"
       ],
-      "source_page": 10
+      "source_page": 10,
+      "english_label": "Ruin / Frustrate a Plan"
     },
     {
       "bucket_id": "v502_043",
@@ -622530,7 +622642,8 @@
         "lofty",
         "virtuous"
       ],
-      "source_page": 10
+      "source_page": 10,
+      "english_label": "noble, grand"
     },
     {
       "bucket_id": "v502_044",
@@ -622555,7 +622668,8 @@
         "placate",
         "sedate"
       ],
-      "source_page": 10
+      "source_page": 10,
+      "english_label": "Calm / Soothe"
     },
     {
       "bucket_id": "v502_045",
@@ -622587,7 +622701,8 @@
         "serene",
         "tranquil"
       ],
-      "source_page": 10
+      "source_page": 10,
+      "english_label": "Quiet, tranquil"
     },
     {
       "bucket_id": "v502_046",
@@ -622627,7 +622742,8 @@
         "roil",
         "ruffle"
       ],
-      "source_page": 11
+      "source_page": 11,
+      "english_label": "Disturb / Agitate"
     },
     {
       "bucket_id": "v502_047",
@@ -622653,7 +622769,8 @@
         "ingrain(ed)",
         "inveterate"
       ],
-      "source_page": 11
+      "source_page": 11,
+      "english_label": "chronic, deep-rooted"
     },
     {
       "bucket_id": "v502_048",
@@ -622754,7 +622871,8 @@
       "aliases": [
         "자기 멋대로만 하는, 통제가 힘든",
         "(크기, 무게, 부피가) 육중하여 다루기 어려운"
-      ]
+      ],
+      "english_label": "Stubborn, difficult to handle"
     },
     {
       "bucket_id": "v502_049",
@@ -622788,7 +622906,8 @@
         "tribulation",
         "woe"
       ],
-      "source_page": 11
+      "source_page": 11,
+      "english_label": "Pain, suffering"
     },
     {
       "bucket_id": "v502_050",
@@ -622811,7 +622930,8 @@
         "aggrieve",
         "exacerbate"
       ],
-      "source_page": 11
+      "source_page": 11,
+      "english_label": "Aggravate Pain / Grief / Anger"
     },
     {
       "bucket_id": "v502_051",
@@ -622863,7 +622983,8 @@
         "remit",
         "reprieve"
       ],
-      "source_page": 11
+      "source_page": 11,
+      "english_label": "To relieve, alleviate (pain, sadness, anger, etc.)"
     },
     {
       "bucket_id": "v502_052",
@@ -622908,7 +623029,8 @@
         "stalemate",
         "stymie"
       ],
-      "source_page": 11
+      "source_page": 11,
+      "english_label": "Predicament, embarrassing situation"
     },
     {
       "bucket_id": "v502_053",
@@ -622951,7 +623073,8 @@
         "ravel",
         "snarl"
       ],
-      "source_page": 12
+      "source_page": 12,
+      "english_label": "Entangle / Involve"
     },
     {
       "bucket_id": "v502_054",
@@ -622980,7 +623103,8 @@
         "propagate",
         "trumpet"
       ],
-      "source_page": 12
+      "source_page": 12,
+      "english_label": "Announce / Proclaim"
     },
     {
       "bucket_id": "v502_055",
@@ -623001,7 +623125,8 @@
         "plot",
         "scheme"
       ],
-      "source_page": 12
+      "source_page": 12,
+      "english_label": "Collusion, conspiracy"
     },
     {
       "bucket_id": "v502_056",
@@ -623025,7 +623150,8 @@
         "plot",
         "scheme"
       ],
-      "source_page": 12
+      "source_page": 12,
+      "english_label": "Conspire / Plot"
     },
     {
       "bucket_id": "v502_057",
@@ -623062,7 +623188,8 @@
         "unbiased",
         "unprejudiced"
       ],
-      "source_page": 12
+      "source_page": 12,
+      "english_label": "Fair / Impartial"
     },
     {
       "bucket_id": "v502_058",
@@ -623108,7 +623235,8 @@
       "aliases": [
         "과대평가하다, 과장하다",
         "과장된 말"
-      ]
+      ],
+      "english_label": "overestimate, exaggerate"
     },
     {
       "bucket_id": "v502_059",
@@ -623148,7 +623276,8 @@
         "underrate",
         "understate"
       ],
-      "source_page": 12
+      "source_page": 12,
+      "english_label": "Underestimate, look down on"
     },
     {
       "bucket_id": "v502_060",
@@ -623198,7 +623327,8 @@
       "source_page": 12,
       "aliases": [
         "과도한"
-      ]
+      ],
+      "english_label": "Excess / Excessive"
     },
     {
       "bucket_id": "v502_061",
@@ -623283,7 +623413,8 @@
         "관대하게 봐주는, 응석을 받아주는",
         "관대하게 봐주다",
         "지나치게 응석을 받아주다"
-      ]
+      ],
+      "english_label": "Generous / Indulgent"
     },
     {
       "bucket_id": "v502_062",
@@ -623325,7 +623456,8 @@
         "relevant",
         "suitable"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "Relevant / Appropriate"
     },
     {
       "bucket_id": "v502_063",
@@ -623357,7 +623489,8 @@
         "irrelevant",
         "unsuitable"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "Irrelevant, inappropriate"
     },
     {
       "bucket_id": "v502_064",
@@ -623381,7 +623514,8 @@
         "wag",
         "zany"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "Clown / Jester"
     },
     {
       "bucket_id": "v502_065",
@@ -623418,7 +623552,8 @@
         "frenetic",
         "frenzied"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "Frantic, fierce"
     },
     {
       "bucket_id": "v502_066",
@@ -623487,7 +623622,8 @@
       "aliases": [
         "괴롭히다",
         "계속 질문(공격)을 하여 괴롭히다"
-      ]
+      ],
+      "english_label": "harass"
     },
     {
       "bucket_id": "v502_067",
@@ -623506,7 +623642,8 @@
         "doctrine",
         "tenet"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "dogma, creed"
     },
     {
       "bucket_id": "v502_068",
@@ -623556,7 +623693,8 @@
         "redress",
         "revamp"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "correct, modify"
     },
     {
       "bucket_id": "v502_069",
@@ -623575,7 +623713,8 @@
         "niggard",
         "skinflint"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "miser"
     },
     {
       "bucket_id": "v502_070",
@@ -623604,7 +623743,8 @@
         "discriminate",
         "ramify"
       ],
-      "source_page": 13
+      "source_page": 13,
+      "english_label": "Distinguish, distinguish"
     },
     {
       "bucket_id": "v502_071",
@@ -623635,7 +623775,8 @@
         "shackle",
         "yoke"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Restraint / Confinement / Bondage"
     },
     {
       "bucket_id": "v502_072",
@@ -623702,7 +623843,8 @@
         "shackle",
         "tether"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "bind, bind"
     },
     {
       "bucket_id": "v502_073",
@@ -623728,7 +623870,8 @@
         "outmoded",
         "passe"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Outdated, useless"
     },
     {
       "bucket_id": "v502_074",
@@ -623758,7 +623901,8 @@
         "unravel",
         "untangle"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Disentangle / Extricate"
     },
     {
       "bucket_id": "v502_075",
@@ -623780,7 +623924,8 @@
         "succumb",
         "yield"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "bow, surrender"
     },
     {
       "bucket_id": "v502_076",
@@ -623818,7 +623963,8 @@
         "privation",
         "scarcity"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Poverty / Destitution"
     },
     {
       "bucket_id": "v502_077",
@@ -623851,7 +623997,8 @@
         "needy",
         "penurious"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Poor / Destitute"
     },
     {
       "bucket_id": "v502_078",
@@ -623877,7 +624024,8 @@
         "tedium",
         "weariness"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Boredom / Tedium"
     },
     {
       "bucket_id": "v502_079",
@@ -623919,7 +624067,8 @@
         "grating",
         "raspy"
       ],
-      "source_page": 14
+      "source_page": 14,
+      "english_label": "Harsh to the ears"
     },
     {
       "bucket_id": "v502_080",
@@ -623962,7 +624111,8 @@
       "source_page": 14,
       "aliases": [
         "귀찮고 성가신 것"
-      ]
+      ],
+      "english_label": "annoying"
     },
     {
       "bucket_id": "v502_081",
@@ -624018,7 +624168,8 @@
         "ruffle",
         "vex"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "annoy, harass"
     },
     {
       "bucket_id": "v502_082",
@@ -624051,7 +624202,8 @@
       "source_page": 15,
       "aliases": [
         "절제하는, 중용의"
-      ]
+      ],
+      "english_label": "Self-Denying / Temperate"
     },
     {
       "bucket_id": "v502_083",
@@ -624114,7 +624266,8 @@
         "ruffian",
         "villainous"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "Heinous / Cruel / Notorious"
     },
     {
       "bucket_id": "v502_084",
@@ -624159,7 +624312,8 @@
         "strum",
         "villain"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "Villain / Thug"
     },
     {
       "bucket_id": "v502_085",
@@ -624182,7 +624336,8 @@
         "assiduous",
         "sedulous"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "diligent, diligent"
     },
     {
       "bucket_id": "v502_086",
@@ -624209,7 +624364,8 @@
         "misgiving",
         "qualm"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "Worry / Anxiety"
     },
     {
       "bucket_id": "v502_087",
@@ -624230,7 +624386,8 @@
         "illegible",
         "scribble"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "Illegible Handwriting"
     },
     {
       "bucket_id": "v502_088",
@@ -624249,7 +624406,8 @@
         "monetary",
         "pecuniary"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "Financial / Monetary"
     },
     {
       "bucket_id": "v502_089",
@@ -624278,7 +624436,8 @@
         "prohibit",
         "proscribe"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "ban"
     },
     {
       "bucket_id": "v502_090",
@@ -624312,7 +624471,8 @@
         "dash",
         "charge"
       ],
-      "source_page": 15
+      "source_page": 15,
+      "english_label": "Raid / Assault"
     },
     {
       "bucket_id": "v502_091",
@@ -624349,7 +624509,8 @@
         "sullen",
         "surly"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "Displeased / Upset"
     },
     {
       "bucket_id": "v502_092",
@@ -624403,7 +624564,8 @@
         "jubilant",
         "mirthful"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "(extremely) happy, triumphant"
     },
     {
       "bucket_id": "v502_093",
@@ -624438,7 +624600,8 @@
         "revel",
         "triumph"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "Rejoice / Exult"
     },
     {
       "bucket_id": "v502_094",
@@ -624464,7 +624627,8 @@
         "exhilarate",
         "puff"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "Delight / Elate"
     },
     {
       "bucket_id": "v502_095",
@@ -624491,7 +624655,8 @@
         "indict",
         "prosecute"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "Indict"
     },
     {
       "bucket_id": "v502_096",
@@ -624562,7 +624727,8 @@
         "unconventional",
         "weird"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "bizarre, strange, rare"
     },
     {
       "bucket_id": "v502_097",
@@ -624586,7 +624752,8 @@
         "imperious",
         "pressing"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "urgent, desperate"
     },
     {
       "bucket_id": "v502_098",
@@ -624609,7 +624776,8 @@
         "inure",
         "tame"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "Tame / Accustom"
     },
     {
       "bucket_id": "v502_099",
@@ -624658,7 +624826,8 @@
         "stun",
         "stupefy"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "surprise"
     },
     {
       "bucket_id": "v502_100",
@@ -624684,7 +624853,8 @@
         "fondle",
         "hug"
       ],
-      "source_page": 16
+      "source_page": 16,
+      "english_label": "hug"
     },
     {
       "bucket_id": "v502_101",
@@ -624711,7 +624881,8 @@
         "punctilious",
         "scrupulous"
       ],
-      "source_page": 17
+      "source_page": 17,
+      "english_label": "Meticulous, careful"
     },
     {
       "bucket_id": "v502_102",
@@ -624750,7 +624921,8 @@
         "persnickety",
         "stickling"
       ],
-      "source_page": 17
+      "source_page": 17,
+      "english_label": "Overly Meticulous / Fastidious"
     },
     {
       "bucket_id": "v502_103",
@@ -624784,7 +624956,8 @@
         "stay",
         "tarry"
       ],
-      "source_page": 17
+      "source_page": 17,
+      "english_label": "procrastinate"
     },
     {
       "bucket_id": "v502_104",
@@ -624815,7 +624988,8 @@
         "tortuous",
         "winding"
       ],
-      "source_page": 17
+      "source_page": 17,
+      "english_label": "squiggly"
     },
     {
       "bucket_id": "v502_105",
@@ -624925,7 +625099,8 @@
       "source_page": 17,
       "aliases": [
         "사소한 일에 대해 비난하다, 헐뜯다"
-      ]
+      ],
+      "english_label": "Scold, criticize"
     },
     {
       "bucket_id": "v502_106",
@@ -625000,7 +625175,8 @@
       "source_page": 17,
       "aliases": [
         "비난할 만한"
-      ]
+      ],
+      "english_label": "(severely) scold, (severely) criticize"
     },
     {
       "bucket_id": "v502_107",
@@ -625022,7 +625198,8 @@
         "sticky",
         "tacky"
       ],
-      "source_page": 17
+      "source_page": 17,
+      "english_label": "Sticky"
     },
     {
       "bucket_id": "v502_108",
@@ -625041,7 +625218,8 @@
         "simmer",
         "stew"
       ],
-      "source_page": 17
+      "source_page": 17,
+      "english_label": "boil"
     },
     {
       "bucket_id": "v502_109",
@@ -625064,7 +625242,8 @@
         "overtensed",
         "overwrought"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "High-Strung / Overwrought"
     },
     {
       "bucket_id": "v502_110",
@@ -625094,7 +625273,8 @@
         "dishearten",
         "dispirit"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "to discourage"
     },
     {
       "bucket_id": "v502_111",
@@ -625124,7 +625304,8 @@
         "damped",
         "dampened"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Dejected, downcast"
     },
     {
       "bucket_id": "v502_112",
@@ -625150,7 +625331,8 @@
         "tenable",
         "unassailable"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "impregnable, able to withstand attack"
     },
     {
       "bucket_id": "v502_113",
@@ -625175,7 +625357,8 @@
         "shriek",
         "wail"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Scream sharply"
     },
     {
       "bucket_id": "v502_114",
@@ -625204,7 +625387,8 @@
         "profligacy",
         "profuseness"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Waste, debauchery"
     },
     {
       "bucket_id": "v502_115",
@@ -625242,7 +625426,8 @@
         "reprobate",
         "spendthrift"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "wasting, profligate"
     },
     {
       "bucket_id": "v502_116",
@@ -625267,7 +625452,8 @@
         "spendthrift",
         "wastrel"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Spendthrift / Profligate Person"
     },
     {
       "bucket_id": "v502_117",
@@ -625310,7 +625496,8 @@
       "source_page": 18,
       "aliases": [
         "시간을 탕진하다, 빈둥거리다"
-      ]
+      ],
+      "english_label": "waste, use up"
     },
     {
       "bucket_id": "v502_118",
@@ -625332,7 +625519,8 @@
         "loath",
         "reluctant"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Reluctant / Unwilling"
     },
     {
       "bucket_id": "v502_119",
@@ -625366,7 +625554,8 @@
         "serenity",
         "staidness"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Coolness, composure"
     },
     {
       "bucket_id": "v502_120",
@@ -625417,7 +625606,8 @@
         "unimpassioned",
         "unmoved"
       ],
-      "source_page": 18
+      "source_page": 18,
+      "english_label": "Cool, calm"
     },
     {
       "bucket_id": "v502_121",
@@ -625436,7 +625626,8 @@
         "spacious",
         "roomy"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Wide"
     },
     {
       "bucket_id": "v502_122",
@@ -625466,7 +625657,8 @@
         "impotent",
         "senile"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "senile, decrepit"
     },
     {
       "bucket_id": "v502_123",
@@ -625491,7 +625683,8 @@
         "tract",
         "treatise"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Thesis / Treatise"
     },
     {
       "bucket_id": "v502_124",
@@ -625534,7 +625727,8 @@
       "source_page": 19,
       "aliases": [
         "토론"
-      ]
+      ],
+      "english_label": "refute, prove false"
     },
     {
       "bucket_id": "v502_125",
@@ -625564,7 +625758,8 @@
         "quarrelsome",
         "scrappy"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Argumentative / Quarrelsome"
     },
     {
       "bucket_id": "v502_126",
@@ -625590,7 +625785,8 @@
         "mawkish",
         "lachrymal"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Tearful / Overly Sentimental"
     },
     {
       "bucket_id": "v502_127",
@@ -625628,7 +625824,8 @@
         "shining",
         "splendid"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Dazzling, shining brightly"
     },
     {
       "bucket_id": "v502_128",
@@ -625657,7 +625854,8 @@
         "hedge",
         "shear"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Trim, cut"
     },
     {
       "bucket_id": "v502_129",
@@ -625687,7 +625885,8 @@
       "source_page": 19,
       "aliases": [
         "쉬운"
-      ]
+      ],
+      "english_label": "Multifaceted, diverse"
     },
     {
       "bucket_id": "v502_130",
@@ -625734,7 +625933,8 @@
         "throng",
         "wad"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "Large Number / Crowd"
     },
     {
       "bucket_id": "v502_131",
@@ -625779,7 +625979,8 @@
         "repudiate",
         "waive"
       ],
-      "source_page": 19
+      "source_page": 19,
+      "english_label": "to give up (a habit, a right, etc.), to quit"
     },
     {
       "bucket_id": "v502_132",
@@ -625824,7 +626025,8 @@
       "source_page": 20,
       "aliases": [
         "단정하지 못한 사람"
-      ]
+      ],
+      "english_label": "Untidy / Scruffy"
     },
     {
       "bucket_id": "v502_133",
@@ -625890,7 +626092,8 @@
       "source_page": 20,
       "aliases": [
         "옷맵시를 단정히 하다, 몸치장하다"
-      ]
+      ],
+      "english_label": "Neat / Well-Groomed"
     },
     {
       "bucket_id": "v502_134",
@@ -625917,7 +626120,8 @@
         "monotonous",
         "tedious"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Monotonous"
     },
     {
       "bucket_id": "v502_135",
@@ -625965,7 +626169,8 @@
         "propitiatory",
         "soothe"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Appease, comfort, cajole"
     },
     {
       "bucket_id": "v502_136",
@@ -625996,7 +626201,8 @@
         "ruthless",
         "unrelenting"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Implacable / Merciless"
     },
     {
       "bucket_id": "v502_137",
@@ -626022,7 +626228,8 @@
         "tuition",
         "wage"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Price / Cost"
     },
     {
       "bucket_id": "v502_138",
@@ -626050,7 +626257,8 @@
         "pogrom",
         "slaughter"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Massacre / Genocide"
     },
     {
       "bucket_id": "v502_139",
@@ -626069,7 +626277,8 @@
         "coup",
         "eclat"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Great Success / Triumph"
     },
     {
       "bucket_id": "v502_140",
@@ -626089,7 +626298,8 @@
         "gourmand",
         "trencherman"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Glutton"
     },
     {
       "bucket_id": "v502_141",
@@ -626138,7 +626348,8 @@
       "source_page": 20,
       "aliases": [
         "비천한"
-      ]
+      ],
+      "english_label": "Dirty / Base"
     },
     {
       "bucket_id": "v502_142",
@@ -626168,7 +626379,8 @@
         "unsullied",
         "untarnished"
       ],
-      "source_page": 20
+      "source_page": 20,
+      "english_label": "Unsullied"
     },
     {
       "bucket_id": "v502_143",
@@ -626184,7 +626396,8 @@
         "adulterated",
         "contaminated"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "defiled"
     },
     {
       "bucket_id": "v502_144",
@@ -626305,7 +626518,8 @@
         "명예를 손상시키다, 비방하다, 중상 모략하다",
         "명예훼손",
         "오점, 얼룩, 더럽히다, 명예를 손상시키다"
-      ]
+      ],
+      "english_label": "To defile, to damage one's reputation"
     },
     {
       "bucket_id": "v502_145",
@@ -626340,7 +626554,8 @@
         "transitory",
         "vanishing"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "Fleeting / Temporary"
     },
     {
       "bucket_id": "v502_146",
@@ -626375,7 +626590,8 @@
         "petrography",
         "petrology"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "Stone"
     },
     {
       "bucket_id": "v502_147",
@@ -626397,7 +626613,8 @@
         "equivalent",
         "tantamount"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "Equal / Commensurate"
     },
     {
       "bucket_id": "v502_148",
@@ -626426,7 +626643,8 @@
         "concur",
         "consent"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "Agree"
     },
     {
       "bucket_id": "v502_149",
@@ -626465,7 +626683,8 @@
         "salient",
         "stupendous"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "prominent, conspicuous"
     },
     {
       "bucket_id": "v502_150",
@@ -626485,7 +626704,8 @@
         "hem",
         "wind"
       ],
-      "source_page": 21
+      "source_page": 21,
+      "english_label": "roll up"
     },
     {
       "bucket_id": "v502_151",
@@ -626576,7 +626796,8 @@
         "파내다, 폭로하다",
         "발굴하다",
         "증거나 예를 제시하다, 드러내다"
-      ]
+      ],
+      "english_label": "Reveal / Expose / Uncover"
     },
     {
       "bucket_id": "v502_152",
@@ -626612,7 +626833,8 @@
         "skittish",
         "uneasy"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "excited, restless"
     },
     {
       "bucket_id": "v502_153",
@@ -626640,7 +626862,8 @@
         "welt",
         "whip"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "hit"
     },
     {
       "bucket_id": "v502_154",
@@ -626660,7 +626883,8 @@
         "elbow",
         "push"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Push"
     },
     {
       "bucket_id": "v502_155",
@@ -626682,7 +626906,8 @@
         "fluke",
         "jackpot"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Windfall / Stroke of Luck"
     },
     {
       "bucket_id": "v502_156",
@@ -626713,7 +626938,8 @@
         "sear(ed)",
         "sere"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "dry, dry"
     },
     {
       "bucket_id": "v502_157",
@@ -626736,7 +626962,8 @@
         "jugglery",
         "thaumaturgy"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Magic, magic"
     },
     {
       "bucket_id": "v502_158",
@@ -626756,7 +626983,8 @@
         "thaumaturge",
         "wizard"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Wizard, magician"
     },
     {
       "bucket_id": "v502_159",
@@ -626782,7 +627010,8 @@
         "recklessness",
         "temerity"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Reckless Courage / Foolhardiness"
     },
     {
       "bucket_id": "v502_160",
@@ -626812,7 +627041,8 @@
         "satisfy",
         "slake"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Satisfy"
     },
     {
       "bucket_id": "v502_161",
@@ -626837,7 +627067,8 @@
         "imperceptible",
         "unappreciable"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Intangible / Imperceptible"
     },
     {
       "bucket_id": "v502_162",
@@ -626863,7 +627094,8 @@
         "perceptible",
         "appreciable"
       ],
-      "source_page": 22
+      "source_page": 22,
+      "english_label": "Tangible / Perceptible"
     },
     {
       "bucket_id": "v502_163",
@@ -626950,7 +627182,8 @@
       "source_page": 23,
       "aliases": [
         "tribute 칭찬; 공물"
-      ]
+      ],
+      "english_label": "Speech / Rhetoric"
     },
     {
       "bucket_id": "v502_164",
@@ -626981,7 +627214,8 @@
         "sear",
         "scorch"
       ],
-      "source_page": 23
+      "source_page": 23,
+      "english_label": "dry, dry out"
     },
     {
       "bucket_id": "v502_165",
@@ -627022,7 +627256,8 @@
         "massacre",
         "sterilize"
       ],
-      "source_page": 23
+      "source_page": 23,
+      "english_label": "annihilate, exterminate"
     },
     {
       "bucket_id": "v502_166",
@@ -627040,7 +627275,8 @@
         "stammer",
         "stumble"
       ],
-      "source_page": 23
+      "source_page": 23,
+      "english_label": "Stutter"
     },
     {
       "bucket_id": "v502_167",
@@ -627070,7 +627306,8 @@
         "patter",
         "rattle"
       ],
-      "source_page": 23
+      "source_page": 23,
+      "english_label": "To chatter so quickly that you cannot understand what is being said."
     },
     {
       "bucket_id": "v502_168",
@@ -627106,7 +627343,8 @@
         "tergiversate",
         "waffle"
       ],
-      "source_page": 23
+      "source_page": 23,
+      "english_label": "to speak vaguely, to speak vaguely, to make an excuse"
     },
     {
       "bucket_id": "v502_169",
@@ -627143,7 +627381,8 @@
         "stumble",
         "stutter"
       ],
-      "source_page": 23
+      "source_page": 23,
+      "english_label": "Mutter words unclearly"
     },
     {
       "bucket_id": "v502_170",
@@ -627187,7 +627426,8 @@
         "trumpery",
         "twaddle"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Nonsense / Meaningless Talk"
     },
     {
       "bucket_id": "v502_171",
@@ -627225,7 +627465,8 @@
         "rattle",
         "twaddle"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Babble / Talk Nonsense"
     },
     {
       "bucket_id": "v502_172",
@@ -627264,7 +627505,8 @@
         "voluble",
         "wordy"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Talkative, long-winded"
     },
     {
       "bucket_id": "v502_173",
@@ -627303,7 +627545,8 @@
         "stifled",
         "uncommunicative"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Reserved / Guarded"
     },
     {
       "bucket_id": "v502_174",
@@ -627333,7 +627576,8 @@
         "taciturn",
         "uncommunicative"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Taciturn / Reticent"
     },
     {
       "bucket_id": "v502_175",
@@ -627358,7 +627602,8 @@
         "taste",
         "zest"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Taste / Flavor / Zest"
     },
     {
       "bucket_id": "v502_176",
@@ -627396,7 +627641,8 @@
         "mild",
         "suave"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Mild in taste"
     },
     {
       "bucket_id": "v502_177",
@@ -627417,7 +627663,8 @@
         "unsavory",
         "vapid"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "tasteless"
     },
     {
       "bucket_id": "v502_178",
@@ -627446,7 +627693,8 @@
         "sapid",
         "tasteful"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Tasty"
     },
     {
       "bucket_id": "v502_179",
@@ -627513,7 +627761,8 @@
         "truculent",
         "vitriolic"
       ],
-      "source_page": 24
+      "source_page": 24,
+      "english_label": "Acrid / Caustic / Pungent"
     },
     {
       "bucket_id": "v502_180",
@@ -627562,7 +627811,8 @@
       "source_page": 25,
       "aliases": [
         "망설이는, 우유부단한"
-      ]
+      ],
+      "english_label": "Hesitate, hesitate"
     },
     {
       "bucket_id": "v502_181",
@@ -627589,7 +627839,8 @@
         "humiliate",
         "mortify"
       ],
-      "source_page": 25
+      "source_page": 25,
+      "english_label": "disgrace"
     },
     {
       "bucket_id": "v502_182",
@@ -627622,7 +627873,8 @@
       "source_page": 25,
       "aliases": [
         "매수할 수 있는, 타락시킬 수 있는"
-      ]
+      ],
+      "english_label": "buy, corrupt"
     },
     {
       "bucket_id": "v502_183",
@@ -627708,7 +627960,8 @@
         "transfix",
         "transport"
       ],
-      "source_page": 25
+      "source_page": 25,
+      "english_label": "Enthrall, captivate, engross"
     },
     {
       "bucket_id": "v502_184",
@@ -627752,7 +628005,8 @@
         "repudiate",
         "waive"
       ],
-      "source_page": 25
+      "source_page": 25,
+      "english_label": "Renounce Under Oath"
     },
     {
       "bucket_id": "v502_185",
@@ -627801,7 +628055,8 @@
         "slurp",
         "swallow"
       ],
-      "source_page": 25
+      "source_page": 25,
+      "english_label": "Ways of Eating / Drinking"
     },
     {
       "bucket_id": "v502_186",
@@ -627818,7 +628073,8 @@
         "defunct",
         "extinct"
       ],
-      "source_page": 25
+      "source_page": 25,
+      "english_label": "Extinct"
     },
     {
       "bucket_id": "v502_187",
@@ -627846,7 +628102,8 @@
         "rota",
         "slate"
       ],
-      "source_page": 25
+      "source_page": 25,
+      "english_label": "list, roster"
     },
     {
       "bucket_id": "v502_188",
@@ -627875,7 +628132,8 @@
         "mandate",
         "ordain"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Order, strict order"
     },
     {
       "bucket_id": "v502_189",
@@ -627921,7 +628179,8 @@
         "shrewd",
         "smart"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Clever, intelligent"
     },
     {
       "bucket_id": "v502_190",
@@ -627965,7 +628224,8 @@
         "ruminate",
         "speculate"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Meditate, ponder"
     },
     {
       "bucket_id": "v502_191",
@@ -627994,7 +628254,8 @@
         "forthright",
         "outspoken"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Explicit / Outspoken"
     },
     {
       "bucket_id": "v502_192",
@@ -628015,7 +628276,8 @@
         "dishonor",
         "indignity"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Disgrace / Dishonor"
     },
     {
       "bucket_id": "v502_193",
@@ -628037,7 +628299,8 @@
         "derogatory",
         "pejorative"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Disgraceful / Dishonorable"
     },
     {
       "bucket_id": "v502_194",
@@ -628144,7 +628407,8 @@
       "aliases": [
         "명예를 손상시키다, 비방하다, 중상 모략하다",
         "오점, 얼룩, 더럽히다, 명예를 손상시키다"
-      ]
+      ],
+      "english_label": "Defame / Tarnish"
     },
     {
       "bucket_id": "v502_195",
@@ -628186,7 +628450,8 @@
         "sobriquet",
         "vernacular"
       ],
-      "source_page": 26
+      "source_page": 26,
+      "english_label": "Name, nickname, pseudonym"
     },
     {
       "bucket_id": "v502_196",
@@ -628210,7 +628475,8 @@
         "garner",
         "hoard"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "collect, pile up"
     },
     {
       "bucket_id": "v502_197",
@@ -628247,7 +628513,8 @@
         "turbid",
         "vague"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "Ambiguous"
     },
     {
       "bucket_id": "v502_198",
@@ -628266,7 +628533,8 @@
         "hoarse",
         "gruff"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "Hoarse / Raucous"
     },
     {
       "bucket_id": "v502_199",
@@ -628303,7 +628571,8 @@
         "levy",
         "impound"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "Confiscate / Levy"
     },
     {
       "bucket_id": "v502_200",
@@ -628349,7 +628618,8 @@
         "blase",
         "insensate"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "Indifferent, callous, insensitive, insensitive"
     },
     {
       "bucket_id": "v502_201",
@@ -628373,7 +628643,8 @@
         "sweltering",
         "torrid"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "Sweltering"
     },
     {
       "bucket_id": "v502_202",
@@ -628420,7 +628691,8 @@
       "source_page": 27,
       "aliases": [
         "brusk; 무뚝뚝한"
-      ]
+      ],
+      "english_label": "blunt, blunt"
     },
     {
       "bucket_id": "v502_203",
@@ -628456,7 +628728,8 @@
         "indecorum",
         "impropriety"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "Rudeness / Insult"
     },
     {
       "bucket_id": "v502_204",
@@ -628499,7 +628772,8 @@
         "presumptuous",
         "unseemly"
       ],
-      "source_page": 27
+      "source_page": 27,
+      "english_label": "rude"
     },
     {
       "bucket_id": "v502_205",
@@ -628545,7 +628819,8 @@
         "macabre",
         "morbid"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "scary, scary"
     },
     {
       "bucket_id": "v502_206",
@@ -628570,7 +628845,8 @@
         "profuse",
         "rank"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "lush, luxuriant, lush, abundant"
     },
     {
       "bucket_id": "v502_207",
@@ -628592,7 +628868,8 @@
         "unspoken",
         "tacit"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "implied"
     },
     {
       "bucket_id": "v502_208",
@@ -628614,7 +628891,8 @@
         "inhume",
         "inter"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Bury / Conceal"
     },
     {
       "bucket_id": "v502_209",
@@ -628642,7 +628920,8 @@
         "peddle",
         "tout"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Ways of Selling"
     },
     {
       "bucket_id": "v502_210",
@@ -628680,7 +628959,8 @@
         "surfeit",
         "weary"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Satiate / Weary"
     },
     {
       "bucket_id": "v502_211",
@@ -628705,7 +628985,8 @@
         "satiated",
         "sated"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Sated / Weary"
     },
     {
       "bucket_id": "v502_212",
@@ -628731,7 +629012,8 @@
         "slimy",
         "unctuous"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Slippery"
     },
     {
       "bucket_id": "v502_213",
@@ -628761,7 +629043,8 @@
       "source_page": 28,
       "aliases": [
         "대식가"
-      ]
+      ],
+      "english_label": "Gourmet, gourmet"
     },
     {
       "bucket_id": "v502_214",
@@ -628779,7 +629062,8 @@
         "berserk",
         "irate"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Running wild"
     },
     {
       "bucket_id": "v502_215",
@@ -628796,7 +629080,8 @@
         "rampage",
         "rage"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Go crazy"
     },
     {
       "bucket_id": "v502_216",
@@ -628834,7 +629119,8 @@
         "distraught",
         "insane"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Crazy, lost mind"
     },
     {
       "bucket_id": "v502_217",
@@ -628867,7 +629153,8 @@
         "spry",
         "sprightly"
       ],
-      "source_page": 28
+      "source_page": 28,
+      "english_label": "Agile, lively"
     },
     {
       "bucket_id": "v502_218",
@@ -628893,7 +629180,8 @@
         "pelagian",
         "pelagic"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Marine / Maritime"
     },
     {
       "bucket_id": "v502_219",
@@ -628936,7 +629224,8 @@
         "simpleton",
         "zany"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Fool"
     },
     {
       "bucket_id": "v502_220",
@@ -628970,7 +629259,8 @@
         "moronic",
         "vacuous"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Foolish, foolish"
     },
     {
       "bucket_id": "v502_221",
@@ -629008,7 +629298,8 @@
       "aliases": [
         "바보 같은(무의미한) 말",
         "바보 같은 행동"
-      ]
+      ],
+      "english_label": "Nonsense / Foolish Acts"
     },
     {
       "bucket_id": "v502_222",
@@ -629067,7 +629358,8 @@
         "reprobate",
         "repugn"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Oppose, raise objection"
     },
     {
       "bucket_id": "v502_223",
@@ -629098,7 +629390,8 @@
         "insurgency",
         "subversion"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Rebellion, riot"
     },
     {
       "bucket_id": "v502_224",
@@ -629118,7 +629411,8 @@
         "subvert",
         "insurrectionize"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Cause a rebellion"
     },
     {
       "bucket_id": "v502_225",
@@ -629164,7 +629458,8 @@
         "spew",
         "vomit"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Emit / Radiate"
     },
     {
       "bucket_id": "v502_226",
@@ -629195,7 +629490,8 @@
         "initiate",
         "create"
       ],
-      "source_page": 29
+      "source_page": 29,
+      "english_label": "Generate / Cause"
     },
     {
       "bucket_id": "v502_227",
@@ -629226,7 +629522,8 @@
         "opalescent",
         "fluorescent"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Bright / Radiant"
     },
     {
       "bucket_id": "v502_228",
@@ -629256,7 +629553,8 @@
         "vagrant",
         "wandering"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Wandering / Roving"
     },
     {
       "bucket_id": "v502_229",
@@ -629299,7 +629597,8 @@
         "unrestrained",
         "unguarded"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Debauched, unrestrained, indulging in pleasure"
     },
     {
       "bucket_id": "v502_230",
@@ -629367,7 +629666,8 @@
       "source_page": 30,
       "aliases": [
         "성장을 방해하다, 억제시키다"
-      ]
+      ],
+      "english_label": "obstruct, frustrate"
     },
     {
       "bucket_id": "v502_231",
@@ -629402,7 +629702,8 @@
         "recreancy",
         "tergiversation"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Betrayal, disloyalty, disloyalty"
     },
     {
       "bucket_id": "v502_232",
@@ -629425,7 +629726,8 @@
         "girder",
         "beam"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Support / Brace"
     },
     {
       "bucket_id": "v502_233",
@@ -629467,7 +629769,8 @@
         "sparkling",
         "twinkling"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Shining / Glittering"
     },
     {
       "bucket_id": "v502_234",
@@ -629508,7 +629811,8 @@
         "luminesce",
         "fluoresce"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Shine / Gleam"
     },
     {
       "bucket_id": "v502_235",
@@ -629541,7 +629845,8 @@
         "thrive",
         "wax"
       ],
-      "source_page": 30
+      "source_page": 30,
+      "english_label": "Prosper, prosper, prosper"
     },
     {
       "bucket_id": "v502_236",
@@ -629578,7 +629883,8 @@
         "scourge",
         "whip"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Punishment / Punish"
     },
     {
       "bucket_id": "v502_237",
@@ -629600,7 +629906,8 @@
         "inundation",
         "spate"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Flood / Influx"
     },
     {
       "bucket_id": "v502_238",
@@ -629627,7 +629934,8 @@
         "flood",
         "inundate"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Flood / Rush In"
     },
     {
       "bucket_id": "v502_239",
@@ -629659,7 +629967,8 @@
         "whim",
         "whimsy"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Caprice / Whim"
     },
     {
       "bucket_id": "v502_240",
@@ -629700,7 +630009,8 @@
         "volatile",
         "whimsical"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "capricious, changeable"
     },
     {
       "bucket_id": "v502_241",
@@ -629731,7 +630041,8 @@
         "traitor",
         "turncoat"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Renegade"
     },
     {
       "bucket_id": "v502_242",
@@ -629785,7 +630096,8 @@
         "cauterize",
         "vitrify"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Transform / Change State"
     },
     {
       "bucket_id": "v502_243",
@@ -629814,7 +630126,8 @@
         "seamy",
         "unbecomingly"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "(movements such as dance) are awkward, unsightly"
     },
     {
       "bucket_id": "v502_244",
@@ -629844,7 +630157,8 @@
         "shunt",
         "table"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Withhold / Defer"
     },
     {
       "bucket_id": "v502_245",
@@ -629874,7 +630188,8 @@
         "revenge",
         "vengeance"
       ],
-      "source_page": 31
+      "source_page": 31,
+      "english_label": "Retaliation, revenge"
     },
     {
       "bucket_id": "v502_246",
@@ -629903,7 +630218,8 @@
         "revenge",
         "reciprocate"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Take revenge, take revenge"
     },
     {
       "bucket_id": "v502_247",
@@ -629953,7 +630269,8 @@
       "source_page": 32,
       "aliases": [
         "indemnify → indemnity: -에게 배상하다"
-      ]
+      ],
+      "english_label": "Compensate, repay"
     },
     {
       "bucket_id": "v502_248",
@@ -629991,7 +630308,8 @@
         "run-of-the-mill",
         "stock"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Ordinary / Mundane"
     },
     {
       "bucket_id": "v502_249",
@@ -630015,7 +630333,8 @@
         "protective",
         "tutelage"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Protection"
     },
     {
       "bucket_id": "v502_250",
@@ -630057,7 +630376,8 @@
       "source_page": 32,
       "aliases": [
         "complaisant=obliging: 고분고분한"
-      ]
+      ],
+      "english_label": "Obedient, tractable"
     },
     {
       "bucket_id": "v502_251",
@@ -630076,7 +630396,8 @@
         "shamefaced",
         "shy"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Shy"
     },
     {
       "bucket_id": "v502_252",
@@ -630107,7 +630428,8 @@
         "pliant",
         "supple"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Soft, flexible, easy to bend"
     },
     {
       "bucket_id": "v502_253",
@@ -630131,7 +630453,8 @@
         "ragamuffin",
         "waif"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Outcast / Waif"
     },
     {
       "bucket_id": "v502_254",
@@ -630156,7 +630479,8 @@
         "concomitant",
         "codicil"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "Appendage / Supplement"
     },
     {
       "bucket_id": "v502_255",
@@ -630216,7 +630540,8 @@
         "retract",
         "revoke"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "deny, deny"
     },
     {
       "bucket_id": "v502_256",
@@ -630255,7 +630580,8 @@
         "strained",
         "unnatural"
       ],
-      "source_page": 32
+      "source_page": 32,
+      "english_label": "unnatural, forcibly put together"
     },
     {
       "bucket_id": "v502_257",
@@ -630270,7 +630596,8 @@
         "charm",
         "talisman"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "Amulet"
     },
     {
       "bucket_id": "v502_258",
@@ -630294,7 +630621,8 @@
         "meager",
         "scarce"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "insufficient, meager"
     },
     {
       "bucket_id": "v502_259",
@@ -630343,7 +630671,8 @@
         "slipshod",
         "supine"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "careless, lax"
     },
     {
       "bucket_id": "v502_260",
@@ -630364,7 +630693,8 @@
         "unwitting",
         "unwittingly"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "Unwitting / Accidental"
     },
     {
       "bucket_id": "v502_261",
@@ -630393,7 +630723,8 @@
         "heave",
         "swell"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "inflate"
     },
     {
       "bucket_id": "v502_262",
@@ -630422,7 +630753,8 @@
       "aliases": [
         "빚을 갚지 않는",
         "지불 능력이 없는"
-      ]
+      ],
+      "english_label": "Debt"
     },
     {
       "bucket_id": "v502_263",
@@ -630457,7 +630789,8 @@
         "resuscitate",
         "retrieve"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "resurrect, regenerate"
     },
     {
       "bucket_id": "v502_264",
@@ -630518,7 +630851,8 @@
       "source_page": 33,
       "aliases": [
         "분열시키다"
-      ]
+      ],
+      "english_label": "separate, separate, isolate"
     },
     {
       "bucket_id": "v502_265",
@@ -630541,7 +630875,8 @@
         "impart",
         "mete"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "Distribute"
     },
     {
       "bucket_id": "v502_266",
@@ -630584,7 +630919,8 @@
         "rift",
         "schism"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "Division, gap"
     },
     {
       "bucket_id": "v502_267",
@@ -630616,7 +630952,8 @@
         "profane",
         "sacrilegious"
       ],
-      "source_page": 33
+      "source_page": 33,
+      "english_label": "blasphemous, blasphemous"
     },
     {
       "bucket_id": "v502_268",
@@ -630648,7 +630985,8 @@
         "tendentious",
         "jaundiced"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "Unfair, biased, prejudiced"
     },
     {
       "bucket_id": "v502_269",
@@ -630688,7 +631026,8 @@
         "mutilate",
         "paralyze"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "Maim / Disable"
     },
     {
       "bucket_id": "v502_270",
@@ -630736,7 +631075,8 @@
         "unproductive",
         "waste"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "Barren, barren, useless, completely lacking"
     },
     {
       "bucket_id": "v502_271",
@@ -630778,7 +631118,8 @@
       "source_page": 34,
       "aliases": [
         "불운의, 불길한, 흉조의"
-      ]
+      ],
+      "english_label": "Misfortune"
     },
     {
       "bucket_id": "v502_272",
@@ -630824,7 +631165,8 @@
         "revulsion",
         "umbrage"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "Discomfort"
     },
     {
       "bucket_id": "v502_273",
@@ -630858,7 +631200,8 @@
         "revolt",
         "sicken"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "offend"
     },
     {
       "bucket_id": "v502_274",
@@ -630920,7 +631263,8 @@
         "plaguey",
         "plaguesome"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "unpleasant, unpleasant"
     },
     {
       "bucket_id": "v502_275",
@@ -630945,7 +631289,8 @@
         "aggrieve",
         "disgruntle"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "Cause Discontent"
     },
     {
       "bucket_id": "v502_276",
@@ -630984,7 +631329,8 @@
         "snivel",
         "whine"
       ],
-      "source_page": 34
+      "source_page": 34,
+      "english_label": "complain"
     },
     {
       "bucket_id": "v502_277",
@@ -631018,7 +631364,8 @@
         "turbid",
         "vague"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "opaque, cloudy, indistinct, vague"
     },
     {
       "bucket_id": "v502_278",
@@ -631039,7 +631386,8 @@
         "nonconformist",
         "recusant"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Nonconformist / Maverick"
     },
     {
       "bucket_id": "v502_279",
@@ -631064,7 +631412,8 @@
         "vileness",
         "villainy"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Wickedness / Villainy"
     },
     {
       "bucket_id": "v502_280",
@@ -631095,7 +631444,8 @@
         "villainous",
         "wicked"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "mean, evil"
     },
     {
       "bucket_id": "v502_281",
@@ -631122,7 +631472,8 @@
         "productive",
         "prolific"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "fertile"
     },
     {
       "bucket_id": "v502_282",
@@ -631143,7 +631494,8 @@
         "Ignominious",
         "vile"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Base / Ignoble"
     },
     {
       "bucket_id": "v502_283",
@@ -631194,7 +631546,8 @@
         "torpid",
         "vegetating"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Inactive, weak, slow in movement (reaction)"
     },
     {
       "bucket_id": "v502_284",
@@ -631215,7 +631568,8 @@
         "engulf",
         "imbibe"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "to suck"
     },
     {
       "bucket_id": "v502_285",
@@ -631235,7 +631589,8 @@
         "brazen",
         "shameless"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Shameless / Brazen"
     },
     {
       "bucket_id": "v502_286",
@@ -631268,7 +631623,8 @@
         "presumption",
         "shamelessness"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Shamelessness / Impudence"
     },
     {
       "bucket_id": "v502_287",
@@ -631292,7 +631648,8 @@
         "stark",
         "stiff"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "stiff, inflexible"
     },
     {
       "bucket_id": "v502_288",
@@ -631327,7 +631684,8 @@
         "shaver",
         "shyster"
       ],
-      "source_page": 35
+      "source_page": 35,
+      "english_label": "Fraud / Charlatan"
     },
     {
       "bucket_id": "v502_289",
@@ -631395,7 +631753,8 @@
       "source_page": 35,
       "aliases": [
         "당연한 사실(공리)로 주장하다(간주하다)"
-      ]
+      ],
+      "english_label": "claim to be true, assert, announce"
     },
     {
       "bucket_id": "v502_290",
@@ -631421,7 +631780,8 @@
         "verifiable",
         "authentic"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "true, correct"
     },
     {
       "bucket_id": "v502_291",
@@ -631460,7 +631820,8 @@
         "validate",
         "verify"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Confirm that it is true, prove, substantiate"
     },
     {
       "bucket_id": "v502_292",
@@ -631496,7 +631857,8 @@
         "spasmodic",
         "sporadic"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Sporadic, intermittent"
     },
     {
       "bucket_id": "v502_293",
@@ -631518,7 +631880,8 @@
         "fleshy",
         "somatic"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Physical / Bodily"
     },
     {
       "bucket_id": "v502_294",
@@ -631560,7 +631923,8 @@
         "stout",
         "tumid"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Fat"
     },
     {
       "bucket_id": "v502_295",
@@ -631612,7 +631976,8 @@
         "mild",
         "suave"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "kind, gentle"
     },
     {
       "bucket_id": "v502_296",
@@ -631631,7 +631996,8 @@
         "lesion",
         "mayhem"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Injury / Lesion"
     },
     {
       "bucket_id": "v502_297",
@@ -631646,7 +632012,8 @@
         "ransack",
         "rummage"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "rummage"
     },
     {
       "bucket_id": "v502_298",
@@ -631671,7 +632038,8 @@
         "retrench",
         "syncopation"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Omission / Abbreviation"
     },
     {
       "bucket_id": "v502_299",
@@ -631695,7 +632063,8 @@
         "retrench",
         "syncopate"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "omit"
     },
     {
       "bucket_id": "v502_300",
@@ -631720,7 +632089,8 @@
         "perfunctory",
         "slipshod"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "Hasty / Slipshod"
     },
     {
       "bucket_id": "v502_301",
@@ -631747,7 +632117,8 @@
         "prelude",
         "prologue"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "preface, introduction, prologue"
     },
     {
       "bucket_id": "v502_302",
@@ -631783,7 +632154,8 @@
         "uncouth",
         "ungainly"
       ],
-      "source_page": 36
+      "source_page": 36,
+      "english_label": "clumsy, unskilled"
     },
     {
       "bucket_id": "v502_303",
@@ -631820,7 +632192,8 @@
         "tamper",
         "tinker"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "To handle poorly, to ruin"
     },
     {
       "bucket_id": "v502_304",
@@ -631871,7 +632244,8 @@
         "termination",
         "veto"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "election, voting"
     },
     {
       "bucket_id": "v502_305",
@@ -631905,7 +632279,8 @@
         "roil",
         "stir (up)"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "Incite / Foment"
     },
     {
       "bucket_id": "v502_306",
@@ -631926,7 +632301,8 @@
         "progenitor",
         "strain"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "ancestors"
     },
     {
       "bucket_id": "v502_307",
@@ -631955,7 +632331,8 @@
         "inherited",
         "innate"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "Innate / Congenital"
     },
     {
       "bucket_id": "v502_308",
@@ -631978,7 +632355,8 @@
         "optional",
         "voluntary"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "Optional / Voluntary"
     },
     {
       "bucket_id": "v502_309",
@@ -632028,7 +632406,8 @@
         "expostulate",
         "remonstrate"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "explain, clarify"
     },
     {
       "bucket_id": "v502_310",
@@ -632051,7 +632430,8 @@
         "rampart",
         "stronghold"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "Castle, citadel, fortress"
     },
     {
       "bucket_id": "v502_311",
@@ -632083,7 +632463,8 @@
         "terrestrial",
         "worldly"
       ],
-      "source_page": 37
+      "source_page": 37,
+      "english_label": "Worldly, of this world"
     },
     {
       "bucket_id": "v502_312",
@@ -632157,7 +632538,8 @@
       "source_page": 37,
       "aliases": [
         "복잡하게 엉킨 실타래, 혼란, 분규"
-      ]
+      ],
+      "english_label": "Commotion / Chaos"
     },
     {
       "bucket_id": "v502_313",
@@ -632227,7 +632609,8 @@
       "source_page": 38,
       "aliases": [
         "큰 소리로 울려 퍼지는"
-      ]
+      ],
+      "english_label": "Noisy / Resounding"
     },
     {
       "bucket_id": "v502_314",
@@ -632276,7 +632659,8 @@
         "tithe",
         "whit"
       ],
-      "source_page": 38
+      "source_page": 38,
+      "english_label": "a small amount, a little, a little"
     },
     {
       "bucket_id": "v502_315",
@@ -632302,7 +632686,8 @@
         "convene",
         "concourse"
       ],
-      "source_page": 38
+      "source_page": 38,
+      "english_label": "Convene (meeting)"
     },
     {
       "bucket_id": "v502_316",
@@ -632338,7 +632723,8 @@
         "levee",
         "rally"
       ],
-      "source_page": 38
+      "source_page": 38,
+      "english_label": "(meeting) convocation, assembly"
     },
     {
       "bucket_id": "v502_317",
@@ -632361,7 +632747,8 @@
         "leaflet",
         "tract"
       ],
-      "source_page": 38
+      "source_page": 38,
+      "english_label": "Booklet"
     },
     {
       "bucket_id": "v502_318",
@@ -632391,7 +632778,8 @@
       "source_page": 38,
       "aliases": [
         "잘 속는 사람"
-      ]
+      ],
+      "english_label": "Gullible / Easily Deceived"
     },
     {
       "bucket_id": "v502_319",
@@ -632584,7 +632972,8 @@
         "꾸며낸 이야기, 속이기",
         "(승부, 주가, 선거구 등을) 조작하다",
         "터무니없이 높은 가격으로 바가지를 씌우다"
-      ]
+      ],
+      "english_label": "Deceive / Manipulate"
     },
     {
       "bucket_id": "v502_320",
@@ -632673,7 +633062,8 @@
       "source_page": 39,
       "aliases": [
         "속임수를 쓰는"
-      ]
+      ],
+      "english_label": "Trickery / Scheme"
     },
     {
       "bucket_id": "v502_321",
@@ -632695,7 +633085,8 @@
         "glib",
         "unburdensome"
       ],
-      "source_page": 39
+      "source_page": 39,
+      "english_label": "Easy / Effortless"
     },
     {
       "bucket_id": "v502_322",
@@ -632713,7 +633104,8 @@
         "doddle",
         "pushover"
       ],
-      "source_page": 39
+      "source_page": 39,
+      "english_label": "Easy Task"
     },
     {
       "bucket_id": "v502_323",
@@ -632757,7 +633149,8 @@
         "guileful",
         "wily"
       ],
-      "source_page": 39
+      "source_page": 39,
+      "english_label": "Skillful, talented"
     },
     {
       "bucket_id": "v502_324",
@@ -632776,7 +633169,8 @@
         "maze",
         "riddle"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Riddle"
     },
     {
       "bucket_id": "v502_325",
@@ -632814,7 +633208,8 @@
       "source_page": 40,
       "aliases": [
         "추측하다"
-      ]
+      ],
+      "english_label": "Fathom / Plumb"
     },
     {
       "bucket_id": "v502_326",
@@ -632836,7 +633231,8 @@
         "numismatist",
         "philatelist"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Collector"
     },
     {
       "bucket_id": "v502_327",
@@ -632866,7 +633262,8 @@
         "gaunt",
         "haggard"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "emaciated, thin"
     },
     {
       "bucket_id": "v502_328",
@@ -632910,7 +633307,8 @@
         "ruminate",
         "speculate"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Contemplate, meditate"
     },
     {
       "bucket_id": "v502_329",
@@ -632932,7 +633330,8 @@
         "proficient",
         "versed"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Skilled, skillful"
     },
     {
       "bucket_id": "v502_330",
@@ -632957,7 +633356,8 @@
         "flawless",
         "faultless"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Spotless / Flawless"
     },
     {
       "bucket_id": "v502_331",
@@ -632981,7 +633381,8 @@
         "revel",
         "revelry"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Drinking party, revelry"
     },
     {
       "bucket_id": "v502_332",
@@ -633004,7 +633405,8 @@
         "sober",
         "temperate"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "Sober, temperate"
     },
     {
       "bucket_id": "v502_333",
@@ -633100,7 +633502,8 @@
       "source_page": 40,
       "aliases": [
         "기분이 언짢은, 토라진, 골이 나서 말을 않는"
-      ]
+      ],
+      "english_label": "sad, gloomy"
     },
     {
       "bucket_id": "v502_334",
@@ -633128,7 +633531,8 @@
         "lament",
         "mourn"
       ],
-      "source_page": 40
+      "source_page": 40,
+      "english_label": "To be sad, to lament"
     },
     {
       "bucket_id": "v502_335",
@@ -633161,7 +633565,8 @@
         "mournful",
         "woeful"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Sad, mournful, tearful"
     },
     {
       "bucket_id": "v502_336",
@@ -633182,7 +633587,8 @@
         "embitter",
         "exacerbate"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "to make sad"
     },
     {
       "bucket_id": "v502_337",
@@ -633219,7 +633625,8 @@
         "sanction",
         "validate"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Approve / Endorse"
     },
     {
       "bucket_id": "v502_338",
@@ -633279,7 +633686,8 @@
         "stanza",
         "threnody"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Poem / Song"
     },
     {
       "bucket_id": "v502_339",
@@ -633297,7 +633705,8 @@
         "lout",
         "yokel"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Country Bumpkin"
     },
     {
       "bucket_id": "v502_340",
@@ -633327,7 +633736,8 @@
         "loutish",
         "tactless"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Boorish / Tactless"
     },
     {
       "bucket_id": "v502_341",
@@ -633351,7 +633761,8 @@
         "opportune",
         "timely"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Timely / Opportune"
     },
     {
       "bucket_id": "v502_342",
@@ -633372,7 +633783,8 @@
         "malapropos",
         "untimely"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Untimely / Inopportune"
     },
     {
       "bucket_id": "v502_343",
@@ -633404,7 +633816,8 @@
         "wither",
         "wizen"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "Wither / Make Wither"
     },
     {
       "bucket_id": "v502_344",
@@ -633457,7 +633870,8 @@
         "immaterial",
         "insignificant"
       ],
-      "source_page": 41
+      "source_page": 41,
+      "english_label": "trivial, trivial, unimportant"
     },
     {
       "bucket_id": "v502_345",
@@ -633501,7 +633915,8 @@
         "trumpery",
         "tawdry"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Trifle / Trivial Thing"
     },
     {
       "bucket_id": "v502_346",
@@ -633529,7 +633944,8 @@
         "initiation",
         "threshold"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Start, start"
     },
     {
       "bucket_id": "v502_347",
@@ -633561,7 +633977,8 @@
         "initiate",
         "launch"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Start"
     },
     {
       "bucket_id": "v502_348",
@@ -633583,7 +634000,8 @@
         "desecrate",
         "profane"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Blaspheme / Desecrate"
     },
     {
       "bucket_id": "v502_349",
@@ -633601,7 +634019,8 @@
         "sacrament",
         "sanctify"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "sanctify"
     },
     {
       "bucket_id": "v502_350",
@@ -633632,7 +634051,8 @@
         "sacrosanct",
         "spiritual"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Sacred / Divine"
     },
     {
       "bucket_id": "v502_351",
@@ -633653,7 +634073,8 @@
         "pious",
         "sacred"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Devout / Pious"
     },
     {
       "bucket_id": "v502_352",
@@ -633687,7 +634108,8 @@
         "sapient",
         "thoughtful"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Prudent, wise, thoughtful"
     },
     {
       "bucket_id": "v502_353",
@@ -633714,7 +634136,8 @@
         "gaffe",
         "turkey"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Failure / Mistake"
     },
     {
       "bucket_id": "v502_354",
@@ -633741,7 +634164,8 @@
         "execrate",
         "loathe"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "(strongly) dislike, detest"
     },
     {
       "bucket_id": "v502_355",
@@ -633785,7 +634209,8 @@
         "revulsion",
         "umbrage"
       ],
-      "source_page": 42
+      "source_page": 42,
+      "english_label": "Disgust / Antipathy"
     },
     {
       "bucket_id": "v502_356",
@@ -633850,7 +634275,8 @@
         "resentful",
         "revolting"
       ],
-      "source_page": 43
+      "source_page": 43,
+      "english_label": "Repugnant / Unpleasant"
     },
     {
       "bucket_id": "v502_357",
@@ -633950,7 +634376,8 @@
         "모여 살기 좋아하는",
         "은둔을 좋아하는",
         "간섭하기 좋아하는"
-      ]
+      ],
+      "english_label": "Combative / Belligerent"
     },
     {
       "bucket_id": "v502_358",
@@ -634032,7 +634459,8 @@
         "난투, 소란스러운 말다툼",
         "사소한 말다툼, 소규모 전투",
         "공식적(formal) 싸움"
-      ]
+      ],
+      "english_label": "Fights / Quarrels"
     },
     {
       "bucket_id": "v502_359",
@@ -634054,7 +634482,8 @@
         "garner",
         "hoard"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "to pile up, to accumulate"
     },
     {
       "bucket_id": "v502_360",
@@ -634098,7 +634527,8 @@
         "slag",
         "tatter"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "Waste / Dregs"
     },
     {
       "bucket_id": "v502_361",
@@ -634134,7 +634564,8 @@
         "toadeater",
         "truckler"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "flatterer, flatterer"
     },
     {
       "bucket_id": "v502_362",
@@ -634175,7 +634606,8 @@
         "unctuous",
         "vassal"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "flattering, flattering, servile"
     },
     {
       "bucket_id": "v502_363",
@@ -634220,7 +634652,8 @@
         "toady",
         "truckle"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "flatter, flatter"
     },
     {
       "bucket_id": "v502_364",
@@ -634246,7 +634679,8 @@
         "flagrant",
         "notorious"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "Notorious / Infamous"
     },
     {
       "bucket_id": "v502_365",
@@ -634276,7 +634710,8 @@
         "malice",
         "rancor"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "malice, hostility, hostility, resentment"
     },
     {
       "bucket_id": "v502_366",
@@ -634303,7 +634738,8 @@
         "malignant",
         "malign"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "malicious, hostile"
     },
     {
       "bucket_id": "v502_367",
@@ -634338,7 +634774,8 @@
         "stenchful",
         "stinking"
       ],
-      "source_page": 44
+      "source_page": 44,
+      "english_label": "Smelly"
     },
     {
       "bucket_id": "v502_368",
@@ -634378,7 +634815,8 @@
         "skittish",
         "squeamish"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "Restless / Anxious"
     },
     {
       "bucket_id": "v502_369",
@@ -634424,7 +634862,8 @@
         "steadfast",
         "unwavering"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "Stable, unchanging"
     },
     {
       "bucket_id": "v502_370",
@@ -634450,7 +634889,8 @@
         "insinuation",
         "intimation"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "Hint / Implication"
     },
     {
       "bucket_id": "v502_371",
@@ -634487,7 +634927,8 @@
         "intimate",
         "implicate"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "imply"
     },
     {
       "bucket_id": "v502_372",
@@ -634540,7 +634981,8 @@
       "aliases": [
         "암호화하다",
         "암호를 해독하다"
-      ]
+      ],
+      "english_label": "Code / Cipher"
     },
     {
       "bucket_id": "v502_373",
@@ -634613,7 +635055,8 @@
         "surpass",
         "transcend"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "overwhelm, surpass"
     },
     {
       "bucket_id": "v502_374",
@@ -634703,7 +635146,8 @@
         "svelte",
         "thin"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "thin, poor, weak"
     },
     {
       "bucket_id": "v502_375",
@@ -634751,7 +635195,8 @@
         "undermine",
         "weaken"
       ],
-      "source_page": 45
+      "source_page": 45,
+      "english_label": "to weaken, to weaken"
     },
     {
       "bucket_id": "v502_376",
@@ -634799,7 +635244,8 @@
         "weak",
         "weary"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "weak, powerless"
     },
     {
       "bucket_id": "v502_377",
@@ -634830,7 +635276,8 @@
         "breakable",
         "flimsy"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "weak, soft, fragile, easily damaged"
     },
     {
       "bucket_id": "v502_378",
@@ -634851,7 +635298,8 @@
         "qualm",
         "twinge"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Remorse / Compunction"
     },
     {
       "bucket_id": "v502_379",
@@ -634879,7 +635327,8 @@
         "murky",
         "somber"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "dark, gloomy"
     },
     {
       "bucket_id": "v502_380",
@@ -634950,7 +635399,8 @@
         "stumble",
         "stupefy"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "to bewilder, confuse"
     },
     {
       "bucket_id": "v502_381",
@@ -634973,7 +635423,8 @@
         "behave",
         "befit"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Suit / Befit"
     },
     {
       "bucket_id": "v502_382",
@@ -635002,7 +635453,8 @@
         "suppress",
         "swallow"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Suppress, endure"
     },
     {
       "bucket_id": "v502_383",
@@ -635026,7 +635478,8 @@
         "lineament",
         "visage"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Face / Appearance / Aspect"
     },
     {
       "bucket_id": "v502_384",
@@ -635051,7 +635504,8 @@
         "furrow",
         "wince"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Frown"
     },
     {
       "bucket_id": "v502_385",
@@ -635082,7 +635536,8 @@
         "pied",
         "variegated"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Mottled / Variegated"
     },
     {
       "bucket_id": "v502_386",
@@ -635113,7 +635568,8 @@
         "serious",
         "earnest"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Solemn / Grave"
     },
     {
       "bucket_id": "v502_387",
@@ -635143,7 +635599,8 @@
         "repercussion",
         "upshot"
       ],
-      "source_page": 46
+      "source_page": 46,
+      "english_label": "Aftermath / Consequence"
     },
     {
       "bucket_id": "v502_388",
@@ -635174,7 +635631,8 @@
         "suture",
         "weld"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "connect"
     },
     {
       "bucket_id": "v502_389",
@@ -635218,7 +635676,8 @@
         "lag",
         "leeway"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Postpone, delay (delay)"
     },
     {
       "bucket_id": "v502_390",
@@ -635244,7 +635703,8 @@
         "screed",
         "valedictory"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Speech"
     },
     {
       "bucket_id": "v502_391",
@@ -635267,7 +635727,8 @@
         "wistful",
         "yearning"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Aspiring / Eager"
     },
     {
       "bucket_id": "v502_392",
@@ -635302,7 +635763,8 @@
         "slaver",
         "yearn"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Aspire, yearn"
     },
     {
       "bucket_id": "v502_393",
@@ -635333,7 +635795,8 @@
       "source_page": 47,
       "aliases": [
         "열정적인 사람"
-      ]
+      ],
+      "english_label": "Passionate / Enthusiastic"
     },
     {
       "bucket_id": "v502_394",
@@ -635388,7 +635851,8 @@
       "source_page": 47,
       "aliases": [
         "내구성이 있는, 오래 견디는"
-      ]
+      ],
+      "english_label": "Permanent / Enduring"
     },
     {
       "bucket_id": "v502_395",
@@ -635405,7 +635869,8 @@
         "nutriment",
         "nourishment"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Nutrition / Nourishment"
     },
     {
       "bucket_id": "v502_396",
@@ -635430,7 +635895,8 @@
         "nurture",
         "nourish"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Nourish"
     },
     {
       "bucket_id": "v502_397",
@@ -635452,7 +635918,8 @@
         "warrant",
         "writ"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Warrant / Writ"
     },
     {
       "bucket_id": "v502_398",
@@ -635478,7 +635945,8 @@
         "sibyl",
         "soothsayer"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "Prophet"
     },
     {
       "bucket_id": "v502_399",
@@ -635533,7 +636001,8 @@
         "soothsay",
         "vaticinate"
       ],
-      "source_page": 47
+      "source_page": 47,
+      "english_label": "prophesy"
     },
     {
       "bucket_id": "v502_400",
@@ -635553,7 +636022,8 @@
         "decorum",
         "propriety"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Courtesy"
     },
     {
       "bucket_id": "v502_401",
@@ -635602,7 +636072,8 @@
         "seemly",
         "urbane"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "polite, courteous"
     },
     {
       "bucket_id": "v502_402",
@@ -635620,7 +636091,8 @@
         "rabble",
         "mob"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Rabble / Disorderly Crowd"
     },
     {
       "bucket_id": "v502_403",
@@ -635649,7 +636121,8 @@
         "rank",
         "thorough"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Complete / Entire"
     },
     {
       "bucket_id": "v502_404",
@@ -635684,7 +636157,8 @@
         "similitude",
         "veneer"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Appearance, appearance"
     },
     {
       "bucket_id": "v502_405",
@@ -635711,7 +636185,8 @@
         "outlandish",
         "peregrine"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Foreign / Exotic"
     },
     {
       "bucket_id": "v502_406",
@@ -635736,7 +636211,8 @@
         "risky",
         "risque"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Obscene / Lewd"
     },
     {
       "bucket_id": "v502_407",
@@ -635761,7 +636237,8 @@
         "schema",
         "synopsis"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Summary"
     },
     {
       "bucket_id": "v502_408",
@@ -635793,7 +636270,8 @@
         "resume",
         "summarize"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "summarize"
     },
     {
       "bucket_id": "v502_409",
@@ -635821,7 +636299,8 @@
         "marrow",
         "pith"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Gist, key point"
     },
     {
       "bucket_id": "v502_410",
@@ -635854,7 +636333,8 @@
         "vilification",
         "vituperation"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Profanity, criticism"
     },
     {
       "bucket_id": "v502_411",
@@ -635875,7 +636355,8 @@
         "valor",
         "prowess"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "Courage, spirit"
     },
     {
       "bucket_id": "v502_412",
@@ -635903,7 +636384,8 @@
         "inspire",
         "spirit"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "To encourage, to inspire"
     },
     {
       "bucket_id": "v502_413",
@@ -635938,7 +636420,8 @@
         "inspired",
         "spirited"
       ],
-      "source_page": 48
+      "source_page": 48,
+      "english_label": "courageous, inspired, triumphant"
     },
     {
       "bucket_id": "v502_414",
@@ -635980,7 +636463,8 @@
         "valiant",
         "valorous"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Courageous, brave"
     },
     {
       "bucket_id": "v502_415",
@@ -636010,7 +636494,8 @@
         "peep",
         "whine"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Animal Cries / Calls"
     },
     {
       "bucket_id": "v502_416",
@@ -636035,7 +636520,8 @@
         "preposterous",
         "ridiculous"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "(absurd) ridiculous"
     },
     {
       "bucket_id": "v502_417",
@@ -636071,7 +636557,8 @@
         "unwittingly",
         "unwitting"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Accidental"
     },
     {
       "bucket_id": "v502_418",
@@ -636087,7 +636574,8 @@
         "fable",
         "parable"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Fable / Allegory"
     },
     {
       "bucket_id": "v502_419",
@@ -636115,7 +636603,8 @@
         "static",
         "stationary"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "not moving, stationary"
     },
     {
       "bucket_id": "v502_420",
@@ -636153,7 +636642,8 @@
         "ogle",
         "beam"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Ways of Laughing / Smiling"
     },
     {
       "bucket_id": "v502_421",
@@ -636177,7 +636667,8 @@
         "pristine",
         "unscathed"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Intact / Unscathed"
     },
     {
       "bucket_id": "v502_422",
@@ -636199,7 +636690,8 @@
         "condole",
         "soothe"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "Comfort"
     },
     {
       "bucket_id": "v502_423",
@@ -636251,7 +636743,8 @@
       "source_page": 49,
       "aliases": [
         "(권리, 재산을) 침해하다, 침입하다"
-      ]
+      ],
+      "english_label": "violate (law, rule)"
     },
     {
       "bucket_id": "v502_424",
@@ -636280,7 +636773,8 @@
         "affect",
         "feign"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "disguise, disguise"
     },
     {
       "bucket_id": "v502_425",
@@ -636305,7 +636799,8 @@
         "phantom",
         "goblin"
       ],
-      "source_page": 49
+      "source_page": 49,
+      "english_label": "ghost"
     },
     {
       "bucket_id": "v502_426",
@@ -636342,7 +636837,8 @@
         "ranking",
         "renowned"
       ],
-      "source_page": 50
+      "source_page": 50,
+      "english_label": "famous"
     },
     {
       "bucket_id": "v502_427",
@@ -636381,7 +636877,8 @@
       "source_page": 50,
       "aliases": [
         "원하는 모양대로 만들 수 있는"
-      ]
+      ],
+      "english_label": "Malleable / Pliable"
     },
     {
       "bucket_id": "v502_428",
@@ -636420,7 +636917,8 @@
         "lithe",
         "supple"
       ],
-      "source_page": 50
+      "source_page": 50,
+      "english_label": "Graceful / Agile"
     },
     {
       "bucket_id": "v502_429",
@@ -636455,7 +636953,8 @@
         "coax",
         "wheedle"
       ],
-      "source_page": 50
+      "source_page": 50,
+      "english_label": "tempt"
     },
     {
       "bucket_id": "v502_430",
@@ -636678,7 +637177,8 @@
         "암시",
         "은밀히 보여주다, 어렴풋이 보여주다",
         "은밀하게 따라가다, 미행하다"
-      ]
+      ],
+      "english_label": "Covert Actions / Secrecy"
     },
     {
       "bucket_id": "v502_431",
@@ -636708,7 +637208,8 @@
         "insidious",
         "underhanded"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "Secretive / Cunning"
     },
     {
       "bucket_id": "v502_432",
@@ -636730,7 +637231,8 @@
         "cant",
         "patter"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "Slang / Cant"
     },
     {
       "bucket_id": "v502_433",
@@ -636779,7 +637281,8 @@
         "incontinent",
         "rakish"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "Lewd / Lustful"
     },
     {
       "bucket_id": "v502_434",
@@ -636804,7 +637307,8 @@
         "intentional",
         "purposeful"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "Intentional"
     },
     {
       "bucket_id": "v502_435",
@@ -636832,7 +637336,8 @@
         "dubious",
         "incredulous"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "Suspicious"
     },
     {
       "bucket_id": "v502_436",
@@ -636867,7 +637372,8 @@
         "count (on)",
         "turn (to)"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "Rely / Depend"
     },
     {
       "bucket_id": "v502_437",
@@ -636906,7 +637412,8 @@
         "sever",
         "wean"
       ],
-      "source_page": 51
+      "source_page": 51,
+      "english_label": "separate"
     },
     {
       "bucket_id": "v502_438",
@@ -636962,7 +637469,8 @@
       "source_page": 51,
       "aliases": [
         "↔ self-explanatory: 자명한"
-      ]
+      ],
+      "english_label": "Obscure / Esoteric"
     },
     {
       "bucket_id": "v502_439",
@@ -636995,7 +637503,8 @@
         "grudge",
         "begrudge"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Be stingy, not willing to give"
     },
     {
       "bucket_id": "v502_440",
@@ -637037,7 +637546,8 @@
         "stinting",
         "tight-fisted"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Stingy"
     },
     {
       "bucket_id": "v502_441",
@@ -637058,7 +637568,8 @@
         "curmudgeon",
         "niggard"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Stingy person, miser, miser"
     },
     {
       "bucket_id": "v502_442",
@@ -637102,7 +637613,8 @@
       "aliases": [
         "인접하다",
         "인접한"
-      ]
+      ],
+      "english_label": "Proximity / Adjacency"
     },
     {
       "bucket_id": "v502_443",
@@ -637126,7 +637638,8 @@
         "incongruent",
         "incongruous"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Inconsistent / Contradictory"
     },
     {
       "bucket_id": "v502_444",
@@ -637150,7 +637663,8 @@
         "temporal",
         "temporary"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Temporary"
     },
     {
       "bucket_id": "v502_445",
@@ -637175,7 +637689,8 @@
         "stimulative",
         "exhilarant"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Stimulating / Exciting"
     },
     {
       "bucket_id": "v502_446",
@@ -637202,7 +637717,8 @@
         "vainglorious",
         "vaunting"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Boasting"
     },
     {
       "bucket_id": "v502_447",
@@ -637231,7 +637747,8 @@
         "gasconade",
         "puff"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "to boast, show off, brag"
     },
     {
       "bucket_id": "v502_448",
@@ -637283,7 +637800,8 @@
       "aliases": [
         "자만하다",
         "자만하여 웃다"
-      ]
+      ],
+      "english_label": "Conceited / Self-Satisfied"
     },
     {
       "bucket_id": "v502_449",
@@ -637312,7 +637830,8 @@
         "sift",
         "traverse"
       ],
-      "source_page": 52
+      "source_page": 52,
+      "english_label": "Investigate in detail"
     },
     {
       "bucket_id": "v502_450",
@@ -637345,7 +637864,8 @@
         "petite",
         "tiny"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "small"
     },
     {
       "bucket_id": "v502_451",
@@ -637369,7 +637889,8 @@
         "virago",
         "vixen"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Nag / Shrew"
     },
     {
       "bucket_id": "v502_452",
@@ -637392,7 +637913,8 @@
         "somnolent",
         "soporific"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Sleep-inducing"
     },
     {
       "bucket_id": "v502_453",
@@ -637425,7 +637947,8 @@
         "buffoon",
         "harlequin"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Miscellaneous"
     },
     {
       "bucket_id": "v502_454",
@@ -637451,7 +637974,8 @@
         "patchwork",
         "sundry"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Miscellany / Medley"
     },
     {
       "bucket_id": "v502_455",
@@ -637474,7 +637998,8 @@
         "ornament",
         "trappings"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Decoration"
     },
     {
       "bucket_id": "v502_456",
@@ -637494,7 +638019,8 @@
         "ornamented",
         "ornate"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Decorated"
     },
     {
       "bucket_id": "v502_457",
@@ -637514,7 +638040,8 @@
         "strip bare",
         "dismantle"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "Remove decoration"
     },
     {
       "bucket_id": "v502_458",
@@ -637556,7 +638083,8 @@
         "rococo",
         "showy"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "The decoration is gorgeous"
     },
     {
       "bucket_id": "v502_459",
@@ -637587,7 +638115,8 @@
         "simple",
         "plain"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "No decoration, simple"
     },
     {
       "bucket_id": "v502_460",
@@ -637614,7 +638143,8 @@
         "garnish",
         "ornament"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "decorate"
     },
     {
       "bucket_id": "v502_461",
@@ -637651,7 +638181,8 @@
         "tedious",
         "vapid"
       ],
-      "source_page": 53
+      "source_page": 53,
+      "english_label": "uninteresting, boring, dull"
     },
     {
       "bucket_id": "v502_462",
@@ -637683,7 +638214,8 @@
         "risible",
         "waggish"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "funny, funny, humorous"
     },
     {
       "bucket_id": "v502_463",
@@ -637705,7 +638237,8 @@
         "set back",
         "recrudesce"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Recur"
     },
     {
       "bucket_id": "v502_464",
@@ -637744,7 +638277,8 @@
         "tawdry",
         "vulgar"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "vulgar, vulgar, vulgar"
     },
     {
       "bucket_id": "v502_465",
@@ -637764,7 +638298,8 @@
         "imprecation",
         "malediction"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Curse"
     },
     {
       "bucket_id": "v502_466",
@@ -637793,7 +638328,8 @@
         "propensity",
         "penchant"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Aptitude / Inclination"
     },
     {
       "bucket_id": "v502_467",
@@ -637814,7 +638350,8 @@
         "accommodate",
         "adapt"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "adapt"
     },
     {
       "bucket_id": "v502_468",
@@ -637846,7 +638383,8 @@
         "raze",
         "ruin"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "annihilate, destroy"
     },
     {
       "bucket_id": "v502_469",
@@ -637880,7 +638418,8 @@
         "doyen",
         "artisan"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Expert / Connoisseur"
     },
     {
       "bucket_id": "v502_470",
@@ -637901,7 +638440,8 @@
         "idyllic",
         "pastoral"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "idyllic, idyllic"
     },
     {
       "bucket_id": "v502_471",
@@ -637927,7 +638467,8 @@
         "militant",
         "warlike"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Likes war, likes to fight"
     },
     {
       "bucket_id": "v502_472",
@@ -637947,7 +638488,8 @@
         "pioneer",
         "herald"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Forerunner / Omen"
     },
     {
       "bucket_id": "v502_473",
@@ -637979,7 +638521,8 @@
         "presage",
         "presentiment"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "omen, sign"
     },
     {
       "bucket_id": "v502_474",
@@ -638022,7 +638565,8 @@
         "premonish",
         "presage"
       ],
-      "source_page": 54
+      "source_page": 54,
+      "english_label": "Become an omen, predict, prophesy"
     },
     {
       "bucket_id": "v502_475",
@@ -638048,7 +638592,8 @@
         "peremptory",
         "plenary"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "absolute, final, complete"
     },
     {
       "bucket_id": "v502_476",
@@ -638067,7 +638612,8 @@
         "providence",
         "thrift"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Savings"
     },
     {
       "bucket_id": "v502_477",
@@ -638098,7 +638644,8 @@
         "provident",
         "thrifty"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Thrifty, frugal"
     },
     {
       "bucket_id": "v502_478",
@@ -638125,7 +638672,8 @@
         "secure",
         "ensconce"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Anchor / Settle"
     },
     {
       "bucket_id": "v502_479",
@@ -638150,7 +638698,8 @@
         "pregnable",
         "violable"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Vulnerable / Conquerable"
     },
     {
       "bucket_id": "v502_480",
@@ -638176,7 +638725,8 @@
         "subdue",
         "tread"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "conquer"
     },
     {
       "bucket_id": "v502_481",
@@ -638210,7 +638760,8 @@
         "vertex",
         "zenith"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Summit / Peak / Zenith"
     },
     {
       "bucket_id": "v502_482",
@@ -638252,7 +638803,8 @@
         "sedulous",
         "thorough"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Thorough / Painstaking"
     },
     {
       "bucket_id": "v502_483",
@@ -638276,7 +638828,8 @@
         "noetic",
         "phrenic"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Mental / Spiritual"
     },
     {
       "bucket_id": "v502_484",
@@ -638300,7 +638853,8 @@
         "troth",
         "veracity"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Honesty, sincerity"
     },
     {
       "bucket_id": "v502_485",
@@ -638341,7 +638895,8 @@
         "unfeigned",
         "veracious"
       ],
-      "source_page": 55
+      "source_page": 55,
+      "english_label": "Honest, frank"
     },
     {
       "bucket_id": "v502_486",
@@ -638426,7 +638981,8 @@
       "aliases": [
         "액체에 완전히 젖게 하다, 푹 젖게 하다",
         "액체 속에 완전히 잠기게 하다, 푹 담그다"
-      ]
+      ],
+      "english_label": "to make wet, moisten, immerse in liquid"
     },
     {
       "bucket_id": "v502_487",
@@ -638462,7 +639018,8 @@
         "purify",
         "refine"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "remove"
     },
     {
       "bucket_id": "v502_488",
@@ -638495,7 +639052,8 @@
       "source_page": 56,
       "aliases": [
         "조리가 없는"
-      ]
+      ],
+      "english_label": "Rambling / Desultory"
     },
     {
       "bucket_id": "v502_489",
@@ -638519,7 +639077,8 @@
         "propose",
         "propound"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "suggest"
     },
     {
       "bucket_id": "v502_490",
@@ -638556,7 +639115,8 @@
         "circumscribe",
         "smolder"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "limit, suppress"
     },
     {
       "bucket_id": "v502_491",
@@ -638593,7 +639153,8 @@
         "rally",
         "raillery"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "Banter / Playful Mockery"
     },
     {
       "bucket_id": "v502_492",
@@ -638633,7 +639194,8 @@
         "sneer",
         "taunt"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "to ridicule, ridicule"
     },
     {
       "bucket_id": "v502_493",
@@ -638664,7 +639226,8 @@
         "modulate",
         "qualify"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "Adjust, adjust, alleviate"
     },
     {
       "bucket_id": "v502_494",
@@ -638683,7 +639246,8 @@
         "moderator",
         "intercessor"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "Mediator / Arbitrator"
     },
     {
       "bucket_id": "v502_495",
@@ -638713,7 +639277,8 @@
       "source_page": 56,
       "aliases": [
         "서로 모순이 되는"
-      ]
+      ],
+      "english_label": "unharmonious, incompatible,"
     },
     {
       "bucket_id": "v502_496",
@@ -638734,7 +639299,8 @@
         "reverence",
         "veneration"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "Respect"
     },
     {
       "bucket_id": "v502_497",
@@ -638758,7 +639324,8 @@
         "reverential",
         "respectful"
       ],
-      "source_page": 56
+      "source_page": 56,
+      "english_label": "Respectful / Reverent"
     },
     {
       "bucket_id": "v502_498",
@@ -638785,7 +639352,8 @@
         "revere",
         "venerate"
       ],
-      "source_page": 57
+      "source_page": 57,
+      "english_label": "respect"
     },
     {
       "bucket_id": "v502_499",
@@ -638816,7 +639384,8 @@
         "prodigious",
         "august"
       ],
-      "source_page": 57
+      "source_page": 57,
+      "english_label": "Respectable"
     },
     {
       "bucket_id": "v502_500",
@@ -638852,7 +639421,8 @@
         "foil",
         "frustrate"
       ],
-      "source_page": 57
+      "source_page": 57,
+      "english_label": "frustrate"
     },
     {
       "bucket_id": "v502_501",
@@ -638905,7 +639475,8 @@
         "palmer",
         "pilgrim"
       ],
-      "source_page": 57
+      "source_page": 57,
+      "english_label": "Religion"
     },
     {
       "bucket_id": "v502_502",
@@ -639010,7 +639581,8 @@
         "소송을 좋아하는",
         "간섭하기(참견하기) 좋아하는",
         "장사(trade)를 좋아하는"
-      ]
+      ],
+      "english_label": "Reclusive / Solitary"
     },
     {
       "bucket_id": "v502_503",
@@ -639051,7 +639623,8 @@
         "rumple",
         "wrinkle"
       ],
-      "source_page": 57
+      "source_page": 57,
+      "english_label": "Wrinkle / Crease"
     },
     {
       "bucket_id": "v502_504",
@@ -639079,7 +639652,8 @@
         "deflect",
         "avert"
       ],
-      "source_page": 57
+      "source_page": 57,
+      "english_label": "Distract / Divert Attention"
     },
     {
       "bucket_id": "v502_505",
@@ -639167,7 +639741,8 @@
       "source_page": 58,
       "aliases": [
         "꼼꼼한, 세심한"
-      ]
+      ],
+      "english_label": "cautious, cautious, prudent"
     },
     {
       "bucket_id": "v502_506",
@@ -639203,7 +639778,8 @@
         "indoctrinate",
         "infiltrate"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Inject (idea, liquid, etc.)"
     },
     {
       "bucket_id": "v502_507",
@@ -639230,7 +639806,8 @@
         "swerve",
         "veer"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Digress / Deviate"
     },
     {
       "bucket_id": "v502_508",
@@ -639254,7 +639831,8 @@
         "mold",
         "template"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Mold / Template"
     },
     {
       "bucket_id": "v502_509",
@@ -639325,7 +639903,8 @@
         "명예를 손상시키다, 중상모략하다",
         "헐뜯다, 중상모략하다",
         "욕설하다, 중상모략하다"
-      ]
+      ],
+      "english_label": "Slander / Vilify"
     },
     {
       "bucket_id": "v502_510",
@@ -639354,7 +639933,8 @@
         "noteworthy",
         "substantial"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Important"
     },
     {
       "bucket_id": "v502_511",
@@ -639393,7 +639973,8 @@
         "suspension",
         "truce"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Pause / Suspension"
     },
     {
       "bucket_id": "v502_512",
@@ -639417,7 +639998,8 @@
         "refrain",
         "suspend"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Stop"
     },
     {
       "bucket_id": "v502_513",
@@ -639448,7 +640030,8 @@
         "improvise",
         "offhand"
       ],
-      "source_page": 58
+      "source_page": 58,
+      "english_label": "Impromptu / Extemporaneous"
     },
     {
       "bucket_id": "v502_514",
@@ -639478,7 +640061,8 @@
         "testimony",
         "testimonial"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "testify"
     },
     {
       "bucket_id": "v502_515",
@@ -639514,7 +640098,8 @@
         "terrain",
         "topography"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "Maps / Topography"
     },
     {
       "bucket_id": "v502_516",
@@ -639542,7 +640127,8 @@
         "obliterate",
         "retrench"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "delete, delete"
     },
     {
       "bucket_id": "v502_517",
@@ -639573,7 +640159,8 @@
         "exponent",
         "protagonist"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "Supporter"
     },
     {
       "bucket_id": "v502_518",
@@ -639617,7 +640204,8 @@
         "underlie",
         "underpin"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "Support, strengthen"
     },
     {
       "bucket_id": "v502_519",
@@ -639650,7 +640238,8 @@
         "support",
         "uphold"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "support, defend"
     },
     {
       "bucket_id": "v502_520",
@@ -639677,7 +640266,8 @@
         "subdue",
         "suppress"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "Suppress, subdue"
     },
     {
       "bucket_id": "v502_521",
@@ -639727,7 +640317,8 @@
         "threadbare",
         "timeworn"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "cliche, ordinary"
     },
     {
       "bucket_id": "v502_522",
@@ -639753,7 +640344,8 @@
         "unfeigned",
         "valid"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "Real"
     },
     {
       "bucket_id": "v502_523",
@@ -639786,7 +640378,8 @@
         "suffocate",
         "throttle"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "suffocate"
     },
     {
       "bucket_id": "v502_524",
@@ -639822,7 +640415,8 @@
         "ponderous",
         "unwieldy"
       ],
-      "source_page": 59
+      "source_page": 59,
+      "english_label": "Cumbersome / Unwieldy"
     },
     {
       "bucket_id": "v502_525",
@@ -639848,7 +640442,8 @@
         "implement",
         "officiate"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "execute, enforce"
     },
     {
       "bucket_id": "v502_526",
@@ -639875,7 +640470,8 @@
         "shorten",
         "truncate"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "shorten"
     },
     {
       "bucket_id": "v502_527",
@@ -639944,7 +640540,8 @@
         "dethrone",
         "uncrown"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "to drive out, to expel"
     },
     {
       "bucket_id": "v502_528",
@@ -640000,7 +640597,8 @@
       "source_page": 60,
       "aliases": [
         "(가장자리를) 톱니 모양으로 자르다"
-      ]
+      ],
+      "english_label": "tear, cut"
     },
     {
       "bucket_id": "v502_529",
@@ -640019,7 +640617,8 @@
         "bruise",
         "lesion"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "Abrasion / Lesion"
     },
     {
       "bucket_id": "v502_530",
@@ -640047,7 +640646,8 @@
         "officious",
         "protrusive"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "Nosy, likes to interfere"
     },
     {
       "bucket_id": "v502_531",
@@ -640074,7 +640674,8 @@
         "inventive",
         "original"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "Novel, original"
     },
     {
       "bucket_id": "v502_532",
@@ -640108,7 +640709,8 @@
         "wan",
         "yellowish"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "pale, poor complexion"
     },
     {
       "bucket_id": "v502_533",
@@ -640138,7 +640740,8 @@
         "inchoate",
         "rudimentary"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "Nascent / Incipient"
     },
     {
       "bucket_id": "v502_534",
@@ -640172,7 +640775,8 @@
         "immature",
         "premature"
       ],
-      "source_page": 60
+      "source_page": 60,
+      "english_label": "Inexperienced / Immature"
     },
     {
       "bucket_id": "v502_535",
@@ -640211,7 +640815,8 @@
         "tenderfoot",
         "tyro"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Beginner, youngster"
     },
     {
       "bucket_id": "v502_536",
@@ -640240,7 +640845,8 @@
         "deduce",
         "fetch"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "infer"
     },
     {
       "bucket_id": "v502_537",
@@ -640275,7 +640881,8 @@
         "subordinate",
         "vassal"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Follower / Subordinate / Assistant"
     },
     {
       "bucket_id": "v502_538",
@@ -640303,7 +640910,8 @@
         "speculate",
         "surmise"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Conjecture / Guess"
     },
     {
       "bucket_id": "v502_539",
@@ -640325,7 +640933,8 @@
         "loyalty",
         "patriotism"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Loyalty, faithfulness"
     },
     {
       "bucket_id": "v502_540",
@@ -640390,7 +640999,8 @@
       "source_page": 61,
       "aliases": [
         "(하였던 말을) 부인하다, 취소하다"
-      ]
+      ],
+      "english_label": "Cancel, invalidate (law, resolution, contract)"
     },
     {
       "bucket_id": "v502_541",
@@ -640416,7 +641026,8 @@
         "rapprochement",
         "rapport"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Amity / Rapport"
     },
     {
       "bucket_id": "v502_542",
@@ -640457,7 +641068,8 @@
         "self-effacing",
         "standoffish"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Aloof / Reserved"
     },
     {
       "bucket_id": "v502_543",
@@ -640475,7 +641087,8 @@
         "drool",
         "slaver"
       ],
-      "source_page": 61
+      "source_page": 61,
+      "english_label": "Drool / Slaver"
     },
     {
       "bucket_id": "v502_544",
@@ -640544,7 +641157,8 @@
       "aliases": [
         "격찬하다",
         "칭찬할 만한"
-      ]
+      ],
+      "english_label": "Praise, praise"
     },
     {
       "bucket_id": "v502_545",
@@ -640584,7 +641198,8 @@
         "roseate",
         "sprightly"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "cheerful, cheerful"
     },
     {
       "bucket_id": "v502_546",
@@ -640620,7 +641235,8 @@
         "dissolute",
         "pervert"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "corrupt"
     },
     {
       "bucket_id": "v502_547",
@@ -640667,7 +641283,8 @@
         "vicious",
         "vile"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "corrupt, immoral"
     },
     {
       "bucket_id": "v502_548",
@@ -640739,7 +641356,8 @@
         "importune",
         "tout"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "to plead, to plead"
     },
     {
       "bucket_id": "v502_549",
@@ -640772,7 +641390,8 @@
         "secede",
         "tergiversate"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "Withdraw"
     },
     {
       "bucket_id": "v502_550",
@@ -640792,7 +641411,8 @@
         "gorge",
         "greed"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "Greed, desire"
     },
     {
       "bucket_id": "v502_551",
@@ -640823,7 +641443,8 @@
         "insatiable",
         "rapacious"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "greedy, ravenous"
     },
     {
       "bucket_id": "v502_552",
@@ -640859,7 +641480,8 @@
         "derelict",
         "slack"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "Negligent / Remiss"
     },
     {
       "bucket_id": "v502_553",
@@ -640883,7 +641505,8 @@
         "easygoing",
         "insouciant"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "Carefree, worry-free"
     },
     {
       "bucket_id": "v502_554",
@@ -640905,7 +641528,8 @@
         "endemic",
         "vernacular"
       ],
-      "source_page": 62
+      "source_page": 62,
+      "english_label": "indigenous, unique"
     },
     {
       "bucket_id": "v502_555",
@@ -640930,7 +641554,8 @@
         "penetrable",
         "leach"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "Permeable / Porous"
     },
     {
       "bucket_id": "v502_556",
@@ -640965,7 +641590,8 @@
       "source_page": 63,
       "aliases": [
         "반투명한"
-      ]
+      ],
+      "english_label": "Transparent, clear, easy to understand"
     },
     {
       "bucket_id": "v502_557",
@@ -641012,7 +641638,8 @@
         "raze",
         "wreck"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "destroy, devastate"
     },
     {
       "bucket_id": "v502_558",
@@ -641038,7 +641665,8 @@
         "unbury",
         "unearth"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "dig up, reveal, expose"
     },
     {
       "bucket_id": "v502_559",
@@ -641065,7 +641693,8 @@
         "undulate",
         "vacillate"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "to wave, vibrate, constantly fluctuate"
     },
     {
       "bucket_id": "v502_560",
@@ -641103,7 +641732,8 @@
       "source_page": 63,
       "aliases": [
         "널리 전파하다, 포고하다"
-      ]
+      ],
+      "english_label": "Spread, scatter widely"
     },
     {
       "bucket_id": "v502_561",
@@ -641124,7 +641754,8 @@
         "provincial",
         "sectarian"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "Insular / Narrow-Minded"
     },
     {
       "bucket_id": "v502_562",
@@ -641152,7 +641783,8 @@
         "adjourn",
         "dissolve"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "close, adjourn"
     },
     {
       "bucket_id": "v502_563",
@@ -641177,7 +641809,8 @@
         "besiege",
         "surround"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "Surround (attack)"
     },
     {
       "bucket_id": "v502_564",
@@ -641198,7 +641831,8 @@
         "explode",
         "fulminate"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "explode"
     },
     {
       "bucket_id": "v502_565",
@@ -641242,7 +641876,8 @@
         "unshackle",
         "untangle"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "release, liberate"
     },
     {
       "bucket_id": "v502_566",
@@ -641299,7 +641934,8 @@
         "teeming",
         "well-manured"
       ],
-      "source_page": 63
+      "source_page": 63,
+      "english_label": "abundant, bountiful, fertile, fertile"
     },
     {
       "bucket_id": "v502_567",
@@ -641340,7 +641976,8 @@
       "source_page": 64,
       "aliases": [
         "글·음악·연극 등)"
-      ]
+      ],
+      "english_label": "Satire / Parody"
     },
     {
       "bucket_id": "v502_568",
@@ -641373,7 +642010,8 @@
       "source_page": 64,
       "aliases": [
         "글·음악·연극 등)"
-      ]
+      ],
+      "english_label": "to satirize"
     },
     {
       "bucket_id": "v502_569",
@@ -641404,7 +642042,8 @@
         "sanctum",
         "shelter"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "Shelter"
     },
     {
       "bucket_id": "v502_570",
@@ -641423,7 +642062,8 @@
         "gory",
         "sanguinary"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "bloody, bloody"
     },
     {
       "bucket_id": "v502_571",
@@ -641467,7 +642107,8 @@
         "skulk",
         "swerve"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "avoid"
     },
     {
       "bucket_id": "v502_572",
@@ -641488,7 +642129,8 @@
         "affront",
         "confront"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "To confront without avoiding, to bring on oneself"
     },
     {
       "bucket_id": "v502_573",
@@ -641509,7 +642151,8 @@
         "quibble",
         "tergiversation"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "Pretext / Evasion"
     },
     {
       "bucket_id": "v502_574",
@@ -641543,7 +642186,8 @@
         "slur",
         "tergiversate"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "To make an excuse, to avoid by speaking vaguely, to deceive"
     },
     {
       "bucket_id": "v502_575",
@@ -641568,7 +642212,8 @@
         "toil",
         "trap"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "Trap"
     },
     {
       "bucket_id": "v502_576",
@@ -641591,7 +642236,8 @@
       "source_page": 64,
       "aliases": [
         "잡종"
-      ]
+      ],
+      "english_label": "Alloy"
     },
     {
       "bucket_id": "v502_577",
@@ -641613,7 +642259,8 @@
         "legitimate",
         "licit"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "Legal"
     },
     {
       "bucket_id": "v502_578",
@@ -641644,7 +642291,8 @@
         "merge",
         "unite"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "Merge"
     },
     {
       "bucket_id": "v502_579",
@@ -641669,7 +642317,8 @@
         "mellow",
         "redolent"
       ],
-      "source_page": 64
+      "source_page": 64,
+      "english_label": "Sweet-Sounding / Fragrant"
     },
     {
       "bucket_id": "v502_580",
@@ -641755,7 +642404,8 @@
         "독의, 해로운",
         "치명적인, 목숨을 빼앗아가는",
         "무해한"
-      ]
+      ],
+      "english_label": "Harmful"
     },
     {
       "bucket_id": "v502_581",
@@ -641788,7 +642438,8 @@
         "trance",
         "weal"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "Happiness, ecstasy"
     },
     {
       "bucket_id": "v502_582",
@@ -641813,7 +642464,8 @@
         "rodomontade",
         "swagger"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "Boast / Bravado"
     },
     {
       "bucket_id": "v502_583",
@@ -641841,7 +642493,8 @@
         "turgid",
         "grandiose"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "Bombastic / Grandiose"
     },
     {
       "bucket_id": "v502_584",
@@ -641874,7 +642527,8 @@
         "swagger",
         "gasconade"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "to brag, to boast with exaggeration"
     },
     {
       "bucket_id": "v502_585",
@@ -641895,7 +642549,8 @@
         "braggadocio",
         "blowhard"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "Boaster / Braggart"
     },
     {
       "bucket_id": "v502_586",
@@ -641924,7 +642579,8 @@
         "obvious",
         "salient"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "prominent, prominent"
     },
     {
       "bucket_id": "v502_587",
@@ -641946,7 +642602,8 @@
         "vein",
         "vena cava"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "Blood Vessel"
     },
     {
       "bucket_id": "v502_588",
@@ -641963,7 +642620,8 @@
         "sanguine",
         "ruddy"
       ],
-      "source_page": 65
+      "source_page": 65,
+      "english_label": "Ruddy / Florid"
     },
     {
       "bucket_id": "v502_589",
@@ -641994,7 +642652,8 @@
         "repulsion",
         "revulsion"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Disgust, dislike, antipathy"
     },
     {
       "bucket_id": "v502_590",
@@ -642018,7 +642677,8 @@
         "execrate",
         "loathe"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Dislike, dislike very much"
     },
     {
       "bucket_id": "v502_591",
@@ -642047,7 +642707,8 @@
         "supernatural",
         "transcendental"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Metaphysical / Supernatural"
     },
     {
       "bucket_id": "v502_592",
@@ -642072,7 +642733,8 @@
         "slim",
         "svelte"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Slim"
     },
     {
       "bucket_id": "v502_593",
@@ -642105,7 +642767,8 @@
         "umbrage",
         "wrath"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Anger, Displeasure"
     },
     {
       "bucket_id": "v502_594",
@@ -642129,7 +642792,8 @@
         "resentful",
         "wrathful"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Angry, indignant"
     },
     {
       "bucket_id": "v502_595",
@@ -642184,7 +642848,8 @@
         "roil",
         "vex"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "make angry"
     },
     {
       "bucket_id": "v502_596",
@@ -642223,7 +642888,8 @@
         "snarl",
         "wreak"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "get angry"
     },
     {
       "bucket_id": "v502_597",
@@ -642288,7 +642954,8 @@
         "umbrageous",
         "waspish"
       ],
-      "source_page": 66
+      "source_page": 66,
+      "english_label": "Irritable, ill-tempered"
     },
     {
       "bucket_id": "v502_598",
@@ -642325,7 +642992,8 @@
         "sort out",
         "bring to terms"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Reconcile, mediate, arbitrate"
     },
     {
       "bucket_id": "v502_599",
@@ -642348,7 +643016,8 @@
         "medium",
         "milieu"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Environment, Habitat"
     },
     {
       "bucket_id": "v502_600",
@@ -642389,7 +643058,8 @@
         "sprightly",
         "spry"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "active, lively"
     },
     {
       "bucket_id": "v502_601",
@@ -642424,7 +643094,8 @@
         "effete",
         "somber"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Desolate, lonely"
     },
     {
       "bucket_id": "v502_602",
@@ -642450,7 +643121,8 @@
         "dilapidate",
         "sterilize"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Devastate"
     },
     {
       "bucket_id": "v502_603",
@@ -642498,7 +643170,8 @@
         "retrieve",
         "resurge"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Revive / Restore"
     },
     {
       "bucket_id": "v502_604",
@@ -642523,7 +643196,8 @@
         "peculate",
         "usurp"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "embezzle"
     },
     {
       "bucket_id": "v502_605",
@@ -642563,7 +643237,8 @@
       "aliases": [
         "뜻밖의 우연한 행운",
         "길조의, 행운의"
-      ]
+      ],
+      "english_label": "Windfall / Good Fortune"
     },
     {
       "bucket_id": "v502_606",
@@ -642583,7 +643258,8 @@
         "progeny",
         "scion"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Descendants"
     },
     {
       "bucket_id": "v502_607",
@@ -642606,7 +643282,8 @@
         "relapse",
         "set back"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "to retreat, to retreat"
     },
     {
       "bucket_id": "v502_608",
@@ -642630,7 +643307,8 @@
         "remorse",
         "rue"
       ],
-      "source_page": 67
+      "source_page": 67,
+      "english_label": "Regret"
     },
     {
       "bucket_id": "v502_609",
@@ -642743,7 +643421,8 @@
         "살금살금 소리 없이 은밀하게 기다",
         "여러 유형의 절도(竊盜)",
         "장물, 약탈물"
-      ]
+      ],
+      "english_label": "steal"
     },
     {
       "bucket_id": "v502_610",
@@ -642765,7 +643444,8 @@
         "trace",
         "vestige"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "english_label": "Trace / Vestige"
     },
     {
       "bucket_id": "v502_611",
@@ -642793,7 +643473,8 @@
         "intriguing",
         "telling"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "english_label": "Interesting"
     },
     {
       "bucket_id": "v502_612",
@@ -642825,7 +643506,8 @@
         "intrigue",
         "pique"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "english_label": "Attract / Intrigue"
     },
     {
       "bucket_id": "v502_613",
@@ -642852,7 +643534,8 @@
         "flirt",
         "philander"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "english_label": "Flirt / Philander"
     },
     {
       "bucket_id": "v502_614",
@@ -642892,7 +643575,8 @@
         "virility",
         "vivacity"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "english_label": "Strength / Vitality"
     },
     {
       "bucket_id": "v502_615",
@@ -642933,7 +643617,8 @@
         "undergird",
         "underpin"
       ],
-      "source_page": 68
+      "source_page": 68,
+      "english_label": "Strengthen / Invigorate"
     },
     {
       "bucket_id": "v502_616",
@@ -642950,7 +643635,8 @@
         "invigorating",
         "tonic"
       ],
-      "source_page": 69
+      "source_page": 69,
+      "english_label": "Invigorating / Energizing"
     },
     {
       "bucket_id": "v502_617",
@@ -642997,7 +643683,8 @@
         "taxing",
         "trying"
       ],
-      "source_page": 69
+      "source_page": 69,
+      "english_label": "Arduous / Difficult"
     },
     {
       "bucket_id": "v502_618",
@@ -643022,7 +643709,8 @@
         "travail",
         "tribulation"
       ],
-      "source_page": 69
+      "source_page": 69,
+      "english_label": "Burden / Ordeal"
     },
     {
       "bucket_id": "v502_619",
@@ -643102,7 +643790,8 @@
         "torpid",
         "vegetating"
       ],
-      "source_page": 69
+      "source_page": 69,
+      "english_label": "Weak / Powerless"
     },
     {
       "bucket_id": "v502_620",
@@ -643147,7 +643836,8 @@
         "sturdy",
         "vigorous"
       ],
-      "source_page": 69
+      "source_page": 69,
+      "english_label": "Strong / Powerful"
     }
   ],
   "source_files": {
