@@ -25,6 +25,31 @@ function uniqueWords(words) {
   return unique;
 }
 
+export function createFieldSubcategoryBuckets(entries, englishLabels = {}) {
+  const groups = new Map();
+
+  for (const entry of entries) {
+    if (!entry.bucketId || !entry.sourceLabel || !entry.word) continue;
+    const groupKey = [entry.book, entry.chapter, entry.bucketId, entry.sourceLabel].join("::");
+    const group = groups.get(groupKey) ?? {
+      bucket_id: `field-subcategory::${groupKey}`,
+      parentBucketId: entry.bucketId,
+      book: entry.book,
+      chapter: entry.chapter,
+      label: entry.sourceLabel,
+      englishLabel: englishLabels[entry.sourceLabel] ?? entry.sourceLabel,
+      words: [],
+    };
+    group.words.push(entry.word);
+    groups.set(groupKey, group);
+  }
+
+  return Array.from(groups.values()).map((group) => ({
+    ...group,
+    words: uniqueWords(group.words).map((item) => item.word),
+  }));
+}
+
 export function prepareFieldBuckets(buckets, entries) {
   const bucketsById = new Map(buckets.map((bucket) => [bucket.bucket_id, bucket]));
   const exactWordsByBucket = new Map();

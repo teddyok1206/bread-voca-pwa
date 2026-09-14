@@ -3,10 +3,12 @@ import { readFile } from "node:fs/promises";
 import {
   createFieldQuestion,
   createFieldRoundOrder,
+  createFieldSubcategoryBuckets,
   normalizeFieldWord,
   prepareFieldBuckets,
   restoreFieldProgress,
 } from "../assets/field-mode-core.js";
+import { v301FieldLabels } from "../assets/v301-field-labels.js";
 
 const pack = JSON.parse(
   await readFile(new URL("../vocab_pack.json", import.meta.url), "utf8"),
@@ -21,7 +23,7 @@ function seededRandom(seed) {
 }
 
 for (const [book, expectedCount] of [
-  ["V301", 70],
+  ["V301", 400],
   ["V502", 620],
 ]) {
   const rawBuckets = pack.semantic_buckets.filter((bucket) => bucket.book === book);
@@ -32,9 +34,40 @@ for (const [book, expectedCount] of [
       bucketId: entry.bucket_id,
       sourceLabel: entry.source_label,
     }));
-  const buckets = prepareFieldBuckets(rawBuckets, entries);
+  const buckets =
+    book === "V301"
+      ? createFieldSubcategoryBuckets(entries, v301FieldLabels)
+      : prepareFieldBuckets(rawBuckets, entries);
   assert.equal(buckets.length, expectedCount, `${book} 범주 수`);
-  assert.ok(buckets.every((bucket) => bucket.english_label?.trim()), `${book} 영문 범주 뜻`);
+  assert.ok(
+    buckets.every((bucket) => (bucket.englishLabel ?? bucket.english_label)?.trim()),
+    `${book} 영문 범주 뜻`,
+  );
+  if (book === "V301") {
+    const pursuitSubcategories = buckets.filter(
+      (bucket) => bucket.parentBucketId === "v301_02",
+    );
+    assert.deepEqual(
+      new Set(pursuitSubcategories.map((bucket) => bucket.label)),
+      new Set([
+        "추구하다",
+        "유혹하다, 구애하다",
+        "당당히 맞서다",
+        "회피하다",
+        "방향을 바꾸어 피하다",
+        "꾀병을 부려 피하다",
+      ]),
+      "V301 02. 추구/회피의 하위 범주",
+    );
+    assert.equal(
+      pursuitSubcategories.find((bucket) => bucket.label === "추구하다")?.englishLabel,
+      "Pursue",
+    );
+    assert.ok(
+      buckets.every((bucket) => !/[가-힣]/.test(bucket.englishLabel)),
+      "V301 하위 범주 영문 번역",
+    );
+  }
 
   const order = createFieldRoundOrder(buckets, seededRandom(expectedCount));
   assert.equal(order.length, expectedCount);
@@ -67,4 +100,4 @@ for (const [book, expectedCount] of [
   }
 }
 
-console.log("field mode: V301 70개 및 V502 620개 범주 검증 완료");
+console.log("field mode: V301 하위 범주 400개 및 V502 범주 620개 검증 완료");
