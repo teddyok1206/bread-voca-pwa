@@ -1,0 +1,3051 @@
+{
+  "source_file": "V501.pdf",
+  "source_version": "11.1",
+  "source_sha256": "0d919f5b27a7dfd0c21c4eb7e7d90d910e6a54a8be4c838eafa31919cc05c382",
+  "study_pages": 30,
+  "marker_count": 507,
+  "entries": [
+    {
+      "page": 1,
+      "word": "keep abreast with",
+      "gloss": "보조를 맞추다",
+      "id": "v501_0078_zz_note_01_01_keep_abreast_with"
+    },
+    {
+      "page": 1,
+      "word": "keep up with",
+      "gloss": "보조를 맞추다",
+      "id": "v501_0078_zz_note_01_02_keep_up_with"
+    },
+    {
+      "page": 1,
+      "word": "an ace in the hole",
+      "gloss": "비장의 무기",
+      "id": "v501_0078_zz_note_01_03_an_ace_in_the_hole"
+    },
+    {
+      "page": 1,
+      "word": "Achilles' heel",
+      "gloss": "아킬레스건, 약점",
+      "id": "v501_0078_zz_note_01_04_achilles_heel"
+    },
+    {
+      "page": 1,
+      "word": "act out",
+      "gloss": "(감정, 생각 등을) 실행하다",
+      "id": "v501_0078_zz_note_01_05_act_out"
+    },
+    {
+      "page": 1,
+      "word": "act up",
+      "gloss": "(아이들이) 말썽부리다",
+      "id": "v501_0078_zz_note_01_06_act_up"
+    },
+    {
+      "page": 1,
+      "word": "much ado about nothing",
+      "gloss": "헛소동",
+      "id": "v501_0078_zz_note_01_07_much_ado_about_nothing"
+    },
+    {
+      "page": 1,
+      "word": "in (the) aggregate",
+      "gloss": "총합해서",
+      "id": "v501_0078_zz_note_01_08_in_the_aggregate"
+    },
+    {
+      "page": 1,
+      "word": "come to an agreement",
+      "gloss": "합의에 도달하다",
+      "id": "v501_0078_zz_note_01_09_come_to_an_agreement"
+    },
+    {
+      "page": 1,
+      "word": "reach an agreement",
+      "gloss": "합의에 도달하다",
+      "id": "v501_0078_zz_note_01_10_reach_an_agreement"
+    },
+    {
+      "page": 1,
+      "word": "all in all",
+      "gloss": "대체로; 전체적으로 말하자면",
+      "id": "v501_0078_zz_note_01_11_all_in_all"
+    },
+    {
+      "page": 1,
+      "word": "all told",
+      "gloss": "전부 합해서",
+      "id": "v501_0078_zz_note_01_12_all_told"
+    },
+    {
+      "page": 1,
+      "word": "run amok",
+      "gloss": "미친 듯이 날뛰다",
+      "id": "v501_0078_zz_note_01_13_run_amok"
+    },
+    {
+      "page": 1,
+      "word": "run amuck",
+      "gloss": "미친 듯이 날뛰다",
+      "id": "v501_0078_zz_note_01_14_run_amuck"
+    },
+    {
+      "page": 2,
+      "word": "fit the bill",
+      "gloss": "만족시키다; 꼭 들어맞다",
+      "id": "v501_0162_zz_note_02_01_fit_the_bill"
+    },
+    {
+      "page": 2,
+      "word": "foot the bill",
+      "gloss": "계산하다, 비용을 부담하다",
+      "id": "v501_0162_zz_note_02_02_foot_the_bill"
+    },
+    {
+      "page": 2,
+      "word": "twist one's arm",
+      "gloss": "강요하다",
+      "id": "v501_0162_zz_note_02_03_twist_one_s_arm"
+    },
+    {
+      "page": 2,
+      "word": "lay down one's arms",
+      "gloss": "항복하다",
+      "id": "v501_0162_zz_note_02_04_lay_down_one_s_arms"
+    },
+    {
+      "page": 2,
+      "word": "be up in arms against",
+      "gloss": "반기를 들다",
+      "id": "v501_0162_zz_note_02_05_be_up_in_arms_against"
+    },
+    {
+      "page": 2,
+      "word": "in arrears",
+      "gloss": "(빚이) 미불된",
+      "id": "v501_0162_zz_note_02_06_in_arrears"
+    },
+    {
+      "page": 2,
+      "word": "ascribe A to B",
+      "gloss": "A를 B의 탓으로 돌리다",
+      "id": "v501_0162_zz_note_02_07_ascribe_a_to_b"
+    },
+    {
+      "page": 2,
+      "word": "attribute A to B",
+      "gloss": "A를 B의 탓으로 돌리다",
+      "id": "v501_0162_zz_note_02_08_attribute_a_to_b"
+    },
+    {
+      "page": 2,
+      "word": "to little avail",
+      "gloss": "헛되이",
+      "id": "v501_0162_zz_note_02_09_to_little_avail"
+    },
+    {
+      "page": 2,
+      "word": "to no avail",
+      "gloss": "헛되이",
+      "id": "v501_0162_zz_note_02_10_to_no_avail"
+    },
+    {
+      "page": 2,
+      "word": "to little effect",
+      "gloss": "헛되이",
+      "id": "v501_0162_zz_note_02_11_to_little_effect"
+    },
+    {
+      "page": 2,
+      "word": "to no effect",
+      "gloss": "헛되이",
+      "id": "v501_0162_zz_note_02_12_to_no_effect"
+    },
+    {
+      "page": 3,
+      "word": "back down",
+      "gloss": "후퇴하다",
+      "id": "v501_0247_zz_note_03_01_back_down"
+    },
+    {
+      "page": 3,
+      "word": "back off",
+      "gloss": "후퇴하다",
+      "id": "v501_0247_zz_note_03_02_back_off"
+    },
+    {
+      "page": 3,
+      "word": "against this backdrop",
+      "gloss": "이러한 배경 상황에서",
+      "id": "v501_0247_zz_note_03_03_against_this_backdrop"
+    },
+    {
+      "page": 3,
+      "word": "be on bail",
+      "gloss": "보석중인",
+      "id": "v501_0247_zz_note_03_04_be_on_bail"
+    },
+    {
+      "page": 3,
+      "word": "jump bail",
+      "gloss": "보석 중 도망치다",
+      "id": "v501_0247_zz_note_03_05_jump_bail"
+    },
+    {
+      "page": 3,
+      "word": "hang in the balance",
+      "gloss": "불안한 상태에 있다",
+      "id": "v501_0247_zz_note_03_06_hang_in_the_balance"
+    },
+    {
+      "page": 3,
+      "word": "on balance",
+      "gloss": "여러모로 봐서",
+      "id": "v501_0247_zz_note_03_07_on_balance"
+    },
+    {
+      "page": 3,
+      "word": "strike a balance",
+      "gloss": "균형을 도모하다",
+      "id": "v501_0247_zz_note_03_08_strike_a_balance"
+    },
+    {
+      "page": 3,
+      "word": "cast a ballot",
+      "gloss": "표를 던지다",
+      "id": "v501_0247_zz_note_03_09_cast_a_ballot"
+    },
+    {
+      "page": 3,
+      "word": "stuff the ballot box",
+      "gloss": "부정투표를 하다",
+      "id": "v501_0247_zz_note_03_10_stuff_the_ballot_box"
+    },
+    {
+      "page": 3,
+      "word": "bank on",
+      "gloss": "기대를 걸다",
+      "id": "v501_0247_zz_note_03_11_bank_on"
+    },
+    {
+      "page": 3,
+      "word": "behind bars",
+      "gloss": "투옥된",
+      "id": "v501_0247_zz_note_03_12_behind_bars"
+    },
+    {
+      "page": 3,
+      "word": "a barrage of",
+      "gloss": "다량의",
+      "id": "v501_0247_zz_note_03_13_a_barrage_of"
+    },
+    {
+      "page": 3,
+      "word": "keep - at bay",
+      "gloss": "-를 궁지에 몰다",
+      "id": "v501_0247_zz_note_03_14_keep_at_bay"
+    },
+    {
+      "page": 3,
+      "word": "beat around the bush",
+      "gloss": "돌려서 이야기하다",
+      "id": "v501_0247_zz_note_03_15_beat_around_the_bush"
+    },
+    {
+      "page": 3,
+      "word": "take a beating",
+      "gloss": "참패하다",
+      "id": "v501_0247_zz_note_03_16_take_a_beating"
+    },
+    {
+      "page": 3,
+      "word": "beef up",
+      "gloss": "(군대를) 강화하다",
+      "id": "v501_0247_zz_note_03_17_beef_up"
+    },
+    {
+      "page": 3,
+      "word": "at the behest of",
+      "gloss": "-의 요청에 따라",
+      "id": "v501_0247_zz_note_03_18_at_the_behest_of"
+    },
+    {
+      "page": 3,
+      "word": "go belly up",
+      "gloss": "도산[파산]하다",
+      "id": "v501_0247_zz_note_03_19_go_belly_up"
+    },
+    {
+      "page": 3,
+      "word": "be bereft of",
+      "gloss": "-을 빼앗기다",
+      "id": "v501_0247_zz_note_03_20_be_bereft_of"
+    },
+    {
+      "page": 3,
+      "word": "go berserk",
+      "gloss": "미친 듯 날뛰다",
+      "id": "v501_0247_zz_note_03_21_go_berserk"
+    },
+    {
+      "page": 4,
+      "word": "wolf in sheep's clothing",
+      "gloss": "배신자",
+      "id": "v501_0308_zz_note_04_01_wolf_in_sheep_s_clothing"
+    },
+    {
+      "page": 4,
+      "word": "make it big",
+      "gloss": "큰 성공을 거두다",
+      "id": "v501_0308_zz_note_04_02_make_it_big"
+    },
+    {
+      "page": 4,
+      "word": "bite off more than one can chew",
+      "gloss": "힘에 부치는 일을 하다",
+      "id": "v501_0308_zz_note_04_03_bite_off_more_than_one_can_chew"
+    },
+    {
+      "page": 4,
+      "word": "bite the bullet",
+      "gloss": "이를 악물고 견디다",
+      "id": "v501_0308_zz_note_04_04_bite_the_bullet"
+    },
+    {
+      "page": 4,
+      "word": "bite the dust",
+      "gloss": "실패하다, 사라지다",
+      "id": "v501_0308_zz_note_04_05_bite_the_dust"
+    },
+    {
+      "page": 4,
+      "word": "bite the hand that feeds one",
+      "gloss": "은혜를 원수로 갚다",
+      "id": "v501_0308_zz_note_04_06_bite_the_hand_that_feeds_one"
+    },
+    {
+      "page": 4,
+      "word": "black out",
+      "gloss": "정전시키다",
+      "id": "v501_0308_zz_note_04_07_black_out"
+    },
+    {
+      "page": 4,
+      "word": "put the blame on",
+      "gloss": "-를 비난하다",
+      "id": "v501_0308_zz_note_04_08_put_the_blame_on"
+    },
+    {
+      "page": 4,
+      "word": "lay the blame on",
+      "gloss": "-를 비난하다",
+      "id": "v501_0308_zz_note_04_09_lay_the_blame_on"
+    },
+    {
+      "page": 4,
+      "word": "shift the blame on to",
+      "gloss": "-에게 책임을 전가하다",
+      "id": "v501_0308_zz_note_04_10_shift_the_blame_on_to"
+    },
+    {
+      "page": 4,
+      "word": "a bone of contention",
+      "gloss": "분쟁의 씨앗",
+      "id": "v501_0308_zz_note_04_11_a_bone_of_contention"
+    },
+    {
+      "page": 4,
+      "word": "have a bone to pick with",
+      "gloss": "불만을 가지다",
+      "id": "v501_0308_zz_note_04_12_have_a_bone_to_pick_with"
+    },
+    {
+      "page": 4,
+      "word": "make no bones about",
+      "gloss": "숨기지 않고 솔직히 표현하다",
+      "id": "v501_0308_zz_note_04_13_make_no_bones_about"
+    },
+    {
+      "page": 4,
+      "word": "be on the books",
+      "gloss": "기록되어 있는",
+      "id": "v501_0308_zz_note_04_14_be_on_the_books"
+    },
+    {
+      "page": 4,
+      "word": "bring - to book",
+      "gloss": "해명을 요구하다; 처벌하다",
+      "id": "v501_0308_zz_note_04_15_bring_to_book"
+    },
+    {
+      "page": 4,
+      "word": "go by the book",
+      "gloss": "원칙대로 하다",
+      "id": "v501_0308_zz_note_04_16_go_by_the_book"
+    },
+    {
+      "page": 4,
+      "word": "throw the book at",
+      "gloss": "엄벌에 처하다",
+      "id": "v501_0308_zz_note_04_17_throw_the_book_at"
+    },
+    {
+      "page": 4,
+      "word": "be in a person's good books",
+      "gloss": "마음에 들다",
+      "id": "v501_0308_zz_note_04_18_be_in_a_person_s_good_books"
+    },
+    {
+      "page": 4,
+      "word": "be in a person's bad books",
+      "gloss": "마음에 들지 않다",
+      "id": "v501_0308_zz_note_04_19_be_in_a_person_s_bad_books"
+    },
+    {
+      "page": 4,
+      "word": "be in a person's black books",
+      "gloss": "마음에 들지 않다",
+      "id": "v501_0308_zz_note_04_20_be_in_a_person_s_black_books"
+    },
+    {
+      "page": 4,
+      "word": "deal a blow to",
+      "gloss": "타격을 입히다",
+      "id": "v501_0308_zz_note_04_21_deal_a_blow_to"
+    },
+    {
+      "page": 4,
+      "word": "once in a blue moon",
+      "gloss": "가뭄에 콩 나듯",
+      "id": "v501_0308_zz_note_04_22_once_in_a_blue_moon"
+    },
+    {
+      "page": 4,
+      "word": "out of the blue",
+      "gloss": "불시에, 갑자기",
+      "id": "v501_0308_zz_note_04_23_out_of_the_blue"
+    },
+    {
+      "page": 4,
+      "word": "out of nowhere",
+      "gloss": "불시에, 갑자기",
+      "id": "v501_0308_zz_note_04_24_out_of_nowhere"
+    },
+    {
+      "page": 4,
+      "word": "call a person's bluff",
+      "gloss": "허세(블러핑)에 반격하다",
+      "id": "v501_0308_zz_note_04_25_call_a_person_s_bluff"
+    },
+    {
+      "page": 4,
+      "word": "at (the) first blush",
+      "gloss": "언뜻 보기에",
+      "id": "v501_0308_zz_note_04_26_at_the_first_blush"
+    },
+    {
+      "page": 4,
+      "word": "above board",
+      "gloss": "정당하게",
+      "id": "v501_0308_zz_note_04_27_above_board"
+    },
+    {
+      "page": 4,
+      "word": "across the board",
+      "gloss": "전반적으로",
+      "id": "v501_0308_zz_note_04_28_across_the_board"
+    },
+    {
+      "page": 4,
+      "word": "get the boot",
+      "gloss": "해고당하다",
+      "id": "v501_0308_zz_note_04_29_get_the_boot"
+    },
+    {
+      "page": 4,
+      "word": "to boot",
+      "gloss": "게다가",
+      "id": "v501_0308_zz_note_04_30_to_boot"
+    },
+    {
+      "page": 4,
+      "word": "bottle up",
+      "gloss": "봉쇄하다; (법안) 일시 보류하다",
+      "id": "v501_0308_zz_note_04_31_bottle_up"
+    },
+    {
+      "page": 4,
+      "word": "bottom out",
+      "gloss": "상태가 바닥까지 떨어지다",
+      "id": "v501_0308_zz_note_04_32_bottom_out"
+    },
+    {
+      "page": 4,
+      "word": "put - in a bind",
+      "gloss": "곤경에 빠뜨리다",
+      "id": "v501_0308_zz_note_04_33_put_in_a_bind"
+    },
+    {
+      "page": 4,
+      "word": "spill the beans",
+      "gloss": "비밀을 누설하다",
+      "id": "v501_0308_zz_note_04_34_spill_the_beans"
+    },
+    {
+      "page": 5,
+      "word": "pass the buck to",
+      "gloss": "책임을 전가하다",
+      "id": "v501_0060_zz_note_05_01_pass_the_buck_to"
+    },
+    {
+      "page": 5,
+      "word": "a bull in a china shop",
+      "gloss": "소란을 피우는 사람",
+      "id": "v501_0060_zz_note_05_02_a_bull_in_a_china_shop"
+    },
+    {
+      "page": 5,
+      "word": "put - on the back burner",
+      "gloss": "연기하다, 미루다",
+      "id": "v501_0060_zz_note_05_03_put_on_the_back_burner"
+    },
+    {
+      "page": 5,
+      "word": "put - on the front burner",
+      "gloss": "최우선으로 처리하다",
+      "id": "v501_0060_zz_note_05_04_put_on_the_front_burner"
+    },
+    {
+      "page": 5,
+      "word": "bounce a check",
+      "gloss": "부도수표를 발행하다",
+      "id": "v501_0060_zz_note_05_05_bounce_a_check"
+    },
+    {
+      "page": 5,
+      "word": "bow out of",
+      "gloss": "사직하다",
+      "id": "v501_0060_zz_note_05_06_bow_out_of"
+    },
+    {
+      "page": 5,
+      "word": "branch out",
+      "gloss": "활동분야를 넓히다",
+      "id": "v501_0060_zz_note_05_07_branch_out"
+    },
+    {
+      "page": 5,
+      "word": "on the breadline",
+      "gloss": "매우 가난한",
+      "id": "v501_0060_zz_note_05_08_on_the_breadline"
+    },
+    {
+      "page": 5,
+      "word": "break loose",
+      "gloss": "도주하다; 속박에서 벗어나다",
+      "id": "v501_0060_zz_note_05_09_break_loose"
+    },
+    {
+      "page": 5,
+      "word": "yield a breakthrough",
+      "gloss": "돌파구를 마련하다",
+      "id": "v501_0060_zz_note_05_10_yield_a_breakthrough"
+    },
+    {
+      "page": 5,
+      "word": "on the brink of -ing",
+      "gloss": "곧 - 할 위기에 처한",
+      "id": "v501_0060_zz_note_05_11_on_the_brink_of_ing"
+    },
+    {
+      "page": 5,
+      "word": "on the edge of -ing",
+      "gloss": "곧 - 할 위기에 처한",
+      "id": "v501_0060_zz_note_05_12_on_the_edge_of_ing"
+    },
+    {
+      "page": 5,
+      "word": "on the verge of -ing",
+      "gloss": "곧 - 할 위기에 처한",
+      "id": "v501_0060_zz_note_05_13_on_the_verge_of_ing"
+    },
+    {
+      "page": 5,
+      "word": "buy into",
+      "gloss": "주주가 되다",
+      "id": "v501_0060_zz_note_05_14_buy_into"
+    },
+    {
+      "page": 5,
+      "word": "let bygones be bygones",
+      "gloss": "과거는 과거 속에 묻어두다",
+      "id": "v501_0060_zz_note_05_15_let_bygones_be_bygones"
+    },
+    {
+      "page": 5,
+      "word": "cut red tape",
+      "gloss": "관료제를 타파하다; 행정 간소화하다",
+      "id": "v501_0060_zz_note_05_16_cut_red_tape"
+    },
+    {
+      "page": 6,
+      "word": "cannot hold a candle to",
+      "gloss": "비교도 할 수 없는 수준이다",
+      "id": "v501_0158_zz_note_06_01_cannot_hold_a_candle_to"
+    },
+    {
+      "page": 6,
+      "word": "in a - capacity",
+      "gloss": "-의 자격으로",
+      "id": "v501_0158_zz_note_06_02_in_a_capacity"
+    },
+    {
+      "page": 6,
+      "word": "in the cards",
+      "gloss": "있을 수 있는, 예상되는",
+      "id": "v501_0158_zz_note_06_03_in_the_cards"
+    },
+    {
+      "page": 6,
+      "word": "a case in point",
+      "gloss": "주제와 관련된 사례",
+      "id": "v501_0158_zz_note_06_04_a_case_in_point"
+    },
+    {
+      "page": 6,
+      "word": "cash in on",
+      "gloss": "이용해 먹다",
+      "id": "v501_0158_zz_note_06_05_cash_in_on"
+    },
+    {
+      "page": 6,
+      "word": "let the cat out of the bag",
+      "gloss": "비밀을 누설하다",
+      "id": "v501_0158_zz_note_06_06_let_the_cat_out_of_the_bag"
+    },
+    {
+      "page": 6,
+      "word": "play cat-and-mouse",
+      "gloss": "여러 속임수와 술책을 쓰는 것",
+      "id": "v501_0158_zz_note_06_07_play_cat_and_mouse"
+    },
+    {
+      "page": 6,
+      "word": "cave in to",
+      "gloss": "항복하다",
+      "id": "v501_0158_zz_note_06_08_cave_in_to"
+    },
+    {
+      "page": 6,
+      "word": "buckle under to",
+      "gloss": "항복하다",
+      "id": "v501_0158_zz_note_06_09_buckle_under_to"
+    },
+    {
+      "page": 6,
+      "word": "chalk up",
+      "gloss": "(승리를) 기록하다",
+      "id": "v501_0158_zz_note_06_10_chalk_up"
+    },
+    {
+      "page": 6,
+      "word": "when the chips are down",
+      "gloss": "위급할 때",
+      "id": "v501_0158_zz_note_06_11_when_the_chips_are_down"
+    },
+    {
+      "page": 6,
+      "word": "There is more than one way to skin a cat",
+      "gloss": "한 가지 일을 하는 데는 여러 가지 방법이 있다",
+      "id": "v501_0158_zz_note_06_12_there_is_more_than_one_way_to_skin_a_cat"
+    },
+    {
+      "page": 7,
+      "word": "cloak-and-dagger",
+      "gloss": "망토와 단검을 지닌; 은밀한",
+      "id": "v501_0250_zz_note_07_01_cloak_and_dagger"
+    },
+    {
+      "page": 7,
+      "word": "(a)round the clock",
+      "gloss": "하루 종일",
+      "id": "v501_0250_zz_note_07_02_a_round_the_clock"
+    },
+    {
+      "page": 7,
+      "word": "like clockwork",
+      "gloss": "시계처럼 규칙적으로",
+      "id": "v501_0250_zz_note_07_03_like_clockwork"
+    },
+    {
+      "page": 7,
+      "word": "come out of the closet",
+      "gloss": "자신이 동성연애자임을 밝히다",
+      "id": "v501_0250_zz_note_07_04_come_out_of_the_closet"
+    },
+    {
+      "page": 7,
+      "word": "a clutch of",
+      "gloss": "한 무리의",
+      "id": "v501_0250_zz_note_07_05_a_clutch_of"
+    },
+    {
+      "page": 7,
+      "word": "in cold blood",
+      "gloss": "냉혹하게, 태연히",
+      "id": "v501_0250_zz_note_07_06_in_cold_blood"
+    },
+    {
+      "page": 8,
+      "word": "fall into complacency",
+      "gloss": "자만에 빠지다",
+      "id": "v501_0335_zz_note_08_01_fall_into_complacency"
+    },
+    {
+      "page": 8,
+      "word": "around the corner",
+      "gloss": "임박한",
+      "id": "v501_0335_zz_note_08_02_around_the_corner"
+    },
+    {
+      "page": 8,
+      "word": "cut corners",
+      "gloss": "비용을 아끼다",
+      "id": "v501_0335_zz_note_08_03_cut_corners"
+    },
+    {
+      "page": 8,
+      "word": "come at the cost of",
+      "gloss": "-을 희생하고 생기다",
+      "id": "v501_0335_zz_note_08_04_come_at_the_cost_of"
+    },
+    {
+      "page": 8,
+      "word": "come at the expense of",
+      "gloss": "-을 희생하고 생기다",
+      "id": "v501_0335_zz_note_08_05_come_at_the_expense_of"
+    },
+    {
+      "page": 8,
+      "word": "cough up",
+      "gloss": "(마지못해) 지불하다",
+      "id": "v501_0335_zz_note_08_06_cough_up"
+    },
+    {
+      "page": 8,
+      "word": "stage a coup",
+      "gloss": "쿠데타를 일으키다",
+      "id": "v501_0335_zz_note_08_07_stage_a_coup"
+    },
+    {
+      "page": 8,
+      "word": "crank up",
+      "gloss": "증가시키다, 강화하다",
+      "id": "v501_0335_zz_note_08_08_crank_up"
+    },
+    {
+      "page": 8,
+      "word": "the cream of the crop",
+      "gloss": "알곡, 정수",
+      "id": "v501_0335_zz_note_08_09_the_cream_of_the_crop"
+    },
+    {
+      "page": 8,
+      "word": "crowd out",
+      "gloss": "(공간이 없어) 밀어내다; 구축(驅逐)하다",
+      "id": "v501_0335_zz_note_08_10_crowd_out"
+    },
+    {
+      "page": 8,
+      "word": "credit crunch",
+      "gloss": "금융경색",
+      "id": "v501_0335_zz_note_08_11_credit_crunch"
+    },
+    {
+      "page": 8,
+      "word": "when it comes to the crunch",
+      "gloss": "결정적인 순간이 오면",
+      "id": "v501_0336_when_it_comes_to_the_crunch"
+    },
+    {
+      "page": 8,
+      "word": "curry favor with",
+      "gloss": "비위를 맞추다",
+      "id": "v501_0336_zz_note_08_13_curry_favor_with"
+    },
+    {
+      "page": 9,
+      "word": "the sword of Damocles",
+      "gloss": "신변[직책]에 따르는 위험",
+      "id": "v501_0427_zz_note_09_01_the_sword_of_damocles"
+    },
+    {
+      "page": 9,
+      "word": "out of date",
+      "gloss": "구식의",
+      "id": "v501_0427_zz_note_09_02_out_of_date"
+    },
+    {
+      "page": 9,
+      "word": "to date",
+      "gloss": "지금까지",
+      "id": "v501_0427_zz_note_09_03_to_date"
+    },
+    {
+      "page": 9,
+      "word": "deadbeat father",
+      "gloss": "자녀 양육비를 제대로 지불하지 않는 아버지",
+      "id": "v501_0427_zz_note_09_04_deadbeat_father"
+    },
+    {
+      "page": 9,
+      "word": "a done deal",
+      "gloss": "이미 확정된 계약",
+      "id": "v501_0427_zz_note_09_05_a_done_deal"
+    },
+    {
+      "page": 9,
+      "word": "cut a deal",
+      "gloss": "계약을 체결하다",
+      "id": "v501_0427_zz_note_09_06_cut_a_deal"
+    },
+    {
+      "page": 9,
+      "word": "clinch a deal",
+      "gloss": "계약을 체결하다",
+      "id": "v501_0427_zz_note_09_07_clinch_a_deal"
+    },
+    {
+      "page": 9,
+      "word": "strike a deal",
+      "gloss": "계약을 체결하다",
+      "id": "v501_0427_zz_note_09_08_strike_a_deal"
+    },
+    {
+      "page": 9,
+      "word": "death row inmate",
+      "gloss": "사형수",
+      "id": "v501_0427_zz_note_09_09_death_row_inmate"
+    },
+    {
+      "page": 9,
+      "word": "be diametrically opposed to",
+      "gloss": "-와 정반대다",
+      "id": "v501_0427_zz_note_09_10_be_diametrically_opposed_to"
+    },
+    {
+      "page": 9,
+      "word": "narrow difference",
+      "gloss": "이견을 좁히다",
+      "id": "v501_0427_zz_note_09_11_narrow_difference"
+    },
+    {
+      "page": 9,
+      "word": "bridge difference",
+      "gloss": "이견을 좁히다",
+      "id": "v501_0427_zz_note_09_12_bridge_difference"
+    },
+    {
+      "page": 9,
+      "word": "iron out difference",
+      "gloss": "이견을 좁히다",
+      "id": "v501_0427_zz_note_09_13_iron_out_difference"
+    },
+    {
+      "page": 9,
+      "word": "settle difference",
+      "gloss": "이견을 좁히다",
+      "id": "v501_0427_zz_note_09_14_settle_difference"
+    },
+    {
+      "page": 9,
+      "word": "work out difference",
+      "gloss": "이견을 좁히다",
+      "id": "v501_0427_zz_note_09_15_work_out_difference"
+    },
+    {
+      "page": 10,
+      "word": "down with",
+      "gloss": "-를 타도하라",
+      "id": "v501_0509_zz_note_10_01_down_with"
+    },
+    {
+      "page": 10,
+      "word": "draw on",
+      "gloss": "의존하다",
+      "id": "v501_0509_zz_note_10_02_draw_on"
+    },
+    {
+      "page": 10,
+      "word": "drum up",
+      "gloss": "선전하다",
+      "id": "v501_0509_zz_note_10_03_drum_up"
+    },
+    {
+      "page": 10,
+      "word": "turn a deaf ear to",
+      "gloss": "못 들은 척하다",
+      "id": "v501_0509_zz_note_10_04_turn_a_deaf_ear_to"
+    },
+    {
+      "page": 10,
+      "word": "eat crow",
+      "gloss": "굴욕을 감수하고 잘못을 인정하다",
+      "id": "v501_0509_zz_note_10_05_eat_crow"
+    },
+    {
+      "page": 10,
+      "word": "eat humble pie",
+      "gloss": "굴욕을 감수하고 잘못을 인정하다",
+      "id": "v501_0509_zz_note_10_06_eat_humble_pie"
+    },
+    {
+      "page": 10,
+      "word": "have the edge over",
+      "gloss": "-보다 우세하다",
+      "id": "v501_0509_zz_note_10_07_have_the_edge_over"
+    },
+    {
+      "page": 10,
+      "word": "sharpen the competitive edge",
+      "gloss": "경쟁력을 강화하다",
+      "id": "v501_0509_zz_note_10_08_sharpen_the_competitive_edge"
+    },
+    {
+      "page": 10,
+      "word": "end up",
+      "gloss": "결국 - 하게 끝나다",
+      "id": "v501_0509_zz_note_10_09_end_up"
+    },
+    {
+      "page": 10,
+      "word": "wind up",
+      "gloss": "결국 - 하게 끝나다",
+      "id": "v501_0509_zz_note_10_10_wind_up"
+    },
+    {
+      "page": 10,
+      "word": "give someone the benefit of the doubt",
+      "gloss": "상대에게 유리한 쪽으로 생각해주다",
+      "id": "v501_0509_zz_note_10_11_give_someone_the_benefit_of_the_doubt"
+    },
+    {
+      "page": 11,
+      "word": "an eye for an eye",
+      "gloss": "눈에는 눈",
+      "id": "v501_0580_zz_note_11_01_an_eye_for_an_eye"
+    },
+    {
+      "page": 11,
+      "word": "be in the eye of the storm",
+      "gloss": "(문제의) 핵심에 위치하다",
+      "id": "v501_0580_zz_note_11_02_be_in_the_eye_of_the_storm"
+    },
+    {
+      "page": 11,
+      "word": "cast an eye on",
+      "gloss": "조사하다",
+      "id": "v501_0580_zz_note_11_03_cast_an_eye_on"
+    },
+    {
+      "page": 11,
+      "word": "catch one's eye",
+      "gloss": "눈길을 끌다",
+      "id": "v501_0580_zz_note_11_04_catch_one_s_eye"
+    },
+    {
+      "page": 11,
+      "word": "keep an eye on",
+      "gloss": "주시하다",
+      "id": "v501_0580_zz_note_11_05_keep_an_eye_on"
+    },
+    {
+      "page": 11,
+      "word": "see eye to eye with",
+      "gloss": "-와 의견 합의를 보다",
+      "id": "v501_0580_zz_note_11_06_see_eye_to_eye_with"
+    },
+    {
+      "page": 11,
+      "word": "turn a blind eye",
+      "gloss": "모른 척 하다",
+      "id": "v501_0580_zz_note_11_07_turn_a_blind_eye"
+    },
+    {
+      "page": 11,
+      "word": "fall flat",
+      "gloss": "실패하다",
+      "id": "v501_0580_zz_note_11_08_fall_flat"
+    },
+    {
+      "page": 11,
+      "word": "fall for",
+      "gloss": "-에 반하다; -에게 속다",
+      "id": "v501_0580_zz_note_11_09_fall_for"
+    },
+    {
+      "page": 11,
+      "word": "fall into a category",
+      "gloss": "어떤 부류에 속하다",
+      "id": "v501_0580_zz_note_11_10_fall_into_a_category"
+    },
+    {
+      "page": 11,
+      "word": "fall into line with",
+      "gloss": "-와 행동을 같이하다",
+      "id": "v501_0580_zz_note_11_11_fall_into_line_with"
+    },
+    {
+      "page": 11,
+      "word": "fall out with",
+      "gloss": "싸우다, 사이가 틀어지다",
+      "id": "v501_0580_zz_note_11_12_fall_out_with"
+    },
+    {
+      "page": 11,
+      "word": "fall through",
+      "gloss": "실패하다, 수포로 돌아가다",
+      "id": "v501_0580_zz_note_11_13_fall_through"
+    },
+    {
+      "page": 11,
+      "word": "to a fault",
+      "gloss": "결점이라 할 정도로, 지나치게",
+      "id": "v501_0580_zz_note_11_14_to_a_fault"
+    },
+    {
+      "page": 11,
+      "word": "drag one's feet",
+      "gloss": "고의로 우물쭈물하다",
+      "id": "v501_0580_zz_note_11_15_drag_one_s_feet"
+    },
+    {
+      "page": 11,
+      "word": "get back on one's (own) feet",
+      "gloss": "다시 자립하다",
+      "id": "v501_0580_zz_note_11_16_get_back_on_one_s_own_feet"
+    },
+    {
+      "page": 11,
+      "word": "get on one's (own) feet",
+      "gloss": "자립하게 만들다",
+      "id": "v501_0580_zz_note_11_17_get_on_one_s_own_feet"
+    },
+    {
+      "page": 11,
+      "word": "stand on one's (own) feet",
+      "gloss": "자립하다",
+      "id": "v501_0580_zz_note_11_18_stand_on_one_s_own_feet"
+    },
+    {
+      "page": 11,
+      "word": "sit on the fence",
+      "gloss": "(기회주의적으로) 관망적인 태도를 취하다",
+      "id": "v501_0580_zz_note_11_19_sit_on_the_fence"
+    },
+    {
+      "page": 11,
+      "word": "be on the fence",
+      "gloss": "(기회주의적으로) 관망적인 태도를 취하다",
+      "id": "v501_0580_zz_note_11_20_be_on_the_fence"
+    },
+    {
+      "page": 11,
+      "word": "stand on the fence",
+      "gloss": "관망적인 태도를 취하다",
+      "id": "v501_0580_zz_note_11_21_stand_on_the_fence"
+    },
+    {
+      "page": 11,
+      "word": "fend off",
+      "gloss": "피하다",
+      "id": "v501_0580_zz_note_11_22_fend_off"
+    },
+    {
+      "page": 11,
+      "word": "play second fiddle to",
+      "gloss": "들러리 역할을 하다",
+      "id": "v501_0580_zz_note_11_23_play_second_fiddle_to"
+    },
+    {
+      "page": 11,
+      "word": "in fits (and starts)",
+      "gloss": "단속적으로",
+      "id": "v501_0580_zz_note_11_24_in_fits_and_starts"
+    },
+    {
+      "page": 11,
+      "word": "by fits (and starts)",
+      "gloss": "단속적으로",
+      "id": "v501_0580_zz_note_11_25_by_fits_and_starts"
+    },
+    {
+      "page": 12,
+      "word": "God forbid that ~",
+      "gloss": "~하는 일이 절대로 없기를",
+      "id": "v501_0664_zz_note_12_01_god_forbid_that"
+    },
+    {
+      "page": 12,
+      "word": "Heaven forbid that ~",
+      "gloss": "~하는 일이 절대로 없기를",
+      "id": "v501_0664_zz_note_12_02_heaven_forbid_that"
+    },
+    {
+      "page": 12,
+      "word": "a fringe group",
+      "gloss": "비주류파",
+      "id": "v501_0664_zz_note_12_03_a_fringe_group"
+    },
+    {
+      "page": 12,
+      "word": "gag order",
+      "gloss": "함구령",
+      "id": "v501_0664_zz_note_12_04_gag_order"
+    },
+    {
+      "page": 12,
+      "word": "embargo",
+      "gloss": "함구령; 보도금지 지침",
+      "id": "v501_0664_zz_note_12_05_embargo"
+    },
+    {
+      "page": 12,
+      "word": "pick up the gauntlet",
+      "gloss": "도전에 응하다",
+      "id": "v501_0664_zz_note_12_06_pick_up_the_gauntlet"
+    },
+    {
+      "page": 12,
+      "word": "take up the gauntlet",
+      "gloss": "도전에 응하다",
+      "id": "v501_0664_zz_note_12_07_take_up_the_gauntlet"
+    },
+    {
+      "page": 12,
+      "word": "throw the gauntlet",
+      "gloss": "도전하다",
+      "id": "v501_0664_zz_note_12_08_throw_the_gauntlet"
+    },
+    {
+      "page": 12,
+      "word": "gear up for",
+      "gloss": "준비하다",
+      "id": "v501_0664_zz_note_12_09_gear_up_for"
+    },
+    {
+      "page": 12,
+      "word": "get (a)round",
+      "gloss": "(법, 규칙 등을) 피해가다",
+      "id": "v501_0664_zz_note_12_10_get_a_round"
+    },
+    {
+      "page": 12,
+      "word": "get away with -ing",
+      "gloss": "-을 하고도 무사하다",
+      "id": "v501_0664_zz_note_12_11_get_away_with_ing"
+    },
+    {
+      "page": 12,
+      "word": "give away",
+      "gloss": "무상으로 주다",
+      "id": "v501_0664_zz_note_12_12_give_away"
+    },
+    {
+      "page": 12,
+      "word": "go broke",
+      "gloss": "파산하다",
+      "id": "v501_0664_zz_note_12_13_go_broke"
+    },
+    {
+      "page": 12,
+      "word": "file for Chapter 11",
+      "gloss": "파산(보호)신청하다",
+      "id": "v501_0664_zz_note_12_14_file_for_chapter_11"
+    },
+    {
+      "page": 12,
+      "word": "go down as",
+      "gloss": "역사 속에 -로 기록되다",
+      "id": "v501_0664_zz_note_12_15_go_down_as"
+    },
+    {
+      "page": 12,
+      "word": "go public",
+      "gloss": "주식을 일반에게 공개하다; 상장(上場)하다",
+      "id": "v501_0664_zz_note_12_16_go_public"
+    },
+    {
+      "page": 12,
+      "word": "go (to) any length(s)",
+      "gloss": "목적을 위해 어떤 일도 하다",
+      "id": "v501_0664_zz_note_12_17_go_to_any_length_s"
+    },
+    {
+      "page": 12,
+      "word": "go under",
+      "gloss": "파산하다",
+      "id": "v501_0664_zz_note_12_18_go_under"
+    },
+    {
+      "page": 12,
+      "word": "go up in smoke",
+      "gloss": "수포로 돌아가다",
+      "id": "v501_0664_zz_note_12_19_go_up_in_smoke"
+    },
+    {
+      "page": 13,
+      "word": "grease one's palm",
+      "gloss": "뇌물주다",
+      "id": "v501_0718_zz_note_13_01_grease_one_s_palm"
+    },
+    {
+      "page": 13,
+      "word": "grease one's hand",
+      "gloss": "뇌물주다",
+      "id": "v501_0718_zz_note_13_02_grease_one_s_hand"
+    },
+    {
+      "page": 13,
+      "word": "grease the wheels",
+      "gloss": "순조롭게 만들다",
+      "id": "v501_0718_zz_note_13_03_grease_the_wheels"
+    },
+    {
+      "page": 13,
+      "word": "come to grips with",
+      "gloss": "문제에 달려들다",
+      "id": "v501_0718_zz_note_13_04_come_to_grips_with"
+    },
+    {
+      "page": 13,
+      "word": "take a grip on oneself",
+      "gloss": "분발하다",
+      "id": "v501_0718_zz_note_13_05_take_a_grip_on_oneself"
+    },
+    {
+      "page": 13,
+      "word": "cover ground",
+      "gloss": "주제를 다루다; 일을 적절히 다루다",
+      "id": "v501_0718_zz_note_13_06_cover_ground"
+    },
+    {
+      "page": 13,
+      "word": "cut the ground from under someone",
+      "gloss": "-의 계획을 선수 쳐서 방해하다",
+      "id": "v501_0718_zz_note_13_07_cut_the_ground_from_under_someone"
+    },
+    {
+      "page": 13,
+      "word": "find (a) common ground",
+      "gloss": "공통분모를 찾다",
+      "id": "v501_0718_zz_note_13_08_find_a_common_ground"
+    },
+    {
+      "page": 13,
+      "word": "gain ground",
+      "gloss": "확실한 기반을 얻다",
+      "id": "v501_0718_zz_note_13_09_gain_ground"
+    },
+    {
+      "page": 13,
+      "word": "lose ground",
+      "gloss": "확실한 기반을 잃다",
+      "id": "v501_0718_zz_note_13_10_lose_ground"
+    },
+    {
+      "page": 13,
+      "word": "stand one's ground",
+      "gloss": "입장을 고수하다",
+      "id": "v501_0718_zz_note_13_11_stand_one_s_ground"
+    },
+    {
+      "page": 13,
+      "word": "hold one's ground",
+      "gloss": "입장을 고수하다",
+      "id": "v501_0718_zz_note_13_12_hold_one_s_ground"
+    },
+    {
+      "page": 13,
+      "word": "keep one's ground",
+      "gloss": "입장을 고수하다",
+      "id": "v501_0718_zz_note_13_13_keep_one_s_ground"
+    },
+    {
+      "page": 13,
+      "word": "maintain one's ground",
+      "gloss": "입장을 고수하다",
+      "id": "v501_0718_zz_note_13_14_maintain_one_s_ground"
+    },
+    {
+      "page": 13,
+      "word": "catch - off guard",
+      "gloss": "방심한 틈을 타 공격하다",
+      "id": "v501_0718_zz_note_13_15_catch_off_guard"
+    },
+    {
+      "page": 13,
+      "word": "lower one's guard",
+      "gloss": "경계를 늦추다",
+      "id": "v501_0718_zz_note_13_16_lower_one_s_guard"
+    },
+    {
+      "page": 13,
+      "word": "let down one's guard",
+      "gloss": "경계를 늦추다",
+      "id": "v501_0718_zz_note_13_17_let_down_one_s_guard"
+    },
+    {
+      "page": 13,
+      "word": "drop one's guard",
+      "gloss": "경계를 늦추다",
+      "id": "v501_0718_zz_note_13_18_drop_one_s_guard"
+    },
+    {
+      "page": 13,
+      "word": "raise one's hackles",
+      "gloss": "화나게 하다",
+      "id": "v501_0718_zz_note_13_19_raise_one_s_hackles"
+    },
+    {
+      "page": 13,
+      "word": "hammer out",
+      "gloss": "만들어내다, 해결하다",
+      "id": "v501_0718_zz_note_13_20_hammer_out"
+    },
+    {
+      "page": 13,
+      "word": "at the hands of",
+      "gloss": "-의 손에 의해",
+      "id": "v501_0718_zz_note_13_21_at_the_hands_of"
+    },
+    {
+      "page": 13,
+      "word": "be in the hands of",
+      "gloss": "-의 손에 달려있다",
+      "id": "v501_0718_zz_note_13_22_be_in_the_hands_of"
+    },
+    {
+      "page": 13,
+      "word": "be on hand",
+      "gloss": "출석한, 곁에 있는",
+      "id": "v501_0718_zz_note_13_23_be_on_hand"
+    },
+    {
+      "page": 13,
+      "word": "change hands",
+      "gloss": "소유자가 바뀌다",
+      "id": "v501_0718_zz_note_13_24_change_hands"
+    },
+    {
+      "page": 13,
+      "word": "fall into the hands of",
+      "gloss": "-의 수중에 넘어가다",
+      "id": "v501_0718_zz_note_13_25_fall_into_the_hands_of"
+    },
+    {
+      "page": 13,
+      "word": "get one's hands on",
+      "gloss": "-을 입수하다",
+      "id": "v501_0718_zz_note_13_26_get_one_s_hands_on"
+    },
+    {
+      "page": 13,
+      "word": "get out of hand",
+      "gloss": "손을 쓸 수 없게 되다",
+      "id": "v501_0718_zz_note_13_27_get_out_of_hand"
+    },
+    {
+      "page": 13,
+      "word": "play into the hands of",
+      "gloss": "-의 작전에 넘어가다",
+      "id": "v501_0718_zz_note_13_28_play_into_the_hands_of"
+    },
+    {
+      "page": 13,
+      "word": "sit on one's hands",
+      "gloss": "냉담한 반응을 보이다",
+      "id": "v501_0718_zz_note_13_29_sit_on_one_s_hands"
+    },
+    {
+      "page": 13,
+      "word": "take the law into one's own hands",
+      "gloss": "법에 의하지 않고 개인적으로 처벌하다",
+      "id": "v501_0718_zz_note_13_30_take_the_law_into_one_s_own_hands"
+    },
+    {
+      "page": 13,
+      "word": "throw up one's hands",
+      "gloss": "절망에 빠져 두 손 들다",
+      "id": "v501_0718_zz_note_13_31_throw_up_one_s_hands"
+    },
+    {
+      "page": 13,
+      "word": "hand down",
+      "gloss": "판결을 내리다",
+      "id": "v501_0718_zz_note_13_32_hand_down"
+    },
+    {
+      "page": 13,
+      "word": "as it happens",
+      "gloss": "공교롭게도",
+      "id": "v501_0718_zz_note_13_33_as_it_happens"
+    },
+    {
+      "page": 13,
+      "word": "play hardball",
+      "gloss": "엄격한 조치를 취하다",
+      "id": "v501_0718_zz_note_13_34_play_hardball"
+    },
+    {
+      "page": 13,
+      "word": "put - in harm's way",
+      "gloss": "-를 위험에 빠뜨리다",
+      "id": "v501_0718_zz_note_13_35_put_in_harm_s_way"
+    },
+    {
+      "page": 13,
+      "word": "be out of harm's way",
+      "gloss": "안전한 곳에 있다",
+      "id": "v501_0718_zz_note_13_36_be_out_of_harm_s_way"
+    },
+    {
+      "page": 13,
+      "word": "hash out",
+      "gloss": "대화로 해결하다",
+      "id": "v501_0718_zz_note_13_37_hash_out"
+    },
+    {
+      "page": 13,
+      "word": "bury the hatchet",
+      "gloss": "화해하다",
+      "id": "v501_0718_zz_note_13_38_bury_the_hatchet"
+    },
+    {
+      "page": 13,
+      "word": "play havoc with",
+      "gloss": "때려 부수다",
+      "id": "v501_0718_zz_note_13_39_play_havoc_with"
+    },
+    {
+      "page": 13,
+      "word": "wreak havoc on",
+      "gloss": "때려 부수다",
+      "id": "v501_0718_zz_note_13_40_wreak_havoc_on"
+    },
+    {
+      "page": 13,
+      "word": "break into the headlines",
+      "gloss": "신문에 대서특필 되다",
+      "id": "v501_0718_zz_note_13_41_break_into_the_headlines"
+    },
+    {
+      "page": 13,
+      "word": "hit the headlines",
+      "gloss": "신문에 대서특필 되다",
+      "id": "v501_0718_zz_note_13_42_hit_the_headlines"
+    },
+    {
+      "page": 13,
+      "word": "make the headlines",
+      "gloss": "신문에 대서특필 되다",
+      "id": "v501_0718_zz_note_13_43_make_the_headlines"
+    },
+    {
+      "page": 13,
+      "word": "at the helm",
+      "gloss": "실권을 쥔",
+      "id": "v501_0718_zz_note_13_44_at_the_helm"
+    },
+    {
+      "page": 14,
+      "word": "on a hit-and-miss basis",
+      "gloss": "마구잡이식",
+      "id": "v501_0794_zz_note_14_01_on_a_hit_and_miss_basis"
+    },
+    {
+      "page": 14,
+      "word": "on a hit-or-miss basis",
+      "gloss": "마구잡이식",
+      "id": "v501_0794_zz_note_14_02_on_a_hit_or_miss_basis"
+    },
+    {
+      "page": 14,
+      "word": "without a hitch",
+      "gloss": "거침없이, 술술",
+      "id": "v501_0794_zz_note_14_03_without_a_hitch"
+    },
+    {
+      "page": 14,
+      "word": "hold back",
+      "gloss": "억제하다",
+      "id": "v501_0794_zz_note_14_04_hold_back"
+    },
+    {
+      "page": 14,
+      "word": "hold on to",
+      "gloss": "지속하다",
+      "id": "v501_0794_zz_note_14_05_hold_on_to"
+    },
+    {
+      "page": 14,
+      "word": "hold the line",
+      "gloss": "현상을 유지하다",
+      "id": "v501_0794_zz_note_14_06_hold_the_line"
+    },
+    {
+      "page": 14,
+      "word": "hold up",
+      "gloss": "방해하다; (은행 등을) 강탈하다",
+      "id": "v501_0794_zz_note_14_07_hold_up"
+    },
+    {
+      "page": 14,
+      "word": "be home to",
+      "gloss": "-가 위치해 있다",
+      "id": "v501_0794_zz_note_14_08_be_home_to"
+    },
+    {
+      "page": 14,
+      "word": "go through the hoops",
+      "gloss": "시련을 겪다",
+      "id": "v501_0794_zz_note_14_09_go_through_the_hoops"
+    },
+    {
+      "page": 14,
+      "word": "lock horns",
+      "gloss": "다투다",
+      "id": "v501_0794_zz_note_14_10_lock_horns"
+    },
+    {
+      "page": 14,
+      "word": "stir up a hornet's nest",
+      "gloss": "논란을 일으키다",
+      "id": "v501_0794_zz_note_14_11_stir_up_a_hornet_s_nest"
+    },
+    {
+      "page": 14,
+      "word": "beat a dead horse",
+      "gloss": "끝난 일을 다시 문제 삼다",
+      "id": "v501_0794_zz_note_14_12_beat_a_dead_horse"
+    },
+    {
+      "page": 14,
+      "word": "put the cart before the horse",
+      "gloss": "본말전도(本末顚倒); 일을 거꾸로 하다",
+      "id": "v501_0794_zz_note_14_13_put_the_cart_before_the_horse"
+    },
+    {
+      "page": 14,
+      "word": "put one's house in order",
+      "gloss": "재정상태를 개선하다",
+      "id": "v501_0794_zz_note_14_14_put_one_s_house_in_order"
+    },
+    {
+      "page": 14,
+      "word": "set one's house in order",
+      "gloss": "재정상태를 개선하다",
+      "id": "v501_0794_zz_note_14_15_set_one_s_house_in_order"
+    },
+    {
+      "page": 14,
+      "word": "put - under house arrest",
+      "gloss": "가택연금 시키다",
+      "id": "v501_0794_zz_note_14_16_put_under_house_arrest"
+    },
+    {
+      "page": 14,
+      "word": "place - under house arrest",
+      "gloss": "가택연금 시키다",
+      "id": "v501_0794_zz_note_14_17_place_under_house_arrest"
+    },
+    {
+      "page": 14,
+      "word": "hold - under house arrest",
+      "gloss": "가택연금 시키다",
+      "id": "v501_0794_zz_note_14_18_hold_under_house_arrest"
+    },
+    {
+      "page": 14,
+      "word": "release - from house arrest",
+      "gloss": "가택연금에서 해제하다",
+      "id": "v501_0794_zz_note_14_19_release_from_house_arrest"
+    },
+    {
+      "page": 14,
+      "word": "according to Hoyle",
+      "gloss": "규정대로",
+      "id": "v501_0794_zz_note_14_20_according_to_hoyle"
+    },
+    {
+      "page": 15,
+      "word": "with impunity",
+      "gloss": "벌을 받지 않고, 무사히",
+      "id": "v501_0895_zz_note_15_01_with_impunity"
+    },
+    {
+      "page": 15,
+      "word": "not give an inch",
+      "gloss": "한 치도 양보 않다",
+      "id": "v501_0895_zz_note_15_02_not_give_an_inch"
+    },
+    {
+      "page": 15,
+      "word": "not budge an inch",
+      "gloss": "한 치도 양보 않다",
+      "id": "v501_0895_zz_note_15_03_not_budge_an_inch"
+    },
+    {
+      "page": 15,
+      "word": "iron out",
+      "gloss": "견해차를 조정하다",
+      "id": "v501_0895_zz_note_15_04_iron_out"
+    },
+    {
+      "page": 16,
+      "word": "respond in kind",
+      "gloss": "동일한 방법으로 대응하다",
+      "id": "v501_0965_zz_note_16_01_respond_in_kind"
+    },
+    {
+      "page": 16,
+      "word": "level off",
+      "gloss": "증가세가 둔화되다",
+      "id": "v501_0965_zz_note_16_02_level_off"
+    },
+    {
+      "page": 16,
+      "word": "level out",
+      "gloss": "증가세가 둔화되다",
+      "id": "v501_0965_zz_note_16_03_level_out"
+    },
+    {
+      "page": 16,
+      "word": "put - on the line",
+      "gloss": "(명성, 직업 등을) 위험에 빠뜨리다",
+      "id": "v501_0965_zz_note_16_04_put_on_the_line"
+    },
+    {
+      "page": 16,
+      "word": "literacy rate",
+      "gloss": "식자율",
+      "id": "v501_0965_zz_note_16_05_literacy_rate"
+    },
+    {
+      "page": 16,
+      "word": "illiteracy rate",
+      "gloss": "문맹률",
+      "id": "v501_0965_zz_note_16_06_illiteracy_rate"
+    },
+    {
+      "page": 16,
+      "word": "lodge a complaint against",
+      "gloss": "소송을 제기하다",
+      "id": "v501_0965_zz_note_16_07_lodge_a_complaint_against"
+    },
+    {
+      "page": 16,
+      "word": "not by a long shot",
+      "gloss": "어림없는",
+      "id": "v501_0965_zz_note_16_08_not_by_a_long_shot"
+    },
+    {
+      "page": 16,
+      "word": "look the other way",
+      "gloss": "못 본 척 눈감아 주다",
+      "id": "v501_0965_zz_note_16_09_look_the_other_way"
+    },
+    {
+      "page": 16,
+      "word": "make for",
+      "gloss": "야기하다",
+      "id": "v501_0965_zz_note_16_10_make_for"
+    },
+    {
+      "page": 16,
+      "word": "make good on",
+      "gloss": "완수하다, 실행하다",
+      "id": "v501_0966_make_good_on"
+    },
+    {
+      "page": 16,
+      "word": "in the making",
+      "gloss": "형성 중인",
+      "id": "v501_0966_zz_note_16_12_in_the_making"
+    },
+    {
+      "page": 16,
+      "word": "a measure of",
+      "gloss": "상당한 양의",
+      "id": "v501_0966_zz_note_16_13_a_measure_of"
+    },
+    {
+      "page": 16,
+      "word": "for good measure",
+      "gloss": "분량을 넉넉히 재어; 덤으로",
+      "id": "v501_0966_zz_note_16_14_for_good_measure"
+    },
+    {
+      "page": 16,
+      "word": "measure up",
+      "gloss": "부응하다",
+      "id": "v501_0966_zz_note_16_15_measure_up"
+    },
+    {
+      "page": 17,
+      "word": "make a mockery of",
+      "gloss": "조롱하다",
+      "id": "v501_1052_zz_note_17_01_make_a_mockery_of"
+    },
+    {
+      "page": 17,
+      "word": "meet - halfway",
+      "gloss": "-와 타협하다",
+      "id": "v501_1052_zz_note_17_02_meet_halfway"
+    },
+    {
+      "page": 17,
+      "word": "flex one's muscles",
+      "gloss": "힘을 과시하다",
+      "id": "v501_1052_zz_note_17_03_flex_one_s_muscles"
+    },
+    {
+      "page": 17,
+      "word": "the name of the game",
+      "gloss": "가장 중요한 점",
+      "id": "v501_1052_zz_note_17_04_the_name_of_the_game"
+    },
+    {
+      "page": 17,
+      "word": "call someone (bad) names",
+      "gloss": "욕하다, 비방하다",
+      "id": "v501_1052_zz_note_17_05_call_someone_bad_names"
+    },
+    {
+      "page": 17,
+      "word": "in the name of",
+      "gloss": "-라는 미명하에",
+      "id": "v501_1052_zz_note_17_06_in_the_name_of"
+    },
+    {
+      "page": 17,
+      "word": "in one's name",
+      "gloss": "자기 소유로",
+      "id": "v501_1052_zz_note_17_07_in_one_s_name"
+    },
+    {
+      "page": 17,
+      "word": "throw good money after bad",
+      "gloss": "만회하려다 더 손해보다",
+      "id": "v501_1052_zz_note_17_08_throw_good_money_after_bad"
+    },
+    {
+      "page": 17,
+      "word": "in the (very) nick of time",
+      "gloss": "아슬아슬하게, 딱 좋은 때에",
+      "id": "v501_1052_zz_note_17_09_in_the_very_nick_of_time"
+    },
+    {
+      "page": 17,
+      "word": "nip - in the bud",
+      "gloss": "미연에 방지하다(없애다)",
+      "id": "v501_1052_zz_note_17_10_nip_in_the_bud"
+    },
+    {
+      "page": 17,
+      "word": "keep one's nose clean",
+      "gloss": "얌전히 있다",
+      "id": "v501_1052_zz_note_17_11_keep_one_s_nose_clean"
+    },
+    {
+      "page": 17,
+      "word": "nothing if not -",
+      "gloss": "-빼면 시체인, 매우 -한",
+      "id": "v501_1052_zz_note_17_12_nothing_if_not"
+    },
+    {
+      "page": 17,
+      "word": "be numbered",
+      "gloss": "(숫자, 기한이) 얼마 남지 않다",
+      "id": "v501_1052_zz_note_17_13_be_numbered"
+    },
+    {
+      "page": 18,
+      "word": "leave office",
+      "gloss": "퇴임하다",
+      "id": "v501_1149_zz_note_18_01_leave_office"
+    },
+    {
+      "page": 18,
+      "word": "remove - from office",
+      "gloss": "관직에서 축출하다",
+      "id": "v501_1149_zz_note_18_02_remove_from_office"
+    },
+    {
+      "page": 18,
+      "word": "take office",
+      "gloss": "취임하다",
+      "id": "v501_1149_zz_note_18_03_take_office"
+    },
+    {
+      "page": 18,
+      "word": "vote - into office",
+      "gloss": "선출하다",
+      "id": "v501_1149_zz_note_18_04_vote_into_office"
+    },
+    {
+      "page": 18,
+      "word": "vote - out of office",
+      "gloss": "재선시키지 않고 물러나게 하다",
+      "id": "v501_1149_zz_note_18_05_vote_out_of_office"
+    },
+    {
+      "page": 18,
+      "word": "hold out an olive branch to",
+      "gloss": "화해를 제의하다",
+      "id": "v501_1149_zz_note_18_06_hold_out_an_olive_branch_to"
+    },
+    {
+      "page": 18,
+      "word": "once and for all",
+      "gloss": "단 한번으로 확실히",
+      "id": "v501_1149_zz_note_18_07_once_and_for_all"
+    },
+    {
+      "page": 18,
+      "word": "the order of the day",
+      "gloss": "집회 일정; 시대의 풍조",
+      "id": "v501_1149_zz_note_18_08_the_order_of_the_day"
+    },
+    {
+      "page": 18,
+      "word": "parcel out",
+      "gloss": "구분, 배분하다",
+      "id": "v501_1149_zz_note_18_09_parcel_out"
+    },
+    {
+      "page": 18,
+      "word": "pare down",
+      "gloss": "조금씩 삭감하다",
+      "id": "v501_1149_zz_note_18_10_pare_down"
+    },
+    {
+      "page": 18,
+      "word": "partake in",
+      "gloss": "참여하다",
+      "id": "v501_1149_zz_note_18_11_partake_in"
+    },
+    {
+      "page": 18,
+      "word": "partake of",
+      "gloss": "-의 기미가 있다",
+      "id": "v501_1149_zz_note_18_12_partake_of"
+    },
+    {
+      "page": 18,
+      "word": "pat - on the back",
+      "gloss": "칭찬하다",
+      "id": "v501_1149_zz_note_18_13_pat_on_the_back"
+    },
+    {
+      "page": 18,
+      "word": "a pat on the back",
+      "gloss": "칭찬",
+      "id": "v501_1149_zz_note_18_14_a_pat_on_the_back"
+    },
+    {
+      "page": 18,
+      "word": "patch up",
+      "gloss": "이어 맞추다, 고치다",
+      "id": "v501_1149_zz_note_18_15_patch_up"
+    },
+    {
+      "page": 18,
+      "word": "pave the way for",
+      "gloss": "-로 향한 길을 내다",
+      "id": "v501_1149_zz_note_18_16_pave_the_way_for"
+    },
+    {
+      "page": 18,
+      "word": "pay off",
+      "gloss": "효과가 있다",
+      "id": "v501_1149_zz_note_18_17_pay_off"
+    },
+    {
+      "page": 19,
+      "word": "phase out",
+      "gloss": "단계적으로 배제하다, 철거하다",
+      "id": "v501_1231_zz_note_19_01_phase_out"
+    },
+    {
+      "page": 19,
+      "word": "perk up",
+      "gloss": "활기 있게 하다",
+      "id": "v501_1231_zz_note_19_02_perk_up"
+    },
+    {
+      "page": 19,
+      "word": "pep rally",
+      "gloss": "궐기 대회",
+      "id": "v501_1231_zz_note_19_03_pep_rally"
+    },
+    {
+      "page": 19,
+      "word": "in perspective",
+      "gloss": "전체적 시야로",
+      "id": "v501_1231_zz_note_19_04_in_perspective"
+    },
+    {
+      "page": 19,
+      "word": "buy a pig in a poke",
+      "gloss": "충동구매하다",
+      "id": "v501_1231_zz_note_19_05_buy_a_pig_in_a_poke"
+    },
+    {
+      "page": 19,
+      "word": "feel the pinch",
+      "gloss": "경제적 곤란을 겪다",
+      "id": "v501_1231_zz_note_19_06_feel_the_pinch"
+    },
+    {
+      "page": 19,
+      "word": "pitch in",
+      "gloss": "협력하다, 일에 달라붙다",
+      "id": "v501_1231_zz_note_19_07_pitch_in"
+    },
+    {
+      "page": 19,
+      "word": "in place",
+      "gloss": "(체제가) 자리를 잡은, 확립된",
+      "id": "v501_1231_zz_note_19_08_in_place"
+    },
+    {
+      "page": 19,
+      "word": "put - in place",
+      "gloss": "확립하다",
+      "id": "v501_1231_zz_note_19_09_put_in_place"
+    },
+    {
+      "page": 19,
+      "word": "play down",
+      "gloss": "경시하다",
+      "id": "v501_1231_zz_note_19_10_play_down"
+    },
+    {
+      "page": 19,
+      "word": "plead guilty to",
+      "gloss": "유죄를 인정하다",
+      "id": "v501_1231_zz_note_19_11_plead_guilty_to"
+    },
+    {
+      "page": 19,
+      "word": "plead not guilty to",
+      "gloss": "유죄를 인정하지 않다",
+      "id": "v501_1231_zz_note_19_12_plead_not_guilty_to"
+    },
+    {
+      "page": 19,
+      "word": "shoot - at point-blank range",
+      "gloss": "직격탄을 쏘다",
+      "id": "v501_1231_zz_note_19_13_shoot_at_point_blank_range"
+    },
+    {
+      "page": 19,
+      "word": "pomp and circumstance",
+      "gloss": "(화려한) 공식행사",
+      "id": "v501_1231_zz_note_19_14_pomp_and_circumstance"
+    },
+    {
+      "page": 19,
+      "word": "pony up",
+      "gloss": "마지못해 지불하다",
+      "id": "v501_1231_zz_note_19_15_pony_up"
+    },
+    {
+      "page": 20,
+      "word": "keep a low profile",
+      "gloss": "눈에 띄지 않게 행동하다",
+      "id": "v501_1327_zz_note_20_01_keep_a_low_profile"
+    },
+    {
+      "page": 20,
+      "word": "of - proportions",
+      "gloss": "- 정도의, 수준의",
+      "id": "v501_1327_zz_note_20_02_of_proportions"
+    },
+    {
+      "page": 20,
+      "word": "prostate cancer",
+      "gloss": "전립선 암",
+      "id": "v501_1327_zz_note_20_03_prostate_cancer"
+    },
+    {
+      "page": 20,
+      "word": "prostatectomy",
+      "gloss": "전립선 절제술",
+      "id": "v501_1327_zz_note_20_04_prostatectomy"
+    },
+    {
+      "page": 20,
+      "word": "pull off",
+      "gloss": "(특히 어려운 일을) 잘 해내다",
+      "id": "v501_1327_zz_note_20_05_pull_off"
+    },
+    {
+      "page": 20,
+      "word": "pull oneself together",
+      "gloss": "기운을 다시 차리다",
+      "id": "v501_1327_zz_note_20_06_pull_oneself_together"
+    },
+    {
+      "page": 20,
+      "word": "put A before B",
+      "gloss": "A를 B보다 우선시하다",
+      "id": "v501_1327_zz_note_20_07_put_a_before_b"
+    },
+    {
+      "page": 20,
+      "word": "put A ahead of B",
+      "gloss": "A를 B보다 우선시하다",
+      "id": "v501_1327_zz_note_20_08_put_a_ahead_of_b"
+    },
+    {
+      "page": 20,
+      "word": "put down",
+      "gloss": "적어놓다; 진압하다",
+      "id": "v501_1327_zz_note_20_09_put_down"
+    },
+    {
+      "page": 21,
+      "word": "keep - at arm's length",
+      "gloss": "-를 멀리하다",
+      "id": "v501_1407_zz_note_21_01_keep_at_arm_s_length"
+    },
+    {
+      "page": 21,
+      "word": "ratchet up",
+      "gloss": "단계적으로 증가시키다[하다]",
+      "id": "v501_1407_zz_note_21_02_ratchet_up"
+    },
+    {
+      "page": 21,
+      "word": "roll out the red carpet for",
+      "gloss": "정중하게 맞이하다",
+      "id": "v501_1407_zz_note_21_03_roll_out_the_red_carpet_for"
+    },
+    {
+      "page": 21,
+      "word": "to the quick",
+      "gloss": "속살까지; 철두철미한",
+      "id": "v501_1407_zz_note_21_04_to_the_quick"
+    },
+    {
+      "page": 21,
+      "word": "to the core",
+      "gloss": "속살까지; 철두철미한",
+      "id": "v501_1407_zz_note_21_05_to_the_core"
+    },
+    {
+      "page": 21,
+      "word": "call it quits",
+      "gloss": "피장파장임을 인정하다",
+      "id": "v501_1407_zz_note_21_06_call_it_quits"
+    },
+    {
+      "page": 21,
+      "word": "rack up",
+      "gloss": "달성하다, 획득하다",
+      "id": "v501_1407_zz_note_21_07_rack_up"
+    },
+    {
+      "page": 21,
+      "word": "rail against",
+      "gloss": "비난하다",
+      "id": "v501_1407_zz_note_21_08_rail_against"
+    },
+    {
+      "page": 21,
+      "word": "rail at",
+      "gloss": "비난하다",
+      "id": "v501_1407_zz_note_21_09_rail_at"
+    },
+    {
+      "page": 21,
+      "word": "the rank and file",
+      "gloss": "일반인; 일반 사병",
+      "id": "v501_1407_zz_note_21_10_the_rank_and_file"
+    },
+    {
+      "page": 21,
+      "word": "reckon with",
+      "gloss": "직면하다",
+      "id": "v501_1407_zz_note_21_11_reckon_with"
+    },
+    {
+      "page": 22,
+      "word": "a reign of terror",
+      "gloss": "공포정치",
+      "id": "v501_1496_zz_note_22_01_a_reign_of_terror"
+    },
+    {
+      "page": 22,
+      "word": "renege on",
+      "gloss": "취소하다, 어기다",
+      "id": "v501_1496_zz_note_22_02_renege_on"
+    },
+    {
+      "page": 22,
+      "word": "without reservation",
+      "gloss": "솔직하게, 무조건적으로",
+      "id": "v501_1496_zz_note_22_03_without_reservation"
+    },
+    {
+      "page": 22,
+      "word": "resort to",
+      "gloss": "호소하다",
+      "id": "v501_1496_zz_note_22_04_resort_to"
+    },
+    {
+      "page": 22,
+      "word": "last resort",
+      "gloss": "최후의 보루",
+      "id": "v501_1496_zz_note_22_05_last_resort"
+    },
+    {
+      "page": 22,
+      "word": "rev up",
+      "gloss": "속도를 올리다",
+      "id": "v501_1496_zz_note_22_06_rev_up"
+    },
+    {
+      "page": 22,
+      "word": "ride out",
+      "gloss": "이겨내다",
+      "id": "v501_1496_zz_note_22_07_ride_out"
+    },
+    {
+      "page": 22,
+      "word": "bid rigging",
+      "gloss": "입찰 조작",
+      "id": "v501_1496_zz_note_22_08_bid_rigging"
+    },
+    {
+      "page": 22,
+      "word": "ringleader",
+      "gloss": "주모자, 주동자",
+      "id": "v501_1496_zz_note_22_09_ringleader"
+    },
+    {
+      "page": 22,
+      "word": "rock the boat",
+      "gloss": "다 된 밥에 재 뿌리다",
+      "id": "v501_1496_zz_note_22_10_rock_the_boat"
+    },
+    {
+      "page": 22,
+      "word": "roll back",
+      "gloss": "취소하다; 줄이다",
+      "id": "v501_1496_zz_note_22_11_roll_back"
+    },
+    {
+      "page": 22,
+      "word": "roll over loans",
+      "gloss": "부채의 만기상환을 연장해주다",
+      "id": "v501_1496_zz_note_22_12_roll_over_loans"
+    },
+    {
+      "page": 22,
+      "word": "be on a roll",
+      "gloss": "성공가도를 달리는",
+      "id": "v501_1496_zz_note_22_13_be_on_a_roll"
+    },
+    {
+      "page": 22,
+      "word": "root out",
+      "gloss": "근절하다",
+      "id": "v501_1496_zz_note_22_14_root_out"
+    },
+    {
+      "page": 22,
+      "word": "root up",
+      "gloss": "근절하다",
+      "id": "v501_1496_zz_note_22_15_root_up"
+    },
+    {
+      "page": 22,
+      "word": "at the end of one's rope",
+      "gloss": "진퇴유곡(進退維谷)의",
+      "id": "v501_1496_zz_note_22_16_at_the_end_of_one_s_rope"
+    },
+    {
+      "page": 22,
+      "word": "round off",
+      "gloss": "잘 마무리 짓다",
+      "id": "v501_1496_zz_note_22_17_round_off"
+    },
+    {
+      "page": 22,
+      "word": "round up",
+      "gloss": "체포하다",
+      "id": "v501_1496_zz_note_22_18_round_up"
+    },
+    {
+      "page": 23,
+      "word": "in a row",
+      "gloss": "연속해서",
+      "id": "v501_1583_zz_note_23_01_in_a_row"
+    },
+    {
+      "page": 23,
+      "word": "cross the Rubicon",
+      "gloss": "루비콘 강을 건너다; 중대한 결심을 하다",
+      "id": "v501_1583_zz_note_23_02_cross_the_rubicon"
+    },
+    {
+      "page": 23,
+      "word": "rue the day when",
+      "gloss": "-했던 때를 후회하다",
+      "id": "v501_1583_zz_note_23_03_rue_the_day_when"
+    },
+    {
+      "page": 23,
+      "word": "rue the day that",
+      "gloss": "-했던 때를 후회하다",
+      "id": "v501_1583_zz_note_23_04_rue_the_day_that"
+    },
+    {
+      "page": 23,
+      "word": "ruffle (up) feathers",
+      "gloss": "깃털을 세우다; 성내다",
+      "id": "v501_1583_zz_note_23_05_ruffle_up_feathers"
+    },
+    {
+      "page": 23,
+      "word": "pull the rug from under a person",
+      "gloss": "(예상 밖의 지지철회로) 좌절에 빠뜨리다",
+      "id": "v501_1583_zz_note_23_06_pull_the_rug_from_under_a_person"
+    },
+    {
+      "page": 23,
+      "word": "pull the rug from under a person's feet",
+      "gloss": "(예상 밖의 지지철회로) 좌절에 빠뜨리다",
+      "id": "v501_1583_zz_note_23_07_pull_the_rug_from_under_a_person_s_feet"
+    },
+    {
+      "page": 23,
+      "word": "sweep - under the rug",
+      "gloss": "(난처한 일을) 숨기다",
+      "id": "v501_1583_zz_note_23_08_sweep_under_the_rug"
+    },
+    {
+      "page": 23,
+      "word": "brush - under the rug",
+      "gloss": "(난처한 일을) 숨기다",
+      "id": "v501_1583_zz_note_23_09_brush_under_the_rug"
+    },
+    {
+      "page": 23,
+      "word": "bend the rules",
+      "gloss": "자기 이익에 맞게 규칙을 약간 수정하다",
+      "id": "v501_1583_zz_note_23_10_bend_the_rules"
+    },
+    {
+      "page": 23,
+      "word": "run up a deficit",
+      "gloss": "빚을 늘리다",
+      "id": "v501_1583_zz_note_23_11_run_up_a_deficit"
+    },
+    {
+      "page": 23,
+      "word": "run up against",
+      "gloss": "-에 부딪히다",
+      "id": "v501_1583_zz_note_23_12_run_up_against"
+    },
+    {
+      "page": 23,
+      "word": "start at the bottom rung",
+      "gloss": "(인생의) 바닥에서부터 시작하다",
+      "id": "v501_1583_zz_note_23_13_start_at_the_bottom_rung"
+    },
+    {
+      "page": 23,
+      "word": "between Scylla and Charybdis",
+      "gloss": "진퇴양난에 처한",
+      "id": "v501_1583_zz_note_23_14_between_scylla_and_charybdis"
+    },
+    {
+      "page": 23,
+      "word": "by the seat of one's pants",
+      "gloss": "기계를 쓰지 않고 육감으로",
+      "id": "v501_1583_zz_note_23_15_by_the_seat_of_one_s_pants"
+    },
+    {
+      "page": 24,
+      "word": "from scratch",
+      "gloss": "처음부터",
+      "id": "v501_1598_zz_note_24_01_from_scratch"
+    },
+    {
+      "page": 24,
+      "word": "up to scratch",
+      "gloss": "기준에 부합하는",
+      "id": "v501_1598_zz_note_24_02_up_to_scratch"
+    },
+    {
+      "page": 24,
+      "word": "set aside",
+      "gloss": "별도로 책정하다",
+      "id": "v501_1647_zz_note_24_03_set_aside"
+    },
+    {
+      "page": 24,
+      "word": "shake down",
+      "gloss": "갈취하다",
+      "id": "v501_1647_zz_note_24_04_shake_down"
+    },
+    {
+      "page": 24,
+      "word": "be in a shambles",
+      "gloss": "혼란[황폐]한 상태이다",
+      "id": "v501_1647_zz_note_24_05_be_in_a_shambles"
+    },
+    {
+      "page": 24,
+      "word": "shore up",
+      "gloss": "떠받치다",
+      "id": "v501_1647_zz_note_24_06_shore_up"
+    },
+    {
+      "page": 24,
+      "word": "fall short of",
+      "gloss": "기대에 못 미치다",
+      "id": "v501_1647_zz_note_24_07_fall_short_of"
+    },
+    {
+      "page": 24,
+      "word": "stop short of",
+      "gloss": "-에까지 이르지는 않다",
+      "id": "v501_1647_zz_note_24_08_stop_short_of"
+    },
+    {
+      "page": 24,
+      "word": "a shot in the arm",
+      "gloss": "원기를 회복시키는 자극",
+      "id": "v501_1647_zz_note_24_09_a_shot_in_the_arm"
+    },
+    {
+      "page": 24,
+      "word": "call the shots",
+      "gloss": "통제하다; 감독하다",
+      "id": "v501_1647_zz_note_24_10_call_the_shots"
+    },
+    {
+      "page": 24,
+      "word": "have a shot at",
+      "gloss": "시험 삼아 - 해보다",
+      "id": "v501_1647_zz_note_24_11_have_a_shot_at"
+    },
+    {
+      "page": 24,
+      "word": "give - the cold shoulder",
+      "gloss": "냉대하다",
+      "id": "v501_1647_zz_note_24_12_give_the_cold_shoulder"
+    },
+    {
+      "page": 24,
+      "word": "show - the cold shoulder",
+      "gloss": "냉대하다",
+      "id": "v501_1647_zz_note_24_13_show_the_cold_shoulder"
+    },
+    {
+      "page": 24,
+      "word": "turn - the cold shoulder",
+      "gloss": "냉대하다",
+      "id": "v501_1647_zz_note_24_14_turn_the_cold_shoulder"
+    },
+    {
+      "page": 24,
+      "word": "when push comes to shove",
+      "gloss": "아주 중요한 순간이 되면",
+      "id": "v501_1647_zz_note_24_15_when_push_comes_to_shove"
+    },
+    {
+      "page": 24,
+      "word": "a shred of",
+      "gloss": "[주로 부정, 의문문에서] 아주 조금",
+      "id": "v501_1647_zz_note_24_16_a_shred_of"
+    },
+    {
+      "page": 24,
+      "word": "shrug off",
+      "gloss": "대수롭지 않게 여기다",
+      "id": "v501_1647_zz_note_24_17_shrug_off"
+    },
+    {
+      "page": 24,
+      "word": "stand on the sidelines",
+      "gloss": "방관자적 입장을 취하다",
+      "id": "v501_1647_zz_note_24_18_stand_on_the_sidelines"
+    },
+    {
+      "page": 24,
+      "word": "stay on the sidelines",
+      "gloss": "방관자적 입장을 취하다",
+      "id": "v501_1647_zz_note_24_19_stay_on_the_sidelines"
+    },
+    {
+      "page": 24,
+      "word": "sift through",
+      "gloss": "엄밀히 조사하다",
+      "id": "v501_1647_zz_note_24_20_sift_through"
+    },
+    {
+      "page": 24,
+      "word": "sink in",
+      "gloss": "(사실이나 현실 등이) 이해되다",
+      "id": "v501_1647_zz_note_24_21_sink_in"
+    },
+    {
+      "page": 24,
+      "word": "siphon off",
+      "gloss": "(자금, 이익 등을) 짜내다",
+      "id": "v501_1647_zz_note_24_22_siphon_off"
+    },
+    {
+      "page": 24,
+      "word": "on the skids",
+      "gloss": "파멸로 치닫고 있는",
+      "id": "v501_1647_zz_note_24_23_on_the_skids"
+    },
+    {
+      "page": 24,
+      "word": "a slap in the face",
+      "gloss": "강력한 처벌이나 모욕",
+      "id": "v501_1647_zz_note_24_24_a_slap_in_the_face"
+    },
+    {
+      "page": 24,
+      "word": "a slap on the wrist",
+      "gloss": "가벼운 경고나 처벌",
+      "id": "v501_1647_zz_note_24_25_a_slap_on_the_wrist"
+    },
+    {
+      "page": 24,
+      "word": "be slated for",
+      "gloss": "-할 계획[예정]이다",
+      "id": "v501_1647_zz_note_24_26_be_slated_for"
+    },
+    {
+      "page": 24,
+      "word": "get short shrift",
+      "gloss": "관심을 못 받다",
+      "id": "v501_1647_zz_note_24_27_get_short_shrift"
+    },
+    {
+      "page": 25,
+      "word": "hit a snag",
+      "gloss": "난관에 봉착하다",
+      "id": "v501_1724_zz_note_25_01_hit_a_snag"
+    },
+    {
+      "page": 25,
+      "word": "snuff out",
+      "gloss": "(양초의) 심지를 자르다; 소멸시키다",
+      "id": "v501_1724_zz_note_25_02_snuff_out"
+    },
+    {
+      "page": 25,
+      "word": "up to snuff",
+      "gloss": "일정기준에 부합한",
+      "id": "v501_1724_zz_note_25_03_up_to_snuff"
+    },
+    {
+      "page": 25,
+      "word": "get on one's soapbox",
+      "gloss": "자기주장을 펴다",
+      "id": "v501_1724_zz_note_25_04_get_on_one_s_soapbox"
+    },
+    {
+      "page": 25,
+      "word": "sobriety test",
+      "gloss": "음주 테스트",
+      "id": "v501_1724_zz_note_25_05_sobriety_test"
+    },
+    {
+      "page": 25,
+      "word": "of sorts",
+      "gloss": "시시한, 그저 그런",
+      "id": "v501_1724_zz_note_25_06_of_sorts"
+    },
+    {
+      "page": 25,
+      "word": "of a sort",
+      "gloss": "시시한, 그저 그런",
+      "id": "v501_1724_zz_note_25_07_of_a_sort"
+    },
+    {
+      "page": 25,
+      "word": "sort out",
+      "gloss": "가려내다; (문제를) 해결하다",
+      "id": "v501_1724_zz_note_25_08_sort_out"
+    },
+    {
+      "page": 25,
+      "word": "sound out",
+      "gloss": "(의사, 견해)를 타진하다",
+      "id": "v501_1724_zz_note_25_09_sound_out"
+    },
+    {
+      "page": 25,
+      "word": "a spate of",
+      "gloss": "다수의; 대량의",
+      "id": "v501_1724_zz_note_25_10_a_spate_of"
+    },
+    {
+      "page": 25,
+      "word": "spell out",
+      "gloss": "똑똑히 말하다",
+      "id": "v501_1724_zz_note_25_11_spell_out"
+    },
+    {
+      "page": 25,
+      "word": "put a spin on",
+      "gloss": "-에 대해 평가를 내리다",
+      "id": "v501_1724_zz_note_25_12_put_a_spin_on"
+    },
+    {
+      "page": 25,
+      "word": "spirit away",
+      "gloss": "낚아채가다; 유괴하다",
+      "id": "v501_1724_zz_note_25_13_spirit_away"
+    },
+    {
+      "page": 25,
+      "word": "square off",
+      "gloss": "싸울 자세를 취하다",
+      "id": "v501_1724_zz_note_25_14_square_off"
+    },
+    {
+      "page": 25,
+      "word": "have a stab at",
+      "gloss": "시도하다",
+      "id": "v501_1724_zz_note_25_15_have_a_stab_at"
+    },
+    {
+      "page": 25,
+      "word": "be at stake",
+      "gloss": "위기에 처한",
+      "id": "v501_1724_zz_note_25_16_be_at_stake"
+    },
+    {
+      "page": 25,
+      "word": "be at risk",
+      "gloss": "위기에 처한",
+      "id": "v501_1724_zz_note_25_17_be_at_risk"
+    },
+    {
+      "page": 25,
+      "word": "be in danger",
+      "gloss": "위험에 처한",
+      "id": "v501_1724_zz_note_25_18_be_in_danger"
+    },
+    {
+      "page": 25,
+      "word": "be in crisis",
+      "gloss": "위기에 처한",
+      "id": "v501_1724_zz_note_25_19_be_in_crisis"
+    },
+    {
+      "page": 25,
+      "word": "stake out",
+      "gloss": "차지하다",
+      "id": "v501_1724_zz_note_25_20_stake_out"
+    },
+    {
+      "page": 25,
+      "word": "stake out one's claim to",
+      "gloss": "소유권을 주장하다",
+      "id": "v501_1724_zz_note_25_21_stake_out_one_s_claim_to"
+    },
+    {
+      "page": 25,
+      "word": "stall for time",
+      "gloss": "시간을 끌다[벌다]",
+      "id": "v501_1724_zz_note_25_22_stall_for_time"
+    },
+    {
+      "page": 25,
+      "word": "stand to win",
+      "gloss": "이길 확률이 높다",
+      "id": "v501_1724_zz_note_25_23_stand_to_win"
+    },
+    {
+      "page": 25,
+      "word": "stand to lose",
+      "gloss": "질 확률이 높다",
+      "id": "v501_1724_zz_note_25_24_stand_to_lose"
+    },
+    {
+      "page": 25,
+      "word": "be off to a good start",
+      "gloss": "출발이 순조롭다",
+      "id": "v501_1724_zz_note_25_25_be_off_to_a_good_start"
+    },
+    {
+      "page": 25,
+      "word": "for starters",
+      "gloss": "우선, 일단은",
+      "id": "v501_1724_zz_note_25_26_for_starters"
+    },
+    {
+      "page": 26,
+      "word": "stave off",
+      "gloss": "피하다",
+      "id": "v501_1814_zz_note_26_01_stave_off"
+    },
+    {
+      "page": 26,
+      "word": "steel oneself for",
+      "gloss": "-대해 마음을 굳게 먹다",
+      "id": "v501_1814_zz_note_26_02_steel_oneself_for"
+    },
+    {
+      "page": 26,
+      "word": "steer clear of",
+      "gloss": "-을 피하다",
+      "id": "v501_1814_zz_note_26_03_steer_clear_of"
+    },
+    {
+      "page": 26,
+      "word": "step down",
+      "gloss": "사임하다; 은퇴하다",
+      "id": "v501_1814_zz_note_26_04_step_down"
+    },
+    {
+      "page": 26,
+      "word": "step up",
+      "gloss": "증가시키다; 승진하다",
+      "id": "v501_1814_zz_note_26_05_step_up"
+    },
+    {
+      "page": 26,
+      "word": "stick one's neck out",
+      "gloss": "위험을 무릅쓰다",
+      "id": "v501_1814_zz_note_26_06_stick_one_s_neck_out"
+    },
+    {
+      "page": 26,
+      "word": "stick to",
+      "gloss": "고수하다",
+      "id": "v501_1814_zz_note_26_07_stick_to"
+    },
+    {
+      "page": 26,
+      "word": "stockholder",
+      "gloss": "주주",
+      "id": "v501_1814_zz_note_26_08_stockholder"
+    },
+    {
+      "page": 26,
+      "word": "take stock of",
+      "gloss": "살피다, 평가하다",
+      "id": "v501_1814_zz_note_26_09_take_stock_of"
+    },
+    {
+      "page": 26,
+      "word": "in financial straits",
+      "gloss": "재정적 위기에 처한",
+      "id": "v501_1814_zz_note_26_10_in_financial_straits"
+    },
+    {
+      "page": 26,
+      "word": "take to the streets",
+      "gloss": "시위하다",
+      "id": "v501_1814_zz_note_26_11_take_to_the_streets"
+    },
+    {
+      "page": 26,
+      "word": "strike down",
+      "gloss": "철회[기각]하다",
+      "id": "v501_1814_zz_note_26_12_strike_down"
+    },
+    {
+      "page": 26,
+      "word": "on the stump",
+      "gloss": "선거운동 중인",
+      "id": "v501_1814_zz_note_26_13_on_the_stump"
+    },
+    {
+      "page": 26,
+      "word": "be caught by surprise",
+      "gloss": "불의의 습격을 당하다",
+      "id": "v501_1814_zz_note_26_14_be_caught_by_surprise"
+    },
+    {
+      "page": 26,
+      "word": "be taken by surprise",
+      "gloss": "불의의 습격을 당하다",
+      "id": "v501_1814_zz_note_26_15_be_taken_by_surprise"
+    },
+    {
+      "page": 26,
+      "word": "be swamped with",
+      "gloss": "-로 가득 차다",
+      "id": "v501_1814_zz_note_26_16_be_swamped_with"
+    },
+    {
+      "page": 27,
+      "word": "swear in",
+      "gloss": "선서를 한 후 취임을 시키다",
+      "id": "v501_1877_zz_note_27_01_swear_in"
+    },
+    {
+      "page": 27,
+      "word": "keep tabs on",
+      "gloss": "감시하다",
+      "id": "v501_1877_zz_note_27_02_keep_tabs_on"
+    },
+    {
+      "page": 27,
+      "word": "pick up the tab",
+      "gloss": "비용을 지불하다",
+      "id": "v501_1877_zz_note_27_03_pick_up_the_tab"
+    },
+    {
+      "page": 27,
+      "word": "turn the tables on",
+      "gloss": "국면을 전환해 유리한 위치에 서다",
+      "id": "v501_1877_zz_note_27_04_turn_the_tables_on"
+    },
+    {
+      "page": 27,
+      "word": "take a back seat",
+      "gloss": "물러나다, 나서지 않다",
+      "id": "v501_1877_zz_note_27_05_take_a_back_seat"
+    },
+    {
+      "page": 27,
+      "word": "take hold",
+      "gloss": "확립되다, 뿌리를 내리다",
+      "id": "v501_1877_zz_note_27_06_take_hold"
+    },
+    {
+      "page": 27,
+      "word": "take root",
+      "gloss": "확립되다, 뿌리를 내리다",
+      "id": "v501_1877_zz_note_27_07_take_root"
+    },
+    {
+      "page": 27,
+      "word": "take on",
+      "gloss": "양상을 띠다; 대항하다; 책임을 지다",
+      "id": "v501_1877_zz_note_27_08_take_on"
+    },
+    {
+      "page": 27,
+      "word": "take over",
+      "gloss": "(기업을) 인수하다",
+      "id": "v501_1877_zz_note_27_09_take_over"
+    },
+    {
+      "page": 27,
+      "word": "stand tall",
+      "gloss": "당당히 서다",
+      "id": "v501_1877_zz_note_27_10_stand_tall"
+    },
+    {
+      "page": 27,
+      "word": "tamper with",
+      "gloss": "함부로 손을 대다; 조작하다",
+      "id": "v501_1877_zz_note_27_11_tamper_with"
+    },
+    {
+      "page": 27,
+      "word": "in tandem with",
+      "gloss": "-와 협력하여",
+      "id": "v501_1877_zz_note_27_12_in_tandem_with"
+    },
+    {
+      "page": 27,
+      "word": "tap into",
+      "gloss": "이용하다",
+      "id": "v501_1877_zz_note_27_13_tap_into"
+    },
+    {
+      "page": 27,
+      "word": "taper off",
+      "gloss": "차츰 줄이다",
+      "id": "v501_1877_zz_note_27_14_taper_off"
+    },
+    {
+      "page": 27,
+      "word": "in tatters",
+      "gloss": "누더기가 된, 거덜 난",
+      "id": "v501_1877_zz_note_27_15_in_tatters"
+    },
+    {
+      "page": 27,
+      "word": "be armed to the teeth",
+      "gloss": "중무장 하다",
+      "id": "v501_1877_zz_note_27_16_be_armed_to_the_teeth"
+    },
+    {
+      "page": 27,
+      "word": "give teeth to",
+      "gloss": "강화하다",
+      "id": "v501_1877_zz_note_27_17_give_teeth_to"
+    },
+    {
+      "page": 27,
+      "word": "in the throes of",
+      "gloss": "한창 -하는 판에",
+      "id": "v501_1877_zz_note_27_18_in_the_throes_of"
+    },
+    {
+      "page": 28,
+      "word": "tick off",
+      "gloss": "체크표시(ü)하다",
+      "id": "v501_1971_zz_note_28_01_tick_off"
+    },
+    {
+      "page": 28,
+      "word": "time and again",
+      "gloss": "반복해서",
+      "id": "v501_1971_zz_note_28_02_time_and_again"
+    },
+    {
+      "page": 28,
+      "word": "tinker with",
+      "gloss": "어설프게 만지다",
+      "id": "v501_1971_zz_note_28_03_tinker_with"
+    },
+    {
+      "page": 28,
+      "word": "tip off",
+      "gloss": "비밀 정보를 제공하다, 경고하다",
+      "id": "v501_1971_zz_note_28_04_tip_off"
+    },
+    {
+      "page": 28,
+      "word": "toe the line",
+      "gloss": "규칙을 따르다",
+      "id": "v501_1971_zz_note_28_05_toe_the_line"
+    },
+    {
+      "page": 28,
+      "word": "by the same token",
+      "gloss": "같은 이유로",
+      "id": "v501_1971_zz_note_28_06_by_the_same_token"
+    },
+    {
+      "page": 28,
+      "word": "set the tone for A",
+      "gloss": "A의 분위기를 만들다",
+      "id": "v501_1971_zz_note_28_07_set_the_tone_for_a"
+    },
+    {
+      "page": 28,
+      "word": "tone down",
+      "gloss": "누그러뜨리다, 약해지다",
+      "id": "v501_1971_zz_note_28_08_tone_down"
+    },
+    {
+      "page": 28,
+      "word": "top off",
+      "gloss": "극적으로 끝내다",
+      "id": "v501_1971_zz_note_28_09_top_off"
+    },
+    {
+      "page": 28,
+      "word": "touch off",
+      "gloss": "유발하다",
+      "id": "v501_1971_zz_note_28_10_touch_off"
+    },
+    {
+      "page": 28,
+      "word": "throw in the towel",
+      "gloss": "패배를 인정하다",
+      "id": "v501_1971_zz_note_28_11_throw_in_the_towel"
+    },
+    {
+      "page": 28,
+      "word": "keep track of",
+      "gloss": "추적하다",
+      "id": "v501_1971_zz_note_28_12_keep_track_of"
+    },
+    {
+      "page": 28,
+      "word": "get back on track",
+      "gloss": "원래의 상태가 되다",
+      "id": "v501_1971_zz_note_28_13_get_back_on_track"
+    },
+    {
+      "page": 28,
+      "word": "put - back on track",
+      "gloss": "원래의 상태로 놓다",
+      "id": "v501_1971_zz_note_28_14_put_back_on_track"
+    },
+    {
+      "page": 28,
+      "word": "track down",
+      "gloss": "철저하게 찾아내다",
+      "id": "v501_1971_zz_note_28_15_track_down"
+    },
+    {
+      "page": 28,
+      "word": "blaze the trail",
+      "gloss": "새로운 길을 개척하다",
+      "id": "v501_1971_zz_note_28_16_blaze_the_trail"
+    },
+    {
+      "page": 28,
+      "word": "trot out",
+      "gloss": "자랑삼아 내보이다",
+      "id": "v501_1971_zz_note_28_17_trot_out"
+    },
+    {
+      "page": 28,
+      "word": "trump up",
+      "gloss": "날조하다",
+      "id": "v501_1971_zz_note_28_18_trump_up"
+    },
+    {
+      "page": 28,
+      "word": "twists and turns",
+      "gloss": "우여곡절; 여러 변화",
+      "id": "v501_1971_zz_note_28_19_twists_and_turns"
+    },
+    {
+      "page": 28,
+      "word": "in turn",
+      "gloss": "A가 B에 영향을 미치고, B가 다시 C에 영향을 미칠 때, B와 C사이에 쓰는 말",
+      "id": "v501_1971_zz_note_28_20_in_turn"
+    },
+    {
+      "page": 29,
+      "word": "come unstuck",
+      "gloss": "실패하다",
+      "id": "v501_2056_zz_note_29_01_come_unstuck"
+    },
+    {
+      "page": 29,
+      "word": "usher in",
+      "gloss": "미리 알리다; 맞이하다",
+      "id": "v501_2056_zz_note_29_02_usher_in"
+    },
+    {
+      "page": 29,
+      "word": "be versed in",
+      "gloss": "조예가 깊다",
+      "id": "v501_2056_zz_note_29_03_be_versed_in"
+    },
+    {
+      "page": 29,
+      "word": "in vogue",
+      "gloss": "유행하고 있는",
+      "id": "v501_2056_zz_note_29_04_in_vogue"
+    },
+    {
+      "page": 29,
+      "word": "in the wake of",
+      "gloss": "-의 이후",
+      "id": "v501_2056_zz_note_29_05_in_the_wake_of"
+    },
+    {
+      "page": 29,
+      "word": "ward off",
+      "gloss": "피하다",
+      "id": "v501_2056_zz_note_29_06_ward_off"
+    },
+    {
+      "page": 29,
+      "word": "the other way around",
+      "gloss": "반대의 경우",
+      "id": "v501_2056_zz_note_29_07_the_other_way_around"
+    },
+    {
+      "page": 29,
+      "word": "be wedded to",
+      "gloss": "-에 집착[헌신]하다",
+      "id": "v501_2056_zz_note_29_08_be_wedded_to"
+    },
+    {
+      "page": 29,
+      "word": "drive a wedge between A and B",
+      "gloss": "양쪽을 이간질하다",
+      "id": "v501_2056_zz_note_29_09_drive_a_wedge_between_a_and_b"
+    },
+    {
+      "page": 29,
+      "word": "be born out of wedlock",
+      "gloss": "사생아로 태어나다",
+      "id": "v501_2056_zz_note_29_10_be_born_out_of_wedlock"
+    },
+    {
+      "page": 29,
+      "word": "weed out",
+      "gloss": "색출해서 제거하다",
+      "id": "v501_2056_zz_note_29_11_weed_out"
+    },
+    {
+      "page": 30,
+      "word": "throw one's weight about",
+      "gloss": "거드름을 피우다",
+      "id": "v501_2147_zz_note_30_01_throw_one_s_weight_about"
+    },
+    {
+      "page": 30,
+      "word": "throw one's weight around",
+      "gloss": "거드름을 피우다",
+      "id": "v501_2147_zz_note_30_02_throw_one_s_weight_around"
+    },
+    {
+      "page": 30,
+      "word": "double whammy",
+      "gloss": "이중으로 재수 없는 것",
+      "id": "v501_2147_zz_note_30_03_double_whammy"
+    },
+    {
+      "page": 30,
+      "word": "blow the whistle on",
+      "gloss": "비밀을 폭로하다",
+      "id": "v501_2147_zz_note_30_04_blow_the_whistle_on"
+    },
+    {
+      "page": 30,
+      "word": "wind up",
+      "gloss": "결국 -한 상태가 되다",
+      "id": "v501_2147_zz_note_30_05_wind_up"
+    },
+    {
+      "page": 30,
+      "word": "end up",
+      "gloss": "결국 -한 상태가 되다",
+      "id": "v501_2147_zz_note_30_06_end_up"
+    },
+    {
+      "page": 30,
+      "word": "a window of opportunity",
+      "gloss": "잠깐의 기회",
+      "id": "v501_2147_zz_note_30_07_a_window_of_opportunity"
+    },
+    {
+      "page": 30,
+      "word": "in the wings",
+      "gloss": "(보이지 않게) 대기[준비]하고 있는",
+      "id": "v501_2147_zz_note_30_08_in_the_wings"
+    },
+    {
+      "page": 30,
+      "word": "to wit",
+      "gloss": "즉",
+      "id": "v501_2147_zz_note_30_09_to_wit"
+    },
+    {
+      "page": 30,
+      "word": "zero in on",
+      "gloss": "겨냥하다; 노력을 집중하다",
+      "id": "v501_2147_zz_note_30_10_zero_in_on"
+    }
+  ]
+}

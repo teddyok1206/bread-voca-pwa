@@ -327193,6 +327193,183 @@
       "raw_gloss": "전멸시키다"
     },
     {
+      "id": "v501_0078_zz_note_01_01_keep_abreast_with",
+      "word": "keep abreast with",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "보조를 맞추다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "보조를 맞추다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_02_keep_up_with",
+      "word": "keep up with",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "보조를 맞추다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "보조를 맞추다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_03_an_ace_in_the_hole",
+      "word": "an ace in the hole",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "비장의 무기"
+      ],
+      "source_page": 1,
+      "raw_gloss": "비장의 무기"
+    },
+    {
+      "id": "v501_0078_zz_note_01_04_achilles_heel",
+      "word": "Achilles' heel",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "아킬레스건, 약점",
+        "아킬레스건",
+        "약점"
+      ],
+      "source_page": 1,
+      "raw_gloss": "아킬레스건, 약점"
+    },
+    {
+      "id": "v501_0078_zz_note_01_05_act_out",
+      "word": "act out",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "(감정, 생각 등을) 실행하다",
+        "실행하다",
+        "실행"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(감정, 생각 등을) 실행하다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_06_act_up",
+      "word": "act up",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "(아이들이) 말썽부리다",
+        "말썽부리다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "(아이들이) 말썽부리다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_07_much_ado_about_nothing",
+      "word": "much ado about nothing",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "헛소동"
+      ],
+      "source_page": 1,
+      "raw_gloss": "헛소동"
+    },
+    {
+      "id": "v501_0078_zz_note_01_08_in_the_aggregate",
+      "word": "in (the) aggregate",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "총합해서"
+      ],
+      "source_page": 1,
+      "raw_gloss": "총합해서"
+    },
+    {
+      "id": "v501_0078_zz_note_01_09_come_to_an_agreement",
+      "word": "come to an agreement",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "합의에 도달하다",
+        "합의에 도달"
+      ],
+      "source_page": 1,
+      "raw_gloss": "합의에 도달하다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_10_reach_an_agreement",
+      "word": "reach an agreement",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "합의에 도달하다",
+        "합의에 도달"
+      ],
+      "source_page": 1,
+      "raw_gloss": "합의에 도달하다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_11_all_in_all",
+      "word": "all in all",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "대체로; 전체적으로 말하자면",
+        "대체로",
+        "전체적으로 말하자면"
+      ],
+      "source_page": 1,
+      "raw_gloss": "대체로; 전체적으로 말하자면"
+    },
+    {
+      "id": "v501_0078_zz_note_01_12_all_told",
+      "word": "all told",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "전부 합해서"
+      ],
+      "source_page": 1,
+      "raw_gloss": "전부 합해서"
+    },
+    {
+      "id": "v501_0078_zz_note_01_13_run_amok",
+      "word": "run amok",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "미친 듯이 날뛰다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "미친 듯이 날뛰다"
+    },
+    {
+      "id": "v501_0078_zz_note_01_14_run_amuck",
+      "word": "run amuck",
+      "book": "V501",
+      "chapter": 1,
+      "type": "flat",
+      "accepted_answers": [
+        "미친 듯이 날뛰다"
+      ],
+      "source_page": 1,
+      "raw_gloss": "미친 듯이 날뛰다"
+    },
+    {
       "id": "v501_0079_malice_aforethought",
       "word": "malice aforethought",
       "book": "V501",
@@ -328264,6 +328441,160 @@
       ],
       "source_page": 2,
       "raw_gloss": "당국"
+    },
+    {
+      "id": "v501_0162_zz_note_02_01_fit_the_bill",
+      "word": "fit the bill",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "만족시키다; 꼭 들어맞다",
+        "만족시키다",
+        "꼭 들어맞다"
+      ],
+      "source_page": 2,
+      "raw_gloss": "만족시키다; 꼭 들어맞다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_02_foot_the_bill",
+      "word": "foot the bill",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "계산하다, 비용을 부담하다",
+        "계산하다, 비용을 부담",
+        "계산하다",
+        "계산",
+        "비용을 부담하다",
+        "비용을 부담"
+      ],
+      "source_page": 2,
+      "raw_gloss": "계산하다, 비용을 부담하다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_03_twist_one_s_arm",
+      "word": "twist one's arm",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "강요하다",
+        "강요"
+      ],
+      "source_page": 2,
+      "raw_gloss": "강요하다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_04_lay_down_one_s_arms",
+      "word": "lay down one's arms",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "항복하다",
+        "항복"
+      ],
+      "source_page": 2,
+      "raw_gloss": "항복하다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_05_be_up_in_arms_against",
+      "word": "be up in arms against",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "반기를 들다"
+      ],
+      "source_page": 2,
+      "raw_gloss": "반기를 들다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_06_in_arrears",
+      "word": "in arrears",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "(빚이) 미불된",
+        "미불된"
+      ],
+      "source_page": 2,
+      "raw_gloss": "(빚이) 미불된"
+    },
+    {
+      "id": "v501_0162_zz_note_02_07_ascribe_a_to_b",
+      "word": "ascribe A to B",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "A를 B의 탓으로 돌리다"
+      ],
+      "source_page": 2,
+      "raw_gloss": "A를 B의 탓으로 돌리다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_08_attribute_a_to_b",
+      "word": "attribute A to B",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "A를 B의 탓으로 돌리다"
+      ],
+      "source_page": 2,
+      "raw_gloss": "A를 B의 탓으로 돌리다"
+    },
+    {
+      "id": "v501_0162_zz_note_02_09_to_little_avail",
+      "word": "to little avail",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "헛되이"
+      ],
+      "source_page": 2,
+      "raw_gloss": "헛되이"
+    },
+    {
+      "id": "v501_0162_zz_note_02_10_to_no_avail",
+      "word": "to no avail",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "헛되이"
+      ],
+      "source_page": 2,
+      "raw_gloss": "헛되이"
+    },
+    {
+      "id": "v501_0162_zz_note_02_11_to_little_effect",
+      "word": "to little effect",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "헛되이"
+      ],
+      "source_page": 2,
+      "raw_gloss": "헛되이"
+    },
+    {
+      "id": "v501_0162_zz_note_02_12_to_no_effect",
+      "word": "to no effect",
+      "book": "V501",
+      "chapter": 2,
+      "type": "flat",
+      "accepted_answers": [
+        "헛되이"
+      ],
+      "source_page": 2,
+      "raw_gloss": "헛되이"
     },
     {
       "id": "v501_0163_anti_dumping_duties",
@@ -329355,6 +329686,271 @@
       "raw_gloss": "긴축정책"
     },
     {
+      "id": "v501_0247_zz_note_03_01_back_down",
+      "word": "back down",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "후퇴하다",
+        "후퇴"
+      ],
+      "source_page": 3,
+      "raw_gloss": "후퇴하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_02_back_off",
+      "word": "back off",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "후퇴하다",
+        "후퇴"
+      ],
+      "source_page": 3,
+      "raw_gloss": "후퇴하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_03_against_this_backdrop",
+      "word": "against this backdrop",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "이러한 배경 상황에서"
+      ],
+      "source_page": 3,
+      "raw_gloss": "이러한 배경 상황에서"
+    },
+    {
+      "id": "v501_0247_zz_note_03_04_be_on_bail",
+      "word": "be on bail",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "보석중인"
+      ],
+      "source_page": 3,
+      "raw_gloss": "보석중인"
+    },
+    {
+      "id": "v501_0247_zz_note_03_05_jump_bail",
+      "word": "jump bail",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "보석 중 도망치다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "보석 중 도망치다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_06_hang_in_the_balance",
+      "word": "hang in the balance",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "불안한 상태에 있다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "불안한 상태에 있다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_07_on_balance",
+      "word": "on balance",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "여러모로 봐서"
+      ],
+      "source_page": 3,
+      "raw_gloss": "여러모로 봐서"
+    },
+    {
+      "id": "v501_0247_zz_note_03_08_strike_a_balance",
+      "word": "strike a balance",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "균형을 도모하다",
+        "균형을 도모"
+      ],
+      "source_page": 3,
+      "raw_gloss": "균형을 도모하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_09_cast_a_ballot",
+      "word": "cast a ballot",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "표를 던지다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "표를 던지다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_10_stuff_the_ballot_box",
+      "word": "stuff the ballot box",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "부정투표를 하다",
+        "부정투표를 "
+      ],
+      "source_page": 3,
+      "raw_gloss": "부정투표를 하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_11_bank_on",
+      "word": "bank on",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "기대를 걸다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "기대를 걸다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_12_behind_bars",
+      "word": "behind bars",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "투옥된"
+      ],
+      "source_page": 3,
+      "raw_gloss": "투옥된"
+    },
+    {
+      "id": "v501_0247_zz_note_03_13_a_barrage_of",
+      "word": "a barrage of",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "다량의"
+      ],
+      "source_page": 3,
+      "raw_gloss": "다량의"
+    },
+    {
+      "id": "v501_0247_zz_note_03_14_keep_at_bay",
+      "word": "keep - at bay",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "-를 궁지에 몰다",
+        "궁지에 몰다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "-를 궁지에 몰다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_15_beat_around_the_bush",
+      "word": "beat around the bush",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "돌려서 이야기하다",
+        "돌려서 이야기"
+      ],
+      "source_page": 3,
+      "raw_gloss": "돌려서 이야기하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_16_take_a_beating",
+      "word": "take a beating",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "참패하다",
+        "참패"
+      ],
+      "source_page": 3,
+      "raw_gloss": "참패하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_17_beef_up",
+      "word": "beef up",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "(군대를) 강화하다",
+        "강화하다",
+        "강화"
+      ],
+      "source_page": 3,
+      "raw_gloss": "(군대를) 강화하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_18_at_the_behest_of",
+      "word": "at the behest of",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 요청에 따라",
+        "요청에 따라"
+      ],
+      "source_page": 3,
+      "raw_gloss": "-의 요청에 따라"
+    },
+    {
+      "id": "v501_0247_zz_note_03_19_go_belly_up",
+      "word": "go belly up",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "도산[파산]하다",
+        "도산하다",
+        "도산"
+      ],
+      "source_page": 3,
+      "raw_gloss": "도산[파산]하다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_20_be_bereft_of",
+      "word": "be bereft of",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 빼앗기다",
+        "빼앗기다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "-을 빼앗기다"
+    },
+    {
+      "id": "v501_0247_zz_note_03_21_go_berserk",
+      "word": "go berserk",
+      "book": "V501",
+      "chapter": 3,
+      "type": "flat",
+      "accepted_answers": [
+        "미친 듯 날뛰다"
+      ],
+      "source_page": 3,
+      "raw_gloss": "미친 듯 날뛰다"
+    },
+    {
       "id": "v501_0248_bail_bond",
       "word": "bail bond",
       "book": "V501",
@@ -330154,6 +330750,447 @@
       ],
       "source_page": 4,
       "raw_gloss": "우량한, 탁월한"
+    },
+    {
+      "id": "v501_0308_zz_note_04_01_wolf_in_sheep_s_clothing",
+      "word": "wolf in sheep's clothing",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "배신자"
+      ],
+      "source_page": 4,
+      "raw_gloss": "배신자"
+    },
+    {
+      "id": "v501_0308_zz_note_04_02_make_it_big",
+      "word": "make it big",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "큰 성공을 거두다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "큰 성공을 거두다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_03_bite_off_more_than_one_can_chew",
+      "word": "bite off more than one can chew",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "힘에 부치는 일을 하다",
+        "힘에 부치는 일을 "
+      ],
+      "source_page": 4,
+      "raw_gloss": "힘에 부치는 일을 하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_04_bite_the_bullet",
+      "word": "bite the bullet",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "이를 악물고 견디다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "이를 악물고 견디다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_05_bite_the_dust",
+      "word": "bite the dust",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "실패하다, 사라지다",
+        "실패하다",
+        "실패",
+        "사라지다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "실패하다, 사라지다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_06_bite_the_hand_that_feeds_one",
+      "word": "bite the hand that feeds one",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "은혜를 원수로 갚다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "은혜를 원수로 갚다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_07_black_out",
+      "word": "black out",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "정전시키다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "정전시키다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_08_put_the_blame_on",
+      "word": "put the blame on",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "-를 비난하다",
+        "비난하다",
+        "비난"
+      ],
+      "source_page": 4,
+      "raw_gloss": "-를 비난하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_09_lay_the_blame_on",
+      "word": "lay the blame on",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "-를 비난하다",
+        "비난하다",
+        "비난"
+      ],
+      "source_page": 4,
+      "raw_gloss": "-를 비난하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_10_shift_the_blame_on_to",
+      "word": "shift the blame on to",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "-에게 책임을 전가하다",
+        "에게 책임을 전가하다",
+        "에게 책임을 전가"
+      ],
+      "source_page": 4,
+      "raw_gloss": "-에게 책임을 전가하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_11_a_bone_of_contention",
+      "word": "a bone of contention",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "분쟁의 씨앗"
+      ],
+      "source_page": 4,
+      "raw_gloss": "분쟁의 씨앗"
+    },
+    {
+      "id": "v501_0308_zz_note_04_12_have_a_bone_to_pick_with",
+      "word": "have a bone to pick with",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "불만을 가지다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "불만을 가지다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_13_make_no_bones_about",
+      "word": "make no bones about",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "숨기지 않고 솔직히 표현하다",
+        "숨기지 않고 솔직히 표현"
+      ],
+      "source_page": 4,
+      "raw_gloss": "숨기지 않고 솔직히 표현하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_14_be_on_the_books",
+      "word": "be on the books",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "기록되어 있는"
+      ],
+      "source_page": 4,
+      "raw_gloss": "기록되어 있는"
+    },
+    {
+      "id": "v501_0308_zz_note_04_15_bring_to_book",
+      "word": "bring - to book",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "해명을 요구하다; 처벌하다",
+        "해명을 요구하다; 처벌",
+        "해명을 요구하다",
+        "해명을 요구",
+        "처벌하다",
+        "처벌"
+      ],
+      "source_page": 4,
+      "raw_gloss": "해명을 요구하다; 처벌하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_16_go_by_the_book",
+      "word": "go by the book",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "원칙대로 하다",
+        "원칙대로 "
+      ],
+      "source_page": 4,
+      "raw_gloss": "원칙대로 하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_17_throw_the_book_at",
+      "word": "throw the book at",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "엄벌에 처하다",
+        "엄벌에 처"
+      ],
+      "source_page": 4,
+      "raw_gloss": "엄벌에 처하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_18_be_in_a_person_s_good_books",
+      "word": "be in a person's good books",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "마음에 들다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "마음에 들다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_19_be_in_a_person_s_bad_books",
+      "word": "be in a person's bad books",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "마음에 들지 않다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "마음에 들지 않다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_20_be_in_a_person_s_black_books",
+      "word": "be in a person's black books",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "마음에 들지 않다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "마음에 들지 않다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_21_deal_a_blow_to",
+      "word": "deal a blow to",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "타격을 입히다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "타격을 입히다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_22_once_in_a_blue_moon",
+      "word": "once in a blue moon",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "가뭄에 콩 나듯"
+      ],
+      "source_page": 4,
+      "raw_gloss": "가뭄에 콩 나듯"
+    },
+    {
+      "id": "v501_0308_zz_note_04_23_out_of_the_blue",
+      "word": "out of the blue",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "불시에, 갑자기",
+        "불시에",
+        "갑자기"
+      ],
+      "source_page": 4,
+      "raw_gloss": "불시에, 갑자기"
+    },
+    {
+      "id": "v501_0308_zz_note_04_24_out_of_nowhere",
+      "word": "out of nowhere",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "불시에, 갑자기",
+        "불시에",
+        "갑자기"
+      ],
+      "source_page": 4,
+      "raw_gloss": "불시에, 갑자기"
+    },
+    {
+      "id": "v501_0308_zz_note_04_25_call_a_person_s_bluff",
+      "word": "call a person's bluff",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "허세(블러핑)에 반격하다",
+        "허세에 반격하다",
+        "허세에 반격"
+      ],
+      "source_page": 4,
+      "raw_gloss": "허세(블러핑)에 반격하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_26_at_the_first_blush",
+      "word": "at (the) first blush",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "언뜻 보기에"
+      ],
+      "source_page": 4,
+      "raw_gloss": "언뜻 보기에"
+    },
+    {
+      "id": "v501_0308_zz_note_04_27_above_board",
+      "word": "above board",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "정당하게"
+      ],
+      "source_page": 4,
+      "raw_gloss": "정당하게"
+    },
+    {
+      "id": "v501_0308_zz_note_04_28_across_the_board",
+      "word": "across the board",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "전반적으로"
+      ],
+      "source_page": 4,
+      "raw_gloss": "전반적으로"
+    },
+    {
+      "id": "v501_0308_zz_note_04_29_get_the_boot",
+      "word": "get the boot",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "해고당하다",
+        "해고당"
+      ],
+      "source_page": 4,
+      "raw_gloss": "해고당하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_30_to_boot",
+      "word": "to boot",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "게다가"
+      ],
+      "source_page": 4,
+      "raw_gloss": "게다가"
+    },
+    {
+      "id": "v501_0308_zz_note_04_31_bottle_up",
+      "word": "bottle up",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "봉쇄하다; (법안) 일시 보류하다",
+        "봉쇄하다; 일시 보류하다",
+        "봉쇄하다; 일시 보류",
+        "봉쇄하다",
+        "봉쇄",
+        "(법안) 일시 보류하다",
+        "일시 보류하다",
+        "일시 보류"
+      ],
+      "source_page": 4,
+      "raw_gloss": "봉쇄하다; (법안) 일시 보류하다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_32_bottom_out",
+      "word": "bottom out",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "상태가 바닥까지 떨어지다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "상태가 바닥까지 떨어지다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_33_put_in_a_bind",
+      "word": "put - in a bind",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "곤경에 빠뜨리다"
+      ],
+      "source_page": 4,
+      "raw_gloss": "곤경에 빠뜨리다"
+    },
+    {
+      "id": "v501_0308_zz_note_04_34_spill_the_beans",
+      "word": "spill the beans",
+      "book": "V501",
+      "chapter": 4,
+      "type": "flat",
+      "accepted_answers": [
+        "비밀을 누설하다",
+        "비밀을 누설"
+      ],
+      "source_page": 4,
+      "raw_gloss": "비밀을 누설하다"
     },
     {
       "id": "v501_0309_big_apple",
@@ -331046,6 +332083,214 @@
       ],
       "source_page": 5,
       "raw_gloss": "타격을 입히다, 괴롭히다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_01_pass_the_buck_to",
+      "word": "pass the buck to",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "책임을 전가하다",
+        "책임을 전가"
+      ],
+      "source_page": 5,
+      "raw_gloss": "책임을 전가하다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_02_a_bull_in_a_china_shop",
+      "word": "a bull in a china shop",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "소란을 피우는 사람"
+      ],
+      "source_page": 5,
+      "raw_gloss": "소란을 피우는 사람"
+    },
+    {
+      "id": "v501_0060_zz_note_05_03_put_on_the_back_burner",
+      "word": "put - on the back burner",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "연기하다, 미루다",
+        "연기하다",
+        "연기",
+        "미루다"
+      ],
+      "source_page": 5,
+      "raw_gloss": "연기하다, 미루다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_04_put_on_the_front_burner",
+      "word": "put - on the front burner",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "최우선으로 처리하다",
+        "최우선으로 처리"
+      ],
+      "source_page": 5,
+      "raw_gloss": "최우선으로 처리하다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_05_bounce_a_check",
+      "word": "bounce a check",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "부도수표를 발행하다",
+        "부도수표를 발행"
+      ],
+      "source_page": 5,
+      "raw_gloss": "부도수표를 발행하다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_06_bow_out_of",
+      "word": "bow out of",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "사직하다",
+        "사직"
+      ],
+      "source_page": 5,
+      "raw_gloss": "사직하다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_07_branch_out",
+      "word": "branch out",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "활동분야를 넓히다"
+      ],
+      "source_page": 5,
+      "raw_gloss": "활동분야를 넓히다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_08_on_the_breadline",
+      "word": "on the breadline",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "매우 가난한"
+      ],
+      "source_page": 5,
+      "raw_gloss": "매우 가난한"
+    },
+    {
+      "id": "v501_0060_zz_note_05_09_break_loose",
+      "word": "break loose",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "도주하다; 속박에서 벗어나다",
+        "도주하다",
+        "도주",
+        "속박에서 벗어나다"
+      ],
+      "source_page": 5,
+      "raw_gloss": "도주하다; 속박에서 벗어나다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_10_yield_a_breakthrough",
+      "word": "yield a breakthrough",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "돌파구를 마련하다",
+        "돌파구를 마련"
+      ],
+      "source_page": 5,
+      "raw_gloss": "돌파구를 마련하다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_11_on_the_brink_of_ing",
+      "word": "on the brink of -ing",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "곧 - 할 위기에 처한"
+      ],
+      "source_page": 5,
+      "raw_gloss": "곧 - 할 위기에 처한"
+    },
+    {
+      "id": "v501_0060_zz_note_05_12_on_the_edge_of_ing",
+      "word": "on the edge of -ing",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "곧 - 할 위기에 처한"
+      ],
+      "source_page": 5,
+      "raw_gloss": "곧 - 할 위기에 처한"
+    },
+    {
+      "id": "v501_0060_zz_note_05_13_on_the_verge_of_ing",
+      "word": "on the verge of -ing",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "곧 - 할 위기에 처한"
+      ],
+      "source_page": 5,
+      "raw_gloss": "곧 - 할 위기에 처한"
+    },
+    {
+      "id": "v501_0060_zz_note_05_14_buy_into",
+      "word": "buy into",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "주주가 되다"
+      ],
+      "source_page": 5,
+      "raw_gloss": "주주가 되다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_15_let_bygones_be_bygones",
+      "word": "let bygones be bygones",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "과거는 과거 속에 묻어두다"
+      ],
+      "source_page": 5,
+      "raw_gloss": "과거는 과거 속에 묻어두다"
+    },
+    {
+      "id": "v501_0060_zz_note_05_16_cut_red_tape",
+      "word": "cut red tape",
+      "book": "V501",
+      "chapter": 5,
+      "type": "flat",
+      "accepted_answers": [
+        "관료제를 타파하다; 행정 간소화하다",
+        "관료제를 타파하다; 행정 간소화",
+        "관료제를 타파하다",
+        "관료제를 타파",
+        "행정 간소화하다",
+        "행정 간소화"
+      ],
+      "source_page": 5,
+      "raw_gloss": "관료제를 타파하다; 행정 간소화하다"
     },
     {
       "id": "v501_0061_bourse",
@@ -332296,6 +333541,158 @@
       "raw_gloss": "안달 나다; 불쾌해하다"
     },
     {
+      "id": "v501_0158_zz_note_06_01_cannot_hold_a_candle_to",
+      "word": "cannot hold a candle to",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "비교도 할 수 없는 수준이다"
+      ],
+      "source_page": 6,
+      "raw_gloss": "비교도 할 수 없는 수준이다"
+    },
+    {
+      "id": "v501_0158_zz_note_06_02_in_a_capacity",
+      "word": "in a - capacity",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 자격으로",
+        "자격으로"
+      ],
+      "source_page": 6,
+      "raw_gloss": "-의 자격으로"
+    },
+    {
+      "id": "v501_0158_zz_note_06_03_in_the_cards",
+      "word": "in the cards",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "있을 수 있는, 예상되는",
+        "있을 수 있는",
+        "예상되는"
+      ],
+      "source_page": 6,
+      "raw_gloss": "있을 수 있는, 예상되는"
+    },
+    {
+      "id": "v501_0158_zz_note_06_04_a_case_in_point",
+      "word": "a case in point",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "주제와 관련된 사례"
+      ],
+      "source_page": 6,
+      "raw_gloss": "주제와 관련된 사례"
+    },
+    {
+      "id": "v501_0158_zz_note_06_05_cash_in_on",
+      "word": "cash in on",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "이용해 먹다"
+      ],
+      "source_page": 6,
+      "raw_gloss": "이용해 먹다"
+    },
+    {
+      "id": "v501_0158_zz_note_06_06_let_the_cat_out_of_the_bag",
+      "word": "let the cat out of the bag",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "비밀을 누설하다",
+        "비밀을 누설"
+      ],
+      "source_page": 6,
+      "raw_gloss": "비밀을 누설하다"
+    },
+    {
+      "id": "v501_0158_zz_note_06_07_play_cat_and_mouse",
+      "word": "play cat-and-mouse",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "여러 속임수와 술책을 쓰는 것"
+      ],
+      "source_page": 6,
+      "raw_gloss": "여러 속임수와 술책을 쓰는 것"
+    },
+    {
+      "id": "v501_0158_zz_note_06_08_cave_in_to",
+      "word": "cave in to",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "항복하다",
+        "항복"
+      ],
+      "source_page": 6,
+      "raw_gloss": "항복하다"
+    },
+    {
+      "id": "v501_0158_zz_note_06_09_buckle_under_to",
+      "word": "buckle under to",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "항복하다",
+        "항복"
+      ],
+      "source_page": 6,
+      "raw_gloss": "항복하다"
+    },
+    {
+      "id": "v501_0158_zz_note_06_10_chalk_up",
+      "word": "chalk up",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "(승리를) 기록하다",
+        "기록하다",
+        "기록"
+      ],
+      "source_page": 6,
+      "raw_gloss": "(승리를) 기록하다"
+    },
+    {
+      "id": "v501_0158_zz_note_06_11_when_the_chips_are_down",
+      "word": "when the chips are down",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "위급할 때"
+      ],
+      "source_page": 6,
+      "raw_gloss": "위급할 때"
+    },
+    {
+      "id": "v501_0158_zz_note_06_12_there_is_more_than_one_way_to_skin_a_cat",
+      "word": "There is more than one way to skin a cat",
+      "book": "V501",
+      "chapter": 6,
+      "type": "flat",
+      "accepted_answers": [
+        "한 가지 일을 하는 데는 여러 가지 방법이 있다"
+      ],
+      "source_page": 6,
+      "raw_gloss": "한 가지 일을 하는 데는 여러 가지 방법이 있다"
+    },
+    {
       "id": "v501_0159_capacity",
       "word": "capacity",
       "book": "V501",
@@ -333494,6 +334891,82 @@
       "raw_gloss": "적절한"
     },
     {
+      "id": "v501_0250_zz_note_07_01_cloak_and_dagger",
+      "word": "cloak-and-dagger",
+      "book": "V501",
+      "chapter": 7,
+      "type": "flat",
+      "accepted_answers": [
+        "망토와 단검을 지닌; 은밀한",
+        "망토와 단검을 지닌",
+        "은밀한"
+      ],
+      "source_page": 7,
+      "raw_gloss": "망토와 단검을 지닌; 은밀한"
+    },
+    {
+      "id": "v501_0250_zz_note_07_02_a_round_the_clock",
+      "word": "(a)round the clock",
+      "book": "V501",
+      "chapter": 7,
+      "type": "flat",
+      "accepted_answers": [
+        "하루 종일"
+      ],
+      "source_page": 7,
+      "raw_gloss": "하루 종일"
+    },
+    {
+      "id": "v501_0250_zz_note_07_03_like_clockwork",
+      "word": "like clockwork",
+      "book": "V501",
+      "chapter": 7,
+      "type": "flat",
+      "accepted_answers": [
+        "시계처럼 규칙적으로"
+      ],
+      "source_page": 7,
+      "raw_gloss": "시계처럼 규칙적으로"
+    },
+    {
+      "id": "v501_0250_zz_note_07_04_come_out_of_the_closet",
+      "word": "come out of the closet",
+      "book": "V501",
+      "chapter": 7,
+      "type": "flat",
+      "accepted_answers": [
+        "자신이 동성연애자임을 밝히다"
+      ],
+      "source_page": 7,
+      "raw_gloss": "자신이 동성연애자임을 밝히다"
+    },
+    {
+      "id": "v501_0250_zz_note_07_05_a_clutch_of",
+      "word": "a clutch of",
+      "book": "V501",
+      "chapter": 7,
+      "type": "flat",
+      "accepted_answers": [
+        "한 무리의"
+      ],
+      "source_page": 7,
+      "raw_gloss": "한 무리의"
+    },
+    {
+      "id": "v501_0250_zz_note_07_06_in_cold_blood",
+      "word": "in cold blood",
+      "book": "V501",
+      "chapter": 7,
+      "type": "flat",
+      "accepted_answers": [
+        "냉혹하게, 태연히",
+        "냉혹하게",
+        "태연히"
+      ],
+      "source_page": 7,
+      "raw_gloss": "냉혹하게, 태연히"
+    },
+    {
       "id": "v501_0251_commissar",
       "word": "commissar",
       "book": "V501",
@@ -334342,10 +335815,10 @@
         "반항적인",
         "반항적",
         "반항",
-        "고집 센 ※"
+        "고집 센"
       ],
       "source_page": 8,
-      "raw_gloss": "반항적인, 고집 센 ※"
+      "raw_gloss": "반항적인, 고집 센"
     },
     {
       "id": "v501_0314_pertinacious",
@@ -334653,6 +336126,155 @@
       "raw_gloss": "평형력; 대항 세력"
     },
     {
+      "id": "v501_0335_zz_note_08_01_fall_into_complacency",
+      "word": "fall into complacency",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "자만에 빠지다"
+      ],
+      "source_page": 8,
+      "raw_gloss": "자만에 빠지다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_02_around_the_corner",
+      "word": "around the corner",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "임박한"
+      ],
+      "source_page": 8,
+      "raw_gloss": "임박한"
+    },
+    {
+      "id": "v501_0335_zz_note_08_03_cut_corners",
+      "word": "cut corners",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "비용을 아끼다"
+      ],
+      "source_page": 8,
+      "raw_gloss": "비용을 아끼다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_04_come_at_the_cost_of",
+      "word": "come at the cost of",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 희생하고 생기다",
+        "희생하고 생기다"
+      ],
+      "source_page": 8,
+      "raw_gloss": "-을 희생하고 생기다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_05_come_at_the_expense_of",
+      "word": "come at the expense of",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 희생하고 생기다",
+        "희생하고 생기다"
+      ],
+      "source_page": 8,
+      "raw_gloss": "-을 희생하고 생기다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_06_cough_up",
+      "word": "cough up",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "(마지못해) 지불하다",
+        "지불하다",
+        "지불"
+      ],
+      "source_page": 8,
+      "raw_gloss": "(마지못해) 지불하다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_07_stage_a_coup",
+      "word": "stage a coup",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "쿠데타를 일으키다"
+      ],
+      "source_page": 8,
+      "raw_gloss": "쿠데타를 일으키다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_08_crank_up",
+      "word": "crank up",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "증가시키다, 강화하다",
+        "증가시키다, 강화",
+        "증가시키다",
+        "강화하다",
+        "강화"
+      ],
+      "source_page": 8,
+      "raw_gloss": "증가시키다, 강화하다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_09_the_cream_of_the_crop",
+      "word": "the cream of the crop",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "알곡, 정수",
+        "알곡",
+        "정수"
+      ],
+      "source_page": 8,
+      "raw_gloss": "알곡, 정수"
+    },
+    {
+      "id": "v501_0335_zz_note_08_10_crowd_out",
+      "word": "crowd out",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "(공간이 없어) 밀어내다; 구축(驅逐)하다",
+        "밀어내다; 구축하다",
+        "밀어내다; 구축",
+        "(공간이 없어) 밀어내다",
+        "밀어내다",
+        "구축(驅逐)하다",
+        "구축하다",
+        "구축"
+      ],
+      "source_page": 8,
+      "raw_gloss": "(공간이 없어) 밀어내다; 구축(驅逐)하다"
+    },
+    {
+      "id": "v501_0335_zz_note_08_11_credit_crunch",
+      "word": "credit crunch",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "금융경색"
+      ],
+      "source_page": 8,
+      "raw_gloss": "금융경색"
+    },
+    {
       "id": "v501_0336_when_it_comes_to_the_crunch",
       "word": "when it comes to the crunch",
       "book": "V501",
@@ -334663,6 +336285,18 @@
       ],
       "source_page": 8,
       "raw_gloss": "결정적인 순간이 오면"
+    },
+    {
+      "id": "v501_0336_zz_note_08_13_curry_favor_with",
+      "word": "curry favor with",
+      "book": "V501",
+      "chapter": 8,
+      "type": "flat",
+      "accepted_answers": [
+        "비위를 맞추다"
+      ],
+      "source_page": 8,
+      "raw_gloss": "비위를 맞추다"
     },
     {
       "id": "v501_0337_containment_policy",
@@ -335854,6 +337488,191 @@
       "raw_gloss": "가치 상승; 평가절상"
     },
     {
+      "id": "v501_0427_zz_note_09_01_the_sword_of_damocles",
+      "word": "the sword of Damocles",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "신변[직책]에 따르는 위험",
+        "신변에 따르는 위험"
+      ],
+      "source_page": 9,
+      "raw_gloss": "신변[직책]에 따르는 위험"
+    },
+    {
+      "id": "v501_0427_zz_note_09_02_out_of_date",
+      "word": "out of date",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "구식의"
+      ],
+      "source_page": 9,
+      "raw_gloss": "구식의"
+    },
+    {
+      "id": "v501_0427_zz_note_09_03_to_date",
+      "word": "to date",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "지금까지"
+      ],
+      "source_page": 9,
+      "raw_gloss": "지금까지"
+    },
+    {
+      "id": "v501_0427_zz_note_09_04_deadbeat_father",
+      "word": "deadbeat father",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "자녀 양육비를 제대로 지불하지 않는 아버지"
+      ],
+      "source_page": 9,
+      "raw_gloss": "자녀 양육비를 제대로 지불하지 않는 아버지"
+    },
+    {
+      "id": "v501_0427_zz_note_09_05_a_done_deal",
+      "word": "a done deal",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "이미 확정된 계약"
+      ],
+      "source_page": 9,
+      "raw_gloss": "이미 확정된 계약"
+    },
+    {
+      "id": "v501_0427_zz_note_09_06_cut_a_deal",
+      "word": "cut a deal",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "계약을 체결하다",
+        "계약을 체결"
+      ],
+      "source_page": 9,
+      "raw_gloss": "계약을 체결하다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_07_clinch_a_deal",
+      "word": "clinch a deal",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "계약을 체결하다",
+        "계약을 체결"
+      ],
+      "source_page": 9,
+      "raw_gloss": "계약을 체결하다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_08_strike_a_deal",
+      "word": "strike a deal",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "계약을 체결하다",
+        "계약을 체결"
+      ],
+      "source_page": 9,
+      "raw_gloss": "계약을 체결하다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_09_death_row_inmate",
+      "word": "death row inmate",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "사형수"
+      ],
+      "source_page": 9,
+      "raw_gloss": "사형수"
+    },
+    {
+      "id": "v501_0427_zz_note_09_10_be_diametrically_opposed_to",
+      "word": "be diametrically opposed to",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "-와 정반대다",
+        "와 정반대다"
+      ],
+      "source_page": 9,
+      "raw_gloss": "-와 정반대다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_11_narrow_difference",
+      "word": "narrow difference",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "이견을 좁히다"
+      ],
+      "source_page": 9,
+      "raw_gloss": "이견을 좁히다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_12_bridge_difference",
+      "word": "bridge difference",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "이견을 좁히다"
+      ],
+      "source_page": 9,
+      "raw_gloss": "이견을 좁히다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_13_iron_out_difference",
+      "word": "iron out difference",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "이견을 좁히다"
+      ],
+      "source_page": 9,
+      "raw_gloss": "이견을 좁히다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_14_settle_difference",
+      "word": "settle difference",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "이견을 좁히다"
+      ],
+      "source_page": 9,
+      "raw_gloss": "이견을 좁히다"
+    },
+    {
+      "id": "v501_0427_zz_note_09_15_work_out_difference",
+      "word": "work out difference",
+      "book": "V501",
+      "chapter": 9,
+      "type": "flat",
+      "accepted_answers": [
+        "이견을 좁히다"
+      ],
+      "source_page": 9,
+      "raw_gloss": "이견을 좁히다"
+    },
+    {
       "id": "v501_0428_dayton_peace_accords",
       "word": "Dayton Peace Accords",
       "book": "V501",
@@ -336930,6 +338749,147 @@
       "raw_gloss": "열 배가 되다; 열 배로 만들다"
     },
     {
+      "id": "v501_0509_zz_note_10_01_down_with",
+      "word": "down with",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "-를 타도하라",
+        "타도하라"
+      ],
+      "source_page": 10,
+      "raw_gloss": "-를 타도하라"
+    },
+    {
+      "id": "v501_0509_zz_note_10_02_draw_on",
+      "word": "draw on",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "의존하다",
+        "의존"
+      ],
+      "source_page": 10,
+      "raw_gloss": "의존하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_03_drum_up",
+      "word": "drum up",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "선전하다",
+        "선전"
+      ],
+      "source_page": 10,
+      "raw_gloss": "선전하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_04_turn_a_deaf_ear_to",
+      "word": "turn a deaf ear to",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "못 들은 척하다",
+        "못 들은 척"
+      ],
+      "source_page": 10,
+      "raw_gloss": "못 들은 척하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_05_eat_crow",
+      "word": "eat crow",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "굴욕을 감수하고 잘못을 인정하다",
+        "굴욕을 감수하고 잘못을 인정"
+      ],
+      "source_page": 10,
+      "raw_gloss": "굴욕을 감수하고 잘못을 인정하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_06_eat_humble_pie",
+      "word": "eat humble pie",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "굴욕을 감수하고 잘못을 인정하다",
+        "굴욕을 감수하고 잘못을 인정"
+      ],
+      "source_page": 10,
+      "raw_gloss": "굴욕을 감수하고 잘못을 인정하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_07_have_the_edge_over",
+      "word": "have the edge over",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "-보다 우세하다",
+        "보다 우세하다",
+        "보다 우세"
+      ],
+      "source_page": 10,
+      "raw_gloss": "-보다 우세하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_08_sharpen_the_competitive_edge",
+      "word": "sharpen the competitive edge",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "경쟁력을 강화하다",
+        "경쟁력을 강화"
+      ],
+      "source_page": 10,
+      "raw_gloss": "경쟁력을 강화하다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_09_end_up",
+      "word": "end up",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "결국 - 하게 끝나다"
+      ],
+      "source_page": 10,
+      "raw_gloss": "결국 - 하게 끝나다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_10_wind_up",
+      "word": "wind up",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "결국 - 하게 끝나다"
+      ],
+      "source_page": 10,
+      "raw_gloss": "결국 - 하게 끝나다"
+    },
+    {
+      "id": "v501_0509_zz_note_10_11_give_someone_the_benefit_of_the_doubt",
+      "word": "give someone the benefit of the doubt",
+      "book": "V501",
+      "chapter": 10,
+      "type": "flat",
+      "accepted_answers": [
+        "상대에게 유리한 쪽으로 생각해주다"
+      ],
+      "source_page": 10,
+      "raw_gloss": "상대에게 유리한 쪽으로 생각해주다"
+    },
+    {
       "id": "v501_0510_disposable_personal_income",
       "word": "disposable personal income",
       "book": "V501",
@@ -337835,6 +339795,339 @@
       ],
       "source_page": 11,
       "raw_gloss": "나약하게 만들다; 나약한; 여성적인"
+    },
+    {
+      "id": "v501_0580_zz_note_11_01_an_eye_for_an_eye",
+      "word": "an eye for an eye",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "눈에는 눈"
+      ],
+      "source_page": 11,
+      "raw_gloss": "눈에는 눈"
+    },
+    {
+      "id": "v501_0580_zz_note_11_02_be_in_the_eye_of_the_storm",
+      "word": "be in the eye of the storm",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "(문제의) 핵심에 위치하다",
+        "핵심에 위치하다",
+        "핵심에 위치"
+      ],
+      "source_page": 11,
+      "raw_gloss": "(문제의) 핵심에 위치하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_03_cast_an_eye_on",
+      "word": "cast an eye on",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "조사하다",
+        "조사"
+      ],
+      "source_page": 11,
+      "raw_gloss": "조사하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_04_catch_one_s_eye",
+      "word": "catch one's eye",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "눈길을 끌다"
+      ],
+      "source_page": 11,
+      "raw_gloss": "눈길을 끌다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_05_keep_an_eye_on",
+      "word": "keep an eye on",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "주시하다",
+        "주시"
+      ],
+      "source_page": 11,
+      "raw_gloss": "주시하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_06_see_eye_to_eye_with",
+      "word": "see eye to eye with",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "-와 의견 합의를 보다",
+        "와 의견 합의를 보다"
+      ],
+      "source_page": 11,
+      "raw_gloss": "-와 의견 합의를 보다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_07_turn_a_blind_eye",
+      "word": "turn a blind eye",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "모른 척 하다",
+        "모른 척 "
+      ],
+      "source_page": 11,
+      "raw_gloss": "모른 척 하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_08_fall_flat",
+      "word": "fall flat",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "실패하다",
+        "실패"
+      ],
+      "source_page": 11,
+      "raw_gloss": "실패하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_09_fall_for",
+      "word": "fall for",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "-에 반하다; -에게 속다",
+        "반하다; -에게 속다",
+        "-에 반하다",
+        "반하다",
+        "반",
+        "-에게 속다",
+        "에게 속다"
+      ],
+      "source_page": 11,
+      "raw_gloss": "-에 반하다; -에게 속다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_10_fall_into_a_category",
+      "word": "fall into a category",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "어떤 부류에 속하다",
+        "어떤 부류에 속"
+      ],
+      "source_page": 11,
+      "raw_gloss": "어떤 부류에 속하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_11_fall_into_line_with",
+      "word": "fall into line with",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "-와 행동을 같이하다",
+        "와 행동을 같이하다",
+        "와 행동을 같이"
+      ],
+      "source_page": 11,
+      "raw_gloss": "-와 행동을 같이하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_12_fall_out_with",
+      "word": "fall out with",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "싸우다, 사이가 틀어지다",
+        "싸우다",
+        "사이가 틀어지다"
+      ],
+      "source_page": 11,
+      "raw_gloss": "싸우다, 사이가 틀어지다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_13_fall_through",
+      "word": "fall through",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "실패하다, 수포로 돌아가다",
+        "실패하다",
+        "실패",
+        "수포로 돌아가다"
+      ],
+      "source_page": 11,
+      "raw_gloss": "실패하다, 수포로 돌아가다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_14_to_a_fault",
+      "word": "to a fault",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "결점이라 할 정도로, 지나치게",
+        "결점이라 할 정도로",
+        "지나치게"
+      ],
+      "source_page": 11,
+      "raw_gloss": "결점이라 할 정도로, 지나치게"
+    },
+    {
+      "id": "v501_0580_zz_note_11_15_drag_one_s_feet",
+      "word": "drag one's feet",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "고의로 우물쭈물하다",
+        "고의로 우물쭈물"
+      ],
+      "source_page": 11,
+      "raw_gloss": "고의로 우물쭈물하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_16_get_back_on_one_s_own_feet",
+      "word": "get back on one's (own) feet",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "다시 자립하다",
+        "다시 자립"
+      ],
+      "source_page": 11,
+      "raw_gloss": "다시 자립하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_17_get_on_one_s_own_feet",
+      "word": "get on one's (own) feet",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "자립하게 만들다"
+      ],
+      "source_page": 11,
+      "raw_gloss": "자립하게 만들다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_18_stand_on_one_s_own_feet",
+      "word": "stand on one's (own) feet",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "자립하다",
+        "자립"
+      ],
+      "source_page": 11,
+      "raw_gloss": "자립하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_19_sit_on_the_fence",
+      "word": "sit on the fence",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "(기회주의적으로) 관망적인 태도를 취하다",
+        "관망적인 태도를 취하다",
+        "관망적인 태도를 취"
+      ],
+      "source_page": 11,
+      "raw_gloss": "(기회주의적으로) 관망적인 태도를 취하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_20_be_on_the_fence",
+      "word": "be on the fence",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "(기회주의적으로) 관망적인 태도를 취하다",
+        "관망적인 태도를 취하다",
+        "관망적인 태도를 취"
+      ],
+      "source_page": 11,
+      "raw_gloss": "(기회주의적으로) 관망적인 태도를 취하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_21_stand_on_the_fence",
+      "word": "stand on the fence",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "관망적인 태도를 취하다",
+        "관망적인 태도를 취"
+      ],
+      "source_page": 11,
+      "raw_gloss": "관망적인 태도를 취하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_22_fend_off",
+      "word": "fend off",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "피하다",
+        "피"
+      ],
+      "source_page": 11,
+      "raw_gloss": "피하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_23_play_second_fiddle_to",
+      "word": "play second fiddle to",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "들러리 역할을 하다",
+        "들러리 역할을 "
+      ],
+      "source_page": 11,
+      "raw_gloss": "들러리 역할을 하다"
+    },
+    {
+      "id": "v501_0580_zz_note_11_24_in_fits_and_starts",
+      "word": "in fits (and starts)",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "단속적으로"
+      ],
+      "source_page": 11,
+      "raw_gloss": "단속적으로"
+    },
+    {
+      "id": "v501_0580_zz_note_11_25_by_fits_and_starts",
+      "word": "by fits (and starts)",
+      "book": "V501",
+      "chapter": 11,
+      "type": "flat",
+      "accepted_answers": [
+        "단속적으로"
+      ],
+      "source_page": 11,
+      "raw_gloss": "단속적으로"
     },
     {
       "id": "v501_0581_equity_market",
@@ -338929,6 +341222,257 @@
       "raw_gloss": "산불"
     },
     {
+      "id": "v501_0664_zz_note_12_01_god_forbid_that",
+      "word": "God forbid that ~",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "~하는 일이 절대로 없기를",
+        "하는 일이 절대로 없기를"
+      ],
+      "source_page": 12,
+      "raw_gloss": "~하는 일이 절대로 없기를"
+    },
+    {
+      "id": "v501_0664_zz_note_12_02_heaven_forbid_that",
+      "word": "Heaven forbid that ~",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "~하는 일이 절대로 없기를",
+        "하는 일이 절대로 없기를"
+      ],
+      "source_page": 12,
+      "raw_gloss": "~하는 일이 절대로 없기를"
+    },
+    {
+      "id": "v501_0664_zz_note_12_03_a_fringe_group",
+      "word": "a fringe group",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "비주류파"
+      ],
+      "source_page": 12,
+      "raw_gloss": "비주류파"
+    },
+    {
+      "id": "v501_0664_zz_note_12_04_gag_order",
+      "word": "gag order",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "함구령"
+      ],
+      "source_page": 12,
+      "raw_gloss": "함구령"
+    },
+    {
+      "id": "v501_0664_zz_note_12_05_embargo",
+      "word": "embargo",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "함구령; 보도금지 지침",
+        "함구령",
+        "보도금지 지침"
+      ],
+      "source_page": 12,
+      "raw_gloss": "함구령; 보도금지 지침"
+    },
+    {
+      "id": "v501_0664_zz_note_12_06_pick_up_the_gauntlet",
+      "word": "pick up the gauntlet",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "도전에 응하다",
+        "도전에 응"
+      ],
+      "source_page": 12,
+      "raw_gloss": "도전에 응하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_07_take_up_the_gauntlet",
+      "word": "take up the gauntlet",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "도전에 응하다",
+        "도전에 응"
+      ],
+      "source_page": 12,
+      "raw_gloss": "도전에 응하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_08_throw_the_gauntlet",
+      "word": "throw the gauntlet",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "도전하다",
+        "도전"
+      ],
+      "source_page": 12,
+      "raw_gloss": "도전하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_09_gear_up_for",
+      "word": "gear up for",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "준비하다",
+        "준비"
+      ],
+      "source_page": 12,
+      "raw_gloss": "준비하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_10_get_a_round",
+      "word": "get (a)round",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "(법, 규칙 등을) 피해가다",
+        "피해가다"
+      ],
+      "source_page": 12,
+      "raw_gloss": "(법, 규칙 등을) 피해가다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_11_get_away_with_ing",
+      "word": "get away with -ing",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 하고도 무사하다",
+        "하고도 무사하다",
+        "하고도 무사"
+      ],
+      "source_page": 12,
+      "raw_gloss": "-을 하고도 무사하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_12_give_away",
+      "word": "give away",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "무상으로 주다"
+      ],
+      "source_page": 12,
+      "raw_gloss": "무상으로 주다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_13_go_broke",
+      "word": "go broke",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "파산하다",
+        "파산"
+      ],
+      "source_page": 12,
+      "raw_gloss": "파산하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_14_file_for_chapter_11",
+      "word": "file for Chapter 11",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "파산(보호)신청하다",
+        "파산신청하다",
+        "파산신청"
+      ],
+      "source_page": 12,
+      "raw_gloss": "파산(보호)신청하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_15_go_down_as",
+      "word": "go down as",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "역사 속에 -로 기록되다"
+      ],
+      "source_page": 12,
+      "raw_gloss": "역사 속에 -로 기록되다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_16_go_public",
+      "word": "go public",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "주식을 일반에게 공개하다; 상장(上場)하다",
+        "주식을 일반에게 공개하다; 상장하다",
+        "주식을 일반에게 공개하다; 상장",
+        "주식을 일반에게 공개하다",
+        "주식을 일반에게 공개",
+        "상장(上場)하다",
+        "상장하다",
+        "상장"
+      ],
+      "source_page": 12,
+      "raw_gloss": "주식을 일반에게 공개하다; 상장(上場)하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_17_go_to_any_length_s",
+      "word": "go (to) any length(s)",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "목적을 위해 어떤 일도 하다",
+        "목적을 위해 어떤 일도 "
+      ],
+      "source_page": 12,
+      "raw_gloss": "목적을 위해 어떤 일도 하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_18_go_under",
+      "word": "go under",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "파산하다",
+        "파산"
+      ],
+      "source_page": 12,
+      "raw_gloss": "파산하다"
+    },
+    {
+      "id": "v501_0664_zz_note_12_19_go_up_in_smoke",
+      "word": "go up in smoke",
+      "book": "V501",
+      "chapter": 12,
+      "type": "flat",
+      "accepted_answers": [
+        "수포로 돌아가다"
+      ],
+      "source_page": 12,
+      "raw_gloss": "수포로 돌아가다"
+    },
+    {
       "id": "v501_0665_floor_leader",
       "word": "floor leader",
       "book": "V501",
@@ -339629,6 +342173,562 @@
       ],
       "source_page": 13,
       "raw_gloss": "뜻하지 않은 행운"
+    },
+    {
+      "id": "v501_0718_zz_note_13_01_grease_one_s_palm",
+      "word": "grease one's palm",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "뇌물주다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "뇌물주다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_02_grease_one_s_hand",
+      "word": "grease one's hand",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "뇌물주다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "뇌물주다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_03_grease_the_wheels",
+      "word": "grease the wheels",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "순조롭게 만들다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "순조롭게 만들다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_04_come_to_grips_with",
+      "word": "come to grips with",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "문제에 달려들다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "문제에 달려들다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_05_take_a_grip_on_oneself",
+      "word": "take a grip on oneself",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "분발하다",
+        "분발"
+      ],
+      "source_page": 13,
+      "raw_gloss": "분발하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_06_cover_ground",
+      "word": "cover ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "주제를 다루다; 일을 적절히 다루다",
+        "주제를 다루다",
+        "일을 적절히 다루다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "주제를 다루다; 일을 적절히 다루다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_07_cut_the_ground_from_under_someone",
+      "word": "cut the ground from under someone",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 계획을 선수 쳐서 방해하다",
+        "계획을 선수 쳐서 방해하다",
+        "계획을 선수 쳐서 방해"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-의 계획을 선수 쳐서 방해하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_08_find_a_common_ground",
+      "word": "find (a) common ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "공통분모를 찾다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "공통분모를 찾다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_09_gain_ground",
+      "word": "gain ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "확실한 기반을 얻다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "확실한 기반을 얻다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_10_lose_ground",
+      "word": "lose ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "확실한 기반을 잃다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "확실한 기반을 잃다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_11_stand_one_s_ground",
+      "word": "stand one's ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "입장을 고수하다",
+        "입장을 고수"
+      ],
+      "source_page": 13,
+      "raw_gloss": "입장을 고수하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_12_hold_one_s_ground",
+      "word": "hold one's ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "입장을 고수하다",
+        "입장을 고수"
+      ],
+      "source_page": 13,
+      "raw_gloss": "입장을 고수하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_13_keep_one_s_ground",
+      "word": "keep one's ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "입장을 고수하다",
+        "입장을 고수"
+      ],
+      "source_page": 13,
+      "raw_gloss": "입장을 고수하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_14_maintain_one_s_ground",
+      "word": "maintain one's ground",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "입장을 고수하다",
+        "입장을 고수"
+      ],
+      "source_page": 13,
+      "raw_gloss": "입장을 고수하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_15_catch_off_guard",
+      "word": "catch - off guard",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "방심한 틈을 타 공격하다",
+        "방심한 틈을 타 공격"
+      ],
+      "source_page": 13,
+      "raw_gloss": "방심한 틈을 타 공격하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_16_lower_one_s_guard",
+      "word": "lower one's guard",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "경계를 늦추다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "경계를 늦추다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_17_let_down_one_s_guard",
+      "word": "let down one's guard",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "경계를 늦추다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "경계를 늦추다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_18_drop_one_s_guard",
+      "word": "drop one's guard",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "경계를 늦추다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "경계를 늦추다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_19_raise_one_s_hackles",
+      "word": "raise one's hackles",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "화나게 하다",
+        "화나게 "
+      ],
+      "source_page": 13,
+      "raw_gloss": "화나게 하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_20_hammer_out",
+      "word": "hammer out",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "만들어내다, 해결하다",
+        "만들어내다, 해결",
+        "만들어내다",
+        "해결하다",
+        "해결"
+      ],
+      "source_page": 13,
+      "raw_gloss": "만들어내다, 해결하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_21_at_the_hands_of",
+      "word": "at the hands of",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 손에 의해",
+        "손에 의해"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-의 손에 의해"
+    },
+    {
+      "id": "v501_0718_zz_note_13_22_be_in_the_hands_of",
+      "word": "be in the hands of",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 손에 달려있다",
+        "손에 달려있다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-의 손에 달려있다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_23_be_on_hand",
+      "word": "be on hand",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "출석한, 곁에 있는",
+        "출석한",
+        "곁에 있는"
+      ],
+      "source_page": 13,
+      "raw_gloss": "출석한, 곁에 있는"
+    },
+    {
+      "id": "v501_0718_zz_note_13_24_change_hands",
+      "word": "change hands",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "소유자가 바뀌다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "소유자가 바뀌다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_25_fall_into_the_hands_of",
+      "word": "fall into the hands of",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 수중에 넘어가다",
+        "수중에 넘어가다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-의 수중에 넘어가다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_26_get_one_s_hands_on",
+      "word": "get one's hands on",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 입수하다",
+        "입수하다",
+        "입수"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-을 입수하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_27_get_out_of_hand",
+      "word": "get out of hand",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "손을 쓸 수 없게 되다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "손을 쓸 수 없게 되다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_28_play_into_the_hands_of",
+      "word": "play into the hands of",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 작전에 넘어가다",
+        "작전에 넘어가다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-의 작전에 넘어가다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_29_sit_on_one_s_hands",
+      "word": "sit on one's hands",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "냉담한 반응을 보이다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "냉담한 반응을 보이다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_30_take_the_law_into_one_s_own_hands",
+      "word": "take the law into one's own hands",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "법에 의하지 않고 개인적으로 처벌하다",
+        "법에 의하지 않고 개인적으로 처벌"
+      ],
+      "source_page": 13,
+      "raw_gloss": "법에 의하지 않고 개인적으로 처벌하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_31_throw_up_one_s_hands",
+      "word": "throw up one's hands",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "절망에 빠져 두 손 들다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "절망에 빠져 두 손 들다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_32_hand_down",
+      "word": "hand down",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "판결을 내리다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "판결을 내리다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_33_as_it_happens",
+      "word": "as it happens",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "공교롭게도"
+      ],
+      "source_page": 13,
+      "raw_gloss": "공교롭게도"
+    },
+    {
+      "id": "v501_0718_zz_note_13_34_play_hardball",
+      "word": "play hardball",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "엄격한 조치를 취하다",
+        "엄격한 조치를 취"
+      ],
+      "source_page": 13,
+      "raw_gloss": "엄격한 조치를 취하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_35_put_in_harm_s_way",
+      "word": "put - in harm's way",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "-를 위험에 빠뜨리다",
+        "위험에 빠뜨리다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "-를 위험에 빠뜨리다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_36_be_out_of_harm_s_way",
+      "word": "be out of harm's way",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "안전한 곳에 있다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "안전한 곳에 있다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_37_hash_out",
+      "word": "hash out",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "대화로 해결하다",
+        "대화로 해결"
+      ],
+      "source_page": 13,
+      "raw_gloss": "대화로 해결하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_38_bury_the_hatchet",
+      "word": "bury the hatchet",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "화해하다",
+        "화해"
+      ],
+      "source_page": 13,
+      "raw_gloss": "화해하다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_39_play_havoc_with",
+      "word": "play havoc with",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "때려 부수다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "때려 부수다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_40_wreak_havoc_on",
+      "word": "wreak havoc on",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "때려 부수다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "때려 부수다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_41_break_into_the_headlines",
+      "word": "break into the headlines",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "신문에 대서특필 되다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "신문에 대서특필 되다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_42_hit_the_headlines",
+      "word": "hit the headlines",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "신문에 대서특필 되다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "신문에 대서특필 되다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_43_make_the_headlines",
+      "word": "make the headlines",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "신문에 대서특필 되다"
+      ],
+      "source_page": 13,
+      "raw_gloss": "신문에 대서특필 되다"
+    },
+    {
+      "id": "v501_0718_zz_note_13_44_at_the_helm",
+      "word": "at the helm",
+      "book": "V501",
+      "chapter": 13,
+      "type": "flat",
+      "accepted_answers": [
+        "실권을 쥔"
+      ],
+      "source_page": 13,
+      "raw_gloss": "실권을 쥔"
     },
     {
       "id": "v501_0719_grace_period",
@@ -340600,6 +343700,268 @@
       ],
       "source_page": 14,
       "raw_gloss": "골라잡을 수 없는 선택"
+    },
+    {
+      "id": "v501_0794_zz_note_14_01_on_a_hit_and_miss_basis",
+      "word": "on a hit-and-miss basis",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "마구잡이식"
+      ],
+      "source_page": 14,
+      "raw_gloss": "마구잡이식"
+    },
+    {
+      "id": "v501_0794_zz_note_14_02_on_a_hit_or_miss_basis",
+      "word": "on a hit-or-miss basis",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "마구잡이식"
+      ],
+      "source_page": 14,
+      "raw_gloss": "마구잡이식"
+    },
+    {
+      "id": "v501_0794_zz_note_14_03_without_a_hitch",
+      "word": "without a hitch",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "거침없이, 술술",
+        "거침없이",
+        "술술"
+      ],
+      "source_page": 14,
+      "raw_gloss": "거침없이, 술술"
+    },
+    {
+      "id": "v501_0794_zz_note_14_04_hold_back",
+      "word": "hold back",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "억제하다",
+        "억제"
+      ],
+      "source_page": 14,
+      "raw_gloss": "억제하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_05_hold_on_to",
+      "word": "hold on to",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "지속하다",
+        "지속"
+      ],
+      "source_page": 14,
+      "raw_gloss": "지속하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_06_hold_the_line",
+      "word": "hold the line",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "현상을 유지하다",
+        "현상을 유지"
+      ],
+      "source_page": 14,
+      "raw_gloss": "현상을 유지하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_07_hold_up",
+      "word": "hold up",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "방해하다; (은행 등을) 강탈하다",
+        "방해하다; 강탈하다",
+        "방해하다; 강탈",
+        "방해하다",
+        "방해",
+        "(은행 등을) 강탈하다",
+        "강탈하다",
+        "강탈"
+      ],
+      "source_page": 14,
+      "raw_gloss": "방해하다; (은행 등을) 강탈하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_08_be_home_to",
+      "word": "be home to",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "-가 위치해 있다",
+        "가 위치해 있다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "-가 위치해 있다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_09_go_through_the_hoops",
+      "word": "go through the hoops",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "시련을 겪다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "시련을 겪다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_10_lock_horns",
+      "word": "lock horns",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "다투다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "다투다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_11_stir_up_a_hornet_s_nest",
+      "word": "stir up a hornet's nest",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "논란을 일으키다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "논란을 일으키다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_12_beat_a_dead_horse",
+      "word": "beat a dead horse",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "끝난 일을 다시 문제 삼다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "끝난 일을 다시 문제 삼다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_13_put_the_cart_before_the_horse",
+      "word": "put the cart before the horse",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "본말전도(本末顚倒); 일을 거꾸로 하다",
+        "본말전도; 일을 거꾸로 하다",
+        "본말전도; 일을 거꾸로 ",
+        "본말전도(本末顚倒)",
+        "본말전도",
+        "일을 거꾸로 하다",
+        "일을 거꾸로 "
+      ],
+      "source_page": 14,
+      "raw_gloss": "본말전도(本末顚倒); 일을 거꾸로 하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_14_put_one_s_house_in_order",
+      "word": "put one's house in order",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "재정상태를 개선하다",
+        "재정상태를 개선"
+      ],
+      "source_page": 14,
+      "raw_gloss": "재정상태를 개선하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_15_set_one_s_house_in_order",
+      "word": "set one's house in order",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "재정상태를 개선하다",
+        "재정상태를 개선"
+      ],
+      "source_page": 14,
+      "raw_gloss": "재정상태를 개선하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_16_put_under_house_arrest",
+      "word": "put - under house arrest",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "가택연금 시키다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "가택연금 시키다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_17_place_under_house_arrest",
+      "word": "place - under house arrest",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "가택연금 시키다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "가택연금 시키다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_18_hold_under_house_arrest",
+      "word": "hold - under house arrest",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "가택연금 시키다"
+      ],
+      "source_page": 14,
+      "raw_gloss": "가택연금 시키다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_19_release_from_house_arrest",
+      "word": "release - from house arrest",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "가택연금에서 해제하다",
+        "가택연금에서 해제"
+      ],
+      "source_page": 14,
+      "raw_gloss": "가택연금에서 해제하다"
+    },
+    {
+      "id": "v501_0794_zz_note_14_20_according_to_hoyle",
+      "word": "according to Hoyle",
+      "book": "V501",
+      "chapter": 14,
+      "type": "flat",
+      "accepted_answers": [
+        "규정대로"
+      ],
+      "source_page": 14,
+      "raw_gloss": "규정대로"
     },
     {
       "id": "v501_0795_hedge",
@@ -341890,6 +345252,57 @@
       "raw_gloss": "불굴의"
     },
     {
+      "id": "v501_0895_zz_note_15_01_with_impunity",
+      "word": "with impunity",
+      "book": "V501",
+      "chapter": 15,
+      "type": "flat",
+      "accepted_answers": [
+        "벌을 받지 않고, 무사히",
+        "벌을 받지 않고",
+        "무사히"
+      ],
+      "source_page": 15,
+      "raw_gloss": "벌을 받지 않고, 무사히"
+    },
+    {
+      "id": "v501_0895_zz_note_15_02_not_give_an_inch",
+      "word": "not give an inch",
+      "book": "V501",
+      "chapter": 15,
+      "type": "flat",
+      "accepted_answers": [
+        "한 치도 양보 않다"
+      ],
+      "source_page": 15,
+      "raw_gloss": "한 치도 양보 않다"
+    },
+    {
+      "id": "v501_0895_zz_note_15_03_not_budge_an_inch",
+      "word": "not budge an inch",
+      "book": "V501",
+      "chapter": 15,
+      "type": "flat",
+      "accepted_answers": [
+        "한 치도 양보 않다"
+      ],
+      "source_page": 15,
+      "raw_gloss": "한 치도 양보 않다"
+    },
+    {
+      "id": "v501_0895_zz_note_15_04_iron_out",
+      "word": "iron out",
+      "book": "V501",
+      "chapter": 15,
+      "type": "flat",
+      "accepted_answers": [
+        "견해차를 조정하다",
+        "견해차를 조정"
+      ],
+      "source_page": 15,
+      "raw_gloss": "견해차를 조정하다"
+    },
+    {
       "id": "v501_0896_independent_counsel",
       "word": "independent counsel",
       "book": "V501",
@@ -342488,10 +345901,10 @@
       "chapter": 16,
       "type": "flat",
       "accepted_answers": [
-        "두 사건의 중간에 생긴 일 ※"
+        "두 사건의 중간에 생긴 일"
       ],
       "source_page": 16,
-      "raw_gloss": "두 사건의 중간에 생긴 일 ※"
+      "raw_gloss": "두 사건의 중간에 생긴 일"
     },
     {
       "id": "v501_0943_intermediary",
@@ -342787,6 +346200,130 @@
       "raw_gloss": "중대한 시점"
     },
     {
+      "id": "v501_0965_zz_note_16_01_respond_in_kind",
+      "word": "respond in kind",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "동일한 방법으로 대응하다",
+        "동일한 방법으로 대응"
+      ],
+      "source_page": 16,
+      "raw_gloss": "동일한 방법으로 대응하다"
+    },
+    {
+      "id": "v501_0965_zz_note_16_02_level_off",
+      "word": "level off",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "증가세가 둔화되다"
+      ],
+      "source_page": 16,
+      "raw_gloss": "증가세가 둔화되다"
+    },
+    {
+      "id": "v501_0965_zz_note_16_03_level_out",
+      "word": "level out",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "증가세가 둔화되다"
+      ],
+      "source_page": 16,
+      "raw_gloss": "증가세가 둔화되다"
+    },
+    {
+      "id": "v501_0965_zz_note_16_04_put_on_the_line",
+      "word": "put - on the line",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "(명성, 직업 등을) 위험에 빠뜨리다",
+        "위험에 빠뜨리다"
+      ],
+      "source_page": 16,
+      "raw_gloss": "(명성, 직업 등을) 위험에 빠뜨리다"
+    },
+    {
+      "id": "v501_0965_zz_note_16_05_literacy_rate",
+      "word": "literacy rate",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "식자율"
+      ],
+      "source_page": 16,
+      "raw_gloss": "식자율"
+    },
+    {
+      "id": "v501_0965_zz_note_16_06_illiteracy_rate",
+      "word": "illiteracy rate",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "문맹률"
+      ],
+      "source_page": 16,
+      "raw_gloss": "문맹률"
+    },
+    {
+      "id": "v501_0965_zz_note_16_07_lodge_a_complaint_against",
+      "word": "lodge a complaint against",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "소송을 제기하다",
+        "소송을 제기"
+      ],
+      "source_page": 16,
+      "raw_gloss": "소송을 제기하다"
+    },
+    {
+      "id": "v501_0965_zz_note_16_08_not_by_a_long_shot",
+      "word": "not by a long shot",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "어림없는"
+      ],
+      "source_page": 16,
+      "raw_gloss": "어림없는"
+    },
+    {
+      "id": "v501_0965_zz_note_16_09_look_the_other_way",
+      "word": "look the other way",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "못 본 척 눈감아 주다"
+      ],
+      "source_page": 16,
+      "raw_gloss": "못 본 척 눈감아 주다"
+    },
+    {
+      "id": "v501_0965_zz_note_16_10_make_for",
+      "word": "make for",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "야기하다",
+        "야기"
+      ],
+      "source_page": 16,
+      "raw_gloss": "야기하다"
+    },
+    {
       "id": "v501_0966_make_good_on",
       "word": "make good on",
       "book": "V501",
@@ -342796,10 +346333,62 @@
         "완수하다",
         "완수",
         "실행하다",
-        "실행"
+        "실행",
+        "완수하다, 실행하다"
       ],
       "source_page": 16,
       "raw_gloss": "완수하다, 실행하다"
+    },
+    {
+      "id": "v501_0966_zz_note_16_12_in_the_making",
+      "word": "in the making",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "형성 중인"
+      ],
+      "source_page": 16,
+      "raw_gloss": "형성 중인"
+    },
+    {
+      "id": "v501_0966_zz_note_16_13_a_measure_of",
+      "word": "a measure of",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "상당한 양의"
+      ],
+      "source_page": 16,
+      "raw_gloss": "상당한 양의"
+    },
+    {
+      "id": "v501_0966_zz_note_16_14_for_good_measure",
+      "word": "for good measure",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "분량을 넉넉히 재어; 덤으로",
+        "분량을 넉넉히 재어",
+        "덤으로"
+      ],
+      "source_page": 16,
+      "raw_gloss": "분량을 넉넉히 재어; 덤으로"
+    },
+    {
+      "id": "v501_0966_zz_note_16_15_measure_up",
+      "word": "measure up",
+      "book": "V501",
+      "chapter": 16,
+      "type": "flat",
+      "accepted_answers": [
+        "부응하다",
+        "부응"
+      ],
+      "source_page": 16,
+      "raw_gloss": "부응하다"
     },
     {
       "id": "v501_0967_intifada",
@@ -343884,6 +347473,181 @@
       ],
       "source_page": 17,
       "raw_gloss": "중도파의"
+    },
+    {
+      "id": "v501_1052_zz_note_17_01_make_a_mockery_of",
+      "word": "make a mockery of",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "조롱하다",
+        "조롱"
+      ],
+      "source_page": 17,
+      "raw_gloss": "조롱하다"
+    },
+    {
+      "id": "v501_1052_zz_note_17_02_meet_halfway",
+      "word": "meet - halfway",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "-와 타협하다",
+        "와 타협하다",
+        "와 타협"
+      ],
+      "source_page": 17,
+      "raw_gloss": "-와 타협하다"
+    },
+    {
+      "id": "v501_1052_zz_note_17_03_flex_one_s_muscles",
+      "word": "flex one's muscles",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "힘을 과시하다",
+        "힘을 과시"
+      ],
+      "source_page": 17,
+      "raw_gloss": "힘을 과시하다"
+    },
+    {
+      "id": "v501_1052_zz_note_17_04_the_name_of_the_game",
+      "word": "the name of the game",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "가장 중요한 점"
+      ],
+      "source_page": 17,
+      "raw_gloss": "가장 중요한 점"
+    },
+    {
+      "id": "v501_1052_zz_note_17_05_call_someone_bad_names",
+      "word": "call someone (bad) names",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "욕하다, 비방하다",
+        "욕하다, 비방",
+        "욕하다",
+        "욕",
+        "비방하다",
+        "비방"
+      ],
+      "source_page": 17,
+      "raw_gloss": "욕하다, 비방하다"
+    },
+    {
+      "id": "v501_1052_zz_note_17_06_in_the_name_of",
+      "word": "in the name of",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "-라는 미명하에",
+        "라는 미명하에"
+      ],
+      "source_page": 17,
+      "raw_gloss": "-라는 미명하에"
+    },
+    {
+      "id": "v501_1052_zz_note_17_07_in_one_s_name",
+      "word": "in one's name",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "자기 소유로"
+      ],
+      "source_page": 17,
+      "raw_gloss": "자기 소유로"
+    },
+    {
+      "id": "v501_1052_zz_note_17_08_throw_good_money_after_bad",
+      "word": "throw good money after bad",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "만회하려다 더 손해보다"
+      ],
+      "source_page": 17,
+      "raw_gloss": "만회하려다 더 손해보다"
+    },
+    {
+      "id": "v501_1052_zz_note_17_09_in_the_very_nick_of_time",
+      "word": "in the (very) nick of time",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "아슬아슬하게, 딱 좋은 때에",
+        "아슬아슬하게",
+        "딱 좋은 때에"
+      ],
+      "source_page": 17,
+      "raw_gloss": "아슬아슬하게, 딱 좋은 때에"
+    },
+    {
+      "id": "v501_1052_zz_note_17_10_nip_in_the_bud",
+      "word": "nip - in the bud",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "미연에 방지하다(없애다)",
+        "미연에 방지하다",
+        "미연에 방지"
+      ],
+      "source_page": 17,
+      "raw_gloss": "미연에 방지하다(없애다)"
+    },
+    {
+      "id": "v501_1052_zz_note_17_11_keep_one_s_nose_clean",
+      "word": "keep one's nose clean",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "얌전히 있다"
+      ],
+      "source_page": 17,
+      "raw_gloss": "얌전히 있다"
+    },
+    {
+      "id": "v501_1052_zz_note_17_12_nothing_if_not",
+      "word": "nothing if not -",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "-빼면 시체인, 매우 -한",
+        "빼면 시체인, 매우 -한",
+        "-빼면 시체인",
+        "빼면 시체인",
+        "매우 -한"
+      ],
+      "source_page": 17,
+      "raw_gloss": "-빼면 시체인, 매우 -한"
+    },
+    {
+      "id": "v501_1052_zz_note_17_13_be_numbered",
+      "word": "be numbered",
+      "book": "V501",
+      "chapter": 17,
+      "type": "flat",
+      "accepted_answers": [
+        "(숫자, 기한이) 얼마 남지 않다",
+        "얼마 남지 않다"
+      ],
+      "source_page": 17,
+      "raw_gloss": "(숫자, 기한이) 얼마 남지 않다"
     },
     {
       "id": "v501_1053_market_share",
@@ -345112,6 +348876,229 @@
       "raw_gloss": "조종하여 성취하다; 결집하다"
     },
     {
+      "id": "v501_1149_zz_note_18_01_leave_office",
+      "word": "leave office",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "퇴임하다",
+        "퇴임"
+      ],
+      "source_page": 18,
+      "raw_gloss": "퇴임하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_02_remove_from_office",
+      "word": "remove - from office",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "관직에서 축출하다",
+        "관직에서 축출"
+      ],
+      "source_page": 18,
+      "raw_gloss": "관직에서 축출하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_03_take_office",
+      "word": "take office",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "취임하다",
+        "취임"
+      ],
+      "source_page": 18,
+      "raw_gloss": "취임하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_04_vote_into_office",
+      "word": "vote - into office",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "선출하다",
+        "선출"
+      ],
+      "source_page": 18,
+      "raw_gloss": "선출하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_05_vote_out_of_office",
+      "word": "vote - out of office",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "재선시키지 않고 물러나게 하다",
+        "재선시키지 않고 물러나게 "
+      ],
+      "source_page": 18,
+      "raw_gloss": "재선시키지 않고 물러나게 하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_06_hold_out_an_olive_branch_to",
+      "word": "hold out an olive branch to",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "화해를 제의하다",
+        "화해를 제의"
+      ],
+      "source_page": 18,
+      "raw_gloss": "화해를 제의하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_07_once_and_for_all",
+      "word": "once and for all",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "단 한번으로 확실히"
+      ],
+      "source_page": 18,
+      "raw_gloss": "단 한번으로 확실히"
+    },
+    {
+      "id": "v501_1149_zz_note_18_08_the_order_of_the_day",
+      "word": "the order of the day",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "집회 일정; 시대의 풍조",
+        "집회 일정",
+        "시대의 풍조"
+      ],
+      "source_page": 18,
+      "raw_gloss": "집회 일정; 시대의 풍조"
+    },
+    {
+      "id": "v501_1149_zz_note_18_09_parcel_out",
+      "word": "parcel out",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "구분, 배분하다",
+        "구분, 배분",
+        "구분",
+        "배분하다",
+        "배분"
+      ],
+      "source_page": 18,
+      "raw_gloss": "구분, 배분하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_10_pare_down",
+      "word": "pare down",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "조금씩 삭감하다",
+        "조금씩 삭감"
+      ],
+      "source_page": 18,
+      "raw_gloss": "조금씩 삭감하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_11_partake_in",
+      "word": "partake in",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "참여하다",
+        "참여"
+      ],
+      "source_page": 18,
+      "raw_gloss": "참여하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_12_partake_of",
+      "word": "partake of",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 기미가 있다",
+        "기미가 있다"
+      ],
+      "source_page": 18,
+      "raw_gloss": "-의 기미가 있다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_13_pat_on_the_back",
+      "word": "pat - on the back",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "칭찬하다",
+        "칭찬"
+      ],
+      "source_page": 18,
+      "raw_gloss": "칭찬하다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_14_a_pat_on_the_back",
+      "word": "a pat on the back",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "칭찬"
+      ],
+      "source_page": 18,
+      "raw_gloss": "칭찬"
+    },
+    {
+      "id": "v501_1149_zz_note_18_15_patch_up",
+      "word": "patch up",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "이어 맞추다, 고치다",
+        "이어 맞추다",
+        "고치다"
+      ],
+      "source_page": 18,
+      "raw_gloss": "이어 맞추다, 고치다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_16_pave_the_way_for",
+      "word": "pave the way for",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "-로 향한 길을 내다",
+        "로 향한 길을 내다"
+      ],
+      "source_page": 18,
+      "raw_gloss": "-로 향한 길을 내다"
+    },
+    {
+      "id": "v501_1149_zz_note_18_17_pay_off",
+      "word": "pay off",
+      "book": "V501",
+      "chapter": 18,
+      "type": "flat",
+      "accepted_answers": [
+        "효과가 있다"
+      ],
+      "source_page": 18,
+      "raw_gloss": "효과가 있다"
+    },
+    {
       "id": "v501_1150_off_shore_center",
       "word": "off-shore center",
       "book": "V501",
@@ -346174,6 +350161,205 @@
       ],
       "source_page": 19,
       "raw_gloss": "성가신"
+    },
+    {
+      "id": "v501_1231_zz_note_19_01_phase_out",
+      "word": "phase out",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "단계적으로 배제하다, 철거하다",
+        "단계적으로 배제하다, 철거",
+        "단계적으로 배제하다",
+        "단계적으로 배제",
+        "철거하다",
+        "철거"
+      ],
+      "source_page": 19,
+      "raw_gloss": "단계적으로 배제하다, 철거하다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_02_perk_up",
+      "word": "perk up",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "활기 있게 하다",
+        "활기 있게 "
+      ],
+      "source_page": 19,
+      "raw_gloss": "활기 있게 하다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_03_pep_rally",
+      "word": "pep rally",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "궐기 대회"
+      ],
+      "source_page": 19,
+      "raw_gloss": "궐기 대회"
+    },
+    {
+      "id": "v501_1231_zz_note_19_04_in_perspective",
+      "word": "in perspective",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "전체적 시야로"
+      ],
+      "source_page": 19,
+      "raw_gloss": "전체적 시야로"
+    },
+    {
+      "id": "v501_1231_zz_note_19_05_buy_a_pig_in_a_poke",
+      "word": "buy a pig in a poke",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "충동구매하다",
+        "충동구매"
+      ],
+      "source_page": 19,
+      "raw_gloss": "충동구매하다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_06_feel_the_pinch",
+      "word": "feel the pinch",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "경제적 곤란을 겪다"
+      ],
+      "source_page": 19,
+      "raw_gloss": "경제적 곤란을 겪다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_07_pitch_in",
+      "word": "pitch in",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "협력하다, 일에 달라붙다",
+        "협력하다",
+        "협력",
+        "일에 달라붙다"
+      ],
+      "source_page": 19,
+      "raw_gloss": "협력하다, 일에 달라붙다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_08_in_place",
+      "word": "in place",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "(체제가) 자리를 잡은, 확립된",
+        "자리를 잡은, 확립된",
+        "(체제가) 자리를 잡은",
+        "자리를 잡은",
+        "확립된"
+      ],
+      "source_page": 19,
+      "raw_gloss": "(체제가) 자리를 잡은, 확립된"
+    },
+    {
+      "id": "v501_1231_zz_note_19_09_put_in_place",
+      "word": "put - in place",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "확립하다",
+        "확립"
+      ],
+      "source_page": 19,
+      "raw_gloss": "확립하다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_10_play_down",
+      "word": "play down",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "경시하다",
+        "경시"
+      ],
+      "source_page": 19,
+      "raw_gloss": "경시하다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_11_plead_guilty_to",
+      "word": "plead guilty to",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "유죄를 인정하다",
+        "유죄를 인정"
+      ],
+      "source_page": 19,
+      "raw_gloss": "유죄를 인정하다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_12_plead_not_guilty_to",
+      "word": "plead not guilty to",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "유죄를 인정하지 않다"
+      ],
+      "source_page": 19,
+      "raw_gloss": "유죄를 인정하지 않다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_13_shoot_at_point_blank_range",
+      "word": "shoot - at point-blank range",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "직격탄을 쏘다"
+      ],
+      "source_page": 19,
+      "raw_gloss": "직격탄을 쏘다"
+    },
+    {
+      "id": "v501_1231_zz_note_19_14_pomp_and_circumstance",
+      "word": "pomp and circumstance",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "(화려한) 공식행사",
+        "공식행사"
+      ],
+      "source_page": 19,
+      "raw_gloss": "(화려한) 공식행사"
+    },
+    {
+      "id": "v501_1231_zz_note_19_15_pony_up",
+      "word": "pony up",
+      "book": "V501",
+      "chapter": 19,
+      "type": "flat",
+      "accepted_answers": [
+        "마지못해 지불하다",
+        "마지못해 지불"
+      ],
+      "source_page": 19,
+      "raw_gloss": "마지못해 지불하다"
     },
     {
       "id": "v501_1232_payload",
@@ -347403,6 +351589,126 @@
       "raw_gloss": "우세한, 압도적인"
     },
     {
+      "id": "v501_1327_zz_note_20_01_keep_a_low_profile",
+      "word": "keep a low profile",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "눈에 띄지 않게 행동하다",
+        "눈에 띄지 않게 행동"
+      ],
+      "source_page": 20,
+      "raw_gloss": "눈에 띄지 않게 행동하다"
+    },
+    {
+      "id": "v501_1327_zz_note_20_02_of_proportions",
+      "word": "of - proportions",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "- 정도의, 수준의",
+        "정도의, 수준의",
+        "- 정도의",
+        "정도의",
+        "수준의"
+      ],
+      "source_page": 20,
+      "raw_gloss": "- 정도의, 수준의"
+    },
+    {
+      "id": "v501_1327_zz_note_20_03_prostate_cancer",
+      "word": "prostate cancer",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "전립선 암"
+      ],
+      "source_page": 20,
+      "raw_gloss": "전립선 암"
+    },
+    {
+      "id": "v501_1327_zz_note_20_04_prostatectomy",
+      "word": "prostatectomy",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "전립선 절제술"
+      ],
+      "source_page": 20,
+      "raw_gloss": "전립선 절제술"
+    },
+    {
+      "id": "v501_1327_zz_note_20_05_pull_off",
+      "word": "pull off",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "(특히 어려운 일을) 잘 해내다",
+        "잘 해내다"
+      ],
+      "source_page": 20,
+      "raw_gloss": "(특히 어려운 일을) 잘 해내다"
+    },
+    {
+      "id": "v501_1327_zz_note_20_06_pull_oneself_together",
+      "word": "pull oneself together",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "기운을 다시 차리다"
+      ],
+      "source_page": 20,
+      "raw_gloss": "기운을 다시 차리다"
+    },
+    {
+      "id": "v501_1327_zz_note_20_07_put_a_before_b",
+      "word": "put A before B",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "A를 B보다 우선시하다",
+        "A를 B보다 우선시"
+      ],
+      "source_page": 20,
+      "raw_gloss": "A를 B보다 우선시하다"
+    },
+    {
+      "id": "v501_1327_zz_note_20_08_put_a_ahead_of_b",
+      "word": "put A ahead of B",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "A를 B보다 우선시하다",
+        "A를 B보다 우선시"
+      ],
+      "source_page": 20,
+      "raw_gloss": "A를 B보다 우선시하다"
+    },
+    {
+      "id": "v501_1327_zz_note_20_09_put_down",
+      "word": "put down",
+      "book": "V501",
+      "chapter": 20,
+      "type": "flat",
+      "accepted_answers": [
+        "적어놓다; 진압하다",
+        "적어놓다; 진압",
+        "적어놓다",
+        "진압하다",
+        "진압"
+      ],
+      "source_page": 20,
+      "raw_gloss": "적어놓다; 진압하다"
+    },
+    {
       "id": "v501_1328_pork_barrel",
       "word": "pork (barrel)",
       "book": "V501",
@@ -348429,6 +352735,157 @@
       ],
       "source_page": 21,
       "raw_gloss": "정수(精髓)의; 전형적인"
+    },
+    {
+      "id": "v501_1407_zz_note_21_01_keep_at_arm_s_length",
+      "word": "keep - at arm's length",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "-를 멀리하다",
+        "멀리하다",
+        "멀리"
+      ],
+      "source_page": 21,
+      "raw_gloss": "-를 멀리하다"
+    },
+    {
+      "id": "v501_1407_zz_note_21_02_ratchet_up",
+      "word": "ratchet up",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "단계적으로 증가시키다[하다]",
+        "단계적으로 증가시키다"
+      ],
+      "source_page": 21,
+      "raw_gloss": "단계적으로 증가시키다[하다]"
+    },
+    {
+      "id": "v501_1407_zz_note_21_03_roll_out_the_red_carpet_for",
+      "word": "roll out the red carpet for",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "정중하게 맞이하다",
+        "정중하게 맞이"
+      ],
+      "source_page": 21,
+      "raw_gloss": "정중하게 맞이하다"
+    },
+    {
+      "id": "v501_1407_zz_note_21_04_to_the_quick",
+      "word": "to the quick",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "속살까지; 철두철미한",
+        "속살까지",
+        "철두철미한"
+      ],
+      "source_page": 21,
+      "raw_gloss": "속살까지; 철두철미한"
+    },
+    {
+      "id": "v501_1407_zz_note_21_05_to_the_core",
+      "word": "to the core",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "속살까지; 철두철미한",
+        "속살까지",
+        "철두철미한"
+      ],
+      "source_page": 21,
+      "raw_gloss": "속살까지; 철두철미한"
+    },
+    {
+      "id": "v501_1407_zz_note_21_06_call_it_quits",
+      "word": "call it quits",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "피장파장임을 인정하다",
+        "피장파장임을 인정"
+      ],
+      "source_page": 21,
+      "raw_gloss": "피장파장임을 인정하다"
+    },
+    {
+      "id": "v501_1407_zz_note_21_07_rack_up",
+      "word": "rack up",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "달성하다, 획득하다",
+        "달성하다, 획득",
+        "달성하다",
+        "달성",
+        "획득하다",
+        "획득"
+      ],
+      "source_page": 21,
+      "raw_gloss": "달성하다, 획득하다"
+    },
+    {
+      "id": "v501_1407_zz_note_21_08_rail_against",
+      "word": "rail against",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "비난하다",
+        "비난"
+      ],
+      "source_page": 21,
+      "raw_gloss": "비난하다"
+    },
+    {
+      "id": "v501_1407_zz_note_21_09_rail_at",
+      "word": "rail at",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "비난하다",
+        "비난"
+      ],
+      "source_page": 21,
+      "raw_gloss": "비난하다"
+    },
+    {
+      "id": "v501_1407_zz_note_21_10_the_rank_and_file",
+      "word": "the rank and file",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "일반인; 일반 사병",
+        "일반인",
+        "일반 사병"
+      ],
+      "source_page": 21,
+      "raw_gloss": "일반인; 일반 사병"
+    },
+    {
+      "id": "v501_1407_zz_note_21_11_reckon_with",
+      "word": "reckon with",
+      "book": "V501",
+      "chapter": 21,
+      "type": "flat",
+      "accepted_answers": [
+        "직면하다",
+        "직면"
+      ],
+      "source_page": 21,
+      "raw_gloss": "직면하다"
     },
     {
       "id": "v501_1408_prisoner_of_conscience",
@@ -349594,6 +354051,237 @@
       "raw_gloss": "꾸짖다"
     },
     {
+      "id": "v501_1496_zz_note_22_01_a_reign_of_terror",
+      "word": "a reign of terror",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "공포정치"
+      ],
+      "source_page": 22,
+      "raw_gloss": "공포정치"
+    },
+    {
+      "id": "v501_1496_zz_note_22_02_renege_on",
+      "word": "renege on",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "취소하다, 어기다",
+        "취소하다",
+        "취소",
+        "어기다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "취소하다, 어기다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_03_without_reservation",
+      "word": "without reservation",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "솔직하게, 무조건적으로",
+        "솔직하게",
+        "무조건적으로"
+      ],
+      "source_page": 22,
+      "raw_gloss": "솔직하게, 무조건적으로"
+    },
+    {
+      "id": "v501_1496_zz_note_22_04_resort_to",
+      "word": "resort to",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "호소하다",
+        "호소"
+      ],
+      "source_page": 22,
+      "raw_gloss": "호소하다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_05_last_resort",
+      "word": "last resort",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "최후의 보루"
+      ],
+      "source_page": 22,
+      "raw_gloss": "최후의 보루"
+    },
+    {
+      "id": "v501_1496_zz_note_22_06_rev_up",
+      "word": "rev up",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "속도를 올리다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "속도를 올리다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_07_ride_out",
+      "word": "ride out",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "이겨내다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "이겨내다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_08_bid_rigging",
+      "word": "bid rigging",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "입찰 조작"
+      ],
+      "source_page": 22,
+      "raw_gloss": "입찰 조작"
+    },
+    {
+      "id": "v501_1496_zz_note_22_09_ringleader",
+      "word": "ringleader",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "주모자, 주동자",
+        "주모자",
+        "주동자"
+      ],
+      "source_page": 22,
+      "raw_gloss": "주모자, 주동자"
+    },
+    {
+      "id": "v501_1496_zz_note_22_10_rock_the_boat",
+      "word": "rock the boat",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "다 된 밥에 재 뿌리다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "다 된 밥에 재 뿌리다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_11_roll_back",
+      "word": "roll back",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "취소하다; 줄이다",
+        "취소하다",
+        "취소",
+        "줄이다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "취소하다; 줄이다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_12_roll_over_loans",
+      "word": "roll over loans",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "부채의 만기상환을 연장해주다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "부채의 만기상환을 연장해주다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_13_be_on_a_roll",
+      "word": "be on a roll",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "성공가도를 달리는"
+      ],
+      "source_page": 22,
+      "raw_gloss": "성공가도를 달리는"
+    },
+    {
+      "id": "v501_1496_zz_note_22_14_root_out",
+      "word": "root out",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "근절하다",
+        "근절"
+      ],
+      "source_page": 22,
+      "raw_gloss": "근절하다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_15_root_up",
+      "word": "root up",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "근절하다",
+        "근절"
+      ],
+      "source_page": 22,
+      "raw_gloss": "근절하다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_16_at_the_end_of_one_s_rope",
+      "word": "at the end of one's rope",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "진퇴유곡(進退維谷)의",
+        "진퇴유곡의"
+      ],
+      "source_page": 22,
+      "raw_gloss": "진퇴유곡(進退維谷)의"
+    },
+    {
+      "id": "v501_1496_zz_note_22_17_round_off",
+      "word": "round off",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "잘 마무리 짓다"
+      ],
+      "source_page": 22,
+      "raw_gloss": "잘 마무리 짓다"
+    },
+    {
+      "id": "v501_1496_zz_note_22_18_round_up",
+      "word": "round up",
+      "book": "V501",
+      "chapter": 22,
+      "type": "flat",
+      "accepted_answers": [
+        "체포하다",
+        "체포"
+      ],
+      "source_page": 22,
+      "raw_gloss": "체포하다"
+    },
+    {
       "id": "v501_1497_the_renminbi",
       "word": "the renminbi",
       "book": "V501",
@@ -350731,6 +355419,204 @@
       "raw_gloss": "부족한"
     },
     {
+      "id": "v501_1583_zz_note_23_01_in_a_row",
+      "word": "in a row",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "연속해서"
+      ],
+      "source_page": 23,
+      "raw_gloss": "연속해서"
+    },
+    {
+      "id": "v501_1583_zz_note_23_02_cross_the_rubicon",
+      "word": "cross the Rubicon",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "루비콘 강을 건너다; 중대한 결심을 하다",
+        "루비콘 강을 건너다; 중대한 결심을 ",
+        "루비콘 강을 건너다",
+        "중대한 결심을 하다",
+        "중대한 결심을 "
+      ],
+      "source_page": 23,
+      "raw_gloss": "루비콘 강을 건너다; 중대한 결심을 하다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_03_rue_the_day_when",
+      "word": "rue the day when",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "-했던 때를 후회하다",
+        "했던 때를 후회하다",
+        "했던 때를 후회"
+      ],
+      "source_page": 23,
+      "raw_gloss": "-했던 때를 후회하다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_04_rue_the_day_that",
+      "word": "rue the day that",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "-했던 때를 후회하다",
+        "했던 때를 후회하다",
+        "했던 때를 후회"
+      ],
+      "source_page": 23,
+      "raw_gloss": "-했던 때를 후회하다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_05_ruffle_up_feathers",
+      "word": "ruffle (up) feathers",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "깃털을 세우다; 성내다",
+        "깃털을 세우다",
+        "성내다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "깃털을 세우다; 성내다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_06_pull_the_rug_from_under_a_person",
+      "word": "pull the rug from under a person",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "(예상 밖의 지지철회로) 좌절에 빠뜨리다",
+        "좌절에 빠뜨리다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "(예상 밖의 지지철회로) 좌절에 빠뜨리다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_07_pull_the_rug_from_under_a_person_s_feet",
+      "word": "pull the rug from under a person's feet",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "(예상 밖의 지지철회로) 좌절에 빠뜨리다",
+        "좌절에 빠뜨리다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "(예상 밖의 지지철회로) 좌절에 빠뜨리다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_08_sweep_under_the_rug",
+      "word": "sweep - under the rug",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "(난처한 일을) 숨기다",
+        "숨기다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "(난처한 일을) 숨기다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_09_brush_under_the_rug",
+      "word": "brush - under the rug",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "(난처한 일을) 숨기다",
+        "숨기다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "(난처한 일을) 숨기다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_10_bend_the_rules",
+      "word": "bend the rules",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "자기 이익에 맞게 규칙을 약간 수정하다",
+        "자기 이익에 맞게 규칙을 약간 수정"
+      ],
+      "source_page": 23,
+      "raw_gloss": "자기 이익에 맞게 규칙을 약간 수정하다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_11_run_up_a_deficit",
+      "word": "run up a deficit",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "빚을 늘리다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "빚을 늘리다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_12_run_up_against",
+      "word": "run up against",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "-에 부딪히다",
+        "부딪히다"
+      ],
+      "source_page": 23,
+      "raw_gloss": "-에 부딪히다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_13_start_at_the_bottom_rung",
+      "word": "start at the bottom rung",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "(인생의) 바닥에서부터 시작하다",
+        "바닥에서부터 시작하다",
+        "바닥에서부터 시작"
+      ],
+      "source_page": 23,
+      "raw_gloss": "(인생의) 바닥에서부터 시작하다"
+    },
+    {
+      "id": "v501_1583_zz_note_23_14_between_scylla_and_charybdis",
+      "word": "between Scylla and Charybdis",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "진퇴양난에 처한"
+      ],
+      "source_page": 23,
+      "raw_gloss": "진퇴양난에 처한"
+    },
+    {
+      "id": "v501_1583_zz_note_23_15_by_the_seat_of_one_s_pants",
+      "word": "by the seat of one's pants",
+      "book": "V501",
+      "chapter": 23,
+      "type": "flat",
+      "accepted_answers": [
+        "기계를 쓰지 않고 육감으로"
+      ],
+      "source_page": 23,
+      "raw_gloss": "기계를 쓰지 않고 육감으로"
+    },
+    {
       "id": "v501_1584_rollback",
       "word": "rollback",
       "book": "V501",
@@ -350918,6 +355804,30 @@
       ],
       "source_page": 24,
       "raw_gloss": "긁다; 곤경"
+    },
+    {
+      "id": "v501_1598_zz_note_24_01_from_scratch",
+      "word": "from scratch",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "처음부터"
+      ],
+      "source_page": 24,
+      "raw_gloss": "처음부터"
+    },
+    {
+      "id": "v501_1598_zz_note_24_02_up_to_scratch",
+      "word": "up to scratch",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "기준에 부합하는"
+      ],
+      "source_page": 24,
+      "raw_gloss": "기준에 부합하는"
     },
     {
       "id": "v501_1599_screen",
@@ -351539,6 +356449,325 @@
       ],
       "source_page": 24,
       "raw_gloss": "별도로 책정하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_03_set_aside",
+      "word": "set aside",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "별도로 책정하다",
+        "별도로 책정"
+      ],
+      "source_page": 24,
+      "raw_gloss": "별도로 책정하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_04_shake_down",
+      "word": "shake down",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "갈취하다",
+        "갈취"
+      ],
+      "source_page": 24,
+      "raw_gloss": "갈취하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_05_be_in_a_shambles",
+      "word": "be in a shambles",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "혼란[황폐]한 상태이다",
+        "혼란한 상태이다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "혼란[황폐]한 상태이다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_06_shore_up",
+      "word": "shore up",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "떠받치다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "떠받치다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_07_fall_short_of",
+      "word": "fall short of",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "기대에 못 미치다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "기대에 못 미치다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_08_stop_short_of",
+      "word": "stop short of",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "-에까지 이르지는 않다",
+        "에까지 이르지는 않다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "-에까지 이르지는 않다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_09_a_shot_in_the_arm",
+      "word": "a shot in the arm",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "원기를 회복시키는 자극"
+      ],
+      "source_page": 24,
+      "raw_gloss": "원기를 회복시키는 자극"
+    },
+    {
+      "id": "v501_1647_zz_note_24_10_call_the_shots",
+      "word": "call the shots",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "통제하다; 감독하다",
+        "통제하다; 감독",
+        "통제하다",
+        "통제",
+        "감독하다",
+        "감독"
+      ],
+      "source_page": 24,
+      "raw_gloss": "통제하다; 감독하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_11_have_a_shot_at",
+      "word": "have a shot at",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "시험 삼아 - 해보다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "시험 삼아 - 해보다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_12_give_the_cold_shoulder",
+      "word": "give - the cold shoulder",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "냉대하다",
+        "냉대"
+      ],
+      "source_page": 24,
+      "raw_gloss": "냉대하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_13_show_the_cold_shoulder",
+      "word": "show - the cold shoulder",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "냉대하다",
+        "냉대"
+      ],
+      "source_page": 24,
+      "raw_gloss": "냉대하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_14_turn_the_cold_shoulder",
+      "word": "turn - the cold shoulder",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "냉대하다",
+        "냉대"
+      ],
+      "source_page": 24,
+      "raw_gloss": "냉대하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_15_when_push_comes_to_shove",
+      "word": "when push comes to shove",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "아주 중요한 순간이 되면"
+      ],
+      "source_page": 24,
+      "raw_gloss": "아주 중요한 순간이 되면"
+    },
+    {
+      "id": "v501_1647_zz_note_24_16_a_shred_of",
+      "word": "a shred of",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "[주로 부정, 의문문에서] 아주 조금",
+        "아주 조금"
+      ],
+      "source_page": 24,
+      "raw_gloss": "[주로 부정, 의문문에서] 아주 조금"
+    },
+    {
+      "id": "v501_1647_zz_note_24_17_shrug_off",
+      "word": "shrug off",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "대수롭지 않게 여기다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "대수롭지 않게 여기다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_18_stand_on_the_sidelines",
+      "word": "stand on the sidelines",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "방관자적 입장을 취하다",
+        "방관자적 입장을 취"
+      ],
+      "source_page": 24,
+      "raw_gloss": "방관자적 입장을 취하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_19_stay_on_the_sidelines",
+      "word": "stay on the sidelines",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "방관자적 입장을 취하다",
+        "방관자적 입장을 취"
+      ],
+      "source_page": 24,
+      "raw_gloss": "방관자적 입장을 취하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_20_sift_through",
+      "word": "sift through",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "엄밀히 조사하다",
+        "엄밀히 조사"
+      ],
+      "source_page": 24,
+      "raw_gloss": "엄밀히 조사하다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_21_sink_in",
+      "word": "sink in",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "(사실이나 현실 등이) 이해되다",
+        "이해되다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "(사실이나 현실 등이) 이해되다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_22_siphon_off",
+      "word": "siphon off",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "(자금, 이익 등을) 짜내다",
+        "짜내다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "(자금, 이익 등을) 짜내다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_23_on_the_skids",
+      "word": "on the skids",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "파멸로 치닫고 있는"
+      ],
+      "source_page": 24,
+      "raw_gloss": "파멸로 치닫고 있는"
+    },
+    {
+      "id": "v501_1647_zz_note_24_24_a_slap_in_the_face",
+      "word": "a slap in the face",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "강력한 처벌이나 모욕"
+      ],
+      "source_page": 24,
+      "raw_gloss": "강력한 처벌이나 모욕"
+    },
+    {
+      "id": "v501_1647_zz_note_24_25_a_slap_on_the_wrist",
+      "word": "a slap on the wrist",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "가벼운 경고나 처벌"
+      ],
+      "source_page": 24,
+      "raw_gloss": "가벼운 경고나 처벌"
+    },
+    {
+      "id": "v501_1647_zz_note_24_26_be_slated_for",
+      "word": "be slated for",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "-할 계획[예정]이다",
+        "할 계획이다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "-할 계획[예정]이다"
+    },
+    {
+      "id": "v501_1647_zz_note_24_27_get_short_shrift",
+      "word": "get short shrift",
+      "book": "V501",
+      "chapter": 24,
+      "type": "flat",
+      "accepted_answers": [
+        "관심을 못 받다"
+      ],
+      "source_page": 24,
+      "raw_gloss": "관심을 못 받다"
     },
     {
       "id": "v501_1648_sergeant_major",
@@ -352523,6 +357752,350 @@
       ],
       "source_page": 25,
       "raw_gloss": "어조를 누그러뜨리다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_01_hit_a_snag",
+      "word": "hit a snag",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "난관에 봉착하다",
+        "난관에 봉착"
+      ],
+      "source_page": 25,
+      "raw_gloss": "난관에 봉착하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_02_snuff_out",
+      "word": "snuff out",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "(양초의) 심지를 자르다; 소멸시키다",
+        "심지를 자르다; 소멸시키다",
+        "(양초의) 심지를 자르다",
+        "심지를 자르다",
+        "소멸시키다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "(양초의) 심지를 자르다; 소멸시키다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_03_up_to_snuff",
+      "word": "up to snuff",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "일정기준에 부합한"
+      ],
+      "source_page": 25,
+      "raw_gloss": "일정기준에 부합한"
+    },
+    {
+      "id": "v501_1724_zz_note_25_04_get_on_one_s_soapbox",
+      "word": "get on one's soapbox",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "자기주장을 펴다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "자기주장을 펴다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_05_sobriety_test",
+      "word": "sobriety test",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "음주 테스트"
+      ],
+      "source_page": 25,
+      "raw_gloss": "음주 테스트"
+    },
+    {
+      "id": "v501_1724_zz_note_25_06_of_sorts",
+      "word": "of sorts",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "시시한, 그저 그런",
+        "시시한",
+        "그저 그런"
+      ],
+      "source_page": 25,
+      "raw_gloss": "시시한, 그저 그런"
+    },
+    {
+      "id": "v501_1724_zz_note_25_07_of_a_sort",
+      "word": "of a sort",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "시시한, 그저 그런",
+        "시시한",
+        "그저 그런"
+      ],
+      "source_page": 25,
+      "raw_gloss": "시시한, 그저 그런"
+    },
+    {
+      "id": "v501_1724_zz_note_25_08_sort_out",
+      "word": "sort out",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "가려내다; (문제를) 해결하다",
+        "가려내다; 해결하다",
+        "가려내다; 해결",
+        "가려내다",
+        "(문제를) 해결하다",
+        "해결하다",
+        "해결"
+      ],
+      "source_page": 25,
+      "raw_gloss": "가려내다; (문제를) 해결하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_09_sound_out",
+      "word": "sound out",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "(의사, 견해)를 타진하다",
+        "타진하다",
+        "타진"
+      ],
+      "source_page": 25,
+      "raw_gloss": "(의사, 견해)를 타진하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_10_a_spate_of",
+      "word": "a spate of",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "다수의; 대량의",
+        "다수의",
+        "대량의"
+      ],
+      "source_page": 25,
+      "raw_gloss": "다수의; 대량의"
+    },
+    {
+      "id": "v501_1724_zz_note_25_11_spell_out",
+      "word": "spell out",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "똑똑히 말하다",
+        "똑똑히 말"
+      ],
+      "source_page": 25,
+      "raw_gloss": "똑똑히 말하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_12_put_a_spin_on",
+      "word": "put a spin on",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "-에 대해 평가를 내리다",
+        "대해 평가를 내리다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "-에 대해 평가를 내리다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_13_spirit_away",
+      "word": "spirit away",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "낚아채가다; 유괴하다",
+        "낚아채가다; 유괴",
+        "낚아채가다",
+        "유괴하다",
+        "유괴"
+      ],
+      "source_page": 25,
+      "raw_gloss": "낚아채가다; 유괴하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_14_square_off",
+      "word": "square off",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "싸울 자세를 취하다",
+        "싸울 자세를 취"
+      ],
+      "source_page": 25,
+      "raw_gloss": "싸울 자세를 취하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_15_have_a_stab_at",
+      "word": "have a stab at",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "시도하다",
+        "시도"
+      ],
+      "source_page": 25,
+      "raw_gloss": "시도하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_16_be_at_stake",
+      "word": "be at stake",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "위기에 처한"
+      ],
+      "source_page": 25,
+      "raw_gloss": "위기에 처한"
+    },
+    {
+      "id": "v501_1724_zz_note_25_17_be_at_risk",
+      "word": "be at risk",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "위기에 처한"
+      ],
+      "source_page": 25,
+      "raw_gloss": "위기에 처한"
+    },
+    {
+      "id": "v501_1724_zz_note_25_18_be_in_danger",
+      "word": "be in danger",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "위험에 처한"
+      ],
+      "source_page": 25,
+      "raw_gloss": "위험에 처한"
+    },
+    {
+      "id": "v501_1724_zz_note_25_19_be_in_crisis",
+      "word": "be in crisis",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "위기에 처한"
+      ],
+      "source_page": 25,
+      "raw_gloss": "위기에 처한"
+    },
+    {
+      "id": "v501_1724_zz_note_25_20_stake_out",
+      "word": "stake out",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "차지하다",
+        "차지"
+      ],
+      "source_page": 25,
+      "raw_gloss": "차지하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_21_stake_out_one_s_claim_to",
+      "word": "stake out one's claim to",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "소유권을 주장하다",
+        "소유권을 주장"
+      ],
+      "source_page": 25,
+      "raw_gloss": "소유권을 주장하다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_22_stall_for_time",
+      "word": "stall for time",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "시간을 끌다[벌다]",
+        "시간을 끌다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "시간을 끌다[벌다]"
+    },
+    {
+      "id": "v501_1724_zz_note_25_23_stand_to_win",
+      "word": "stand to win",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "이길 확률이 높다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "이길 확률이 높다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_24_stand_to_lose",
+      "word": "stand to lose",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "질 확률이 높다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "질 확률이 높다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_25_be_off_to_a_good_start",
+      "word": "be off to a good start",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "출발이 순조롭다"
+      ],
+      "source_page": 25,
+      "raw_gloss": "출발이 순조롭다"
+    },
+    {
+      "id": "v501_1724_zz_note_25_26_for_starters",
+      "word": "for starters",
+      "book": "V501",
+      "chapter": 25,
+      "type": "flat",
+      "accepted_answers": [
+        "우선, 일단은",
+        "우선",
+        "일단은"
+      ],
+      "source_page": 25,
+      "raw_gloss": "우선, 일단은"
     },
     {
       "id": "v501_1725_spin_control",
@@ -353695,6 +359268,222 @@
       "raw_gloss": "할당된 일[기간]; 제한, 절약"
     },
     {
+      "id": "v501_1814_zz_note_26_01_stave_off",
+      "word": "stave off",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "피하다",
+        "피"
+      ],
+      "source_page": 26,
+      "raw_gloss": "피하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_02_steel_oneself_for",
+      "word": "steel oneself for",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "-대해 마음을 굳게 먹다",
+        "대해 마음을 굳게 먹다"
+      ],
+      "source_page": 26,
+      "raw_gloss": "-대해 마음을 굳게 먹다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_03_steer_clear_of",
+      "word": "steer clear of",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "-을 피하다",
+        "피하다",
+        "피"
+      ],
+      "source_page": 26,
+      "raw_gloss": "-을 피하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_04_step_down",
+      "word": "step down",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "사임하다; 은퇴하다",
+        "사임하다; 은퇴",
+        "사임하다",
+        "사임",
+        "은퇴하다",
+        "은퇴"
+      ],
+      "source_page": 26,
+      "raw_gloss": "사임하다; 은퇴하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_05_step_up",
+      "word": "step up",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "증가시키다; 승진하다",
+        "증가시키다; 승진",
+        "증가시키다",
+        "승진하다",
+        "승진"
+      ],
+      "source_page": 26,
+      "raw_gloss": "증가시키다; 승진하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_06_stick_one_s_neck_out",
+      "word": "stick one's neck out",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "위험을 무릅쓰다"
+      ],
+      "source_page": 26,
+      "raw_gloss": "위험을 무릅쓰다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_07_stick_to",
+      "word": "stick to",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "고수하다",
+        "고수"
+      ],
+      "source_page": 26,
+      "raw_gloss": "고수하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_08_stockholder",
+      "word": "stockholder",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "주주"
+      ],
+      "source_page": 26,
+      "raw_gloss": "주주"
+    },
+    {
+      "id": "v501_1814_zz_note_26_09_take_stock_of",
+      "word": "take stock of",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "살피다, 평가하다",
+        "살피다, 평가",
+        "살피다",
+        "평가하다",
+        "평가"
+      ],
+      "source_page": 26,
+      "raw_gloss": "살피다, 평가하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_10_in_financial_straits",
+      "word": "in financial straits",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "재정적 위기에 처한"
+      ],
+      "source_page": 26,
+      "raw_gloss": "재정적 위기에 처한"
+    },
+    {
+      "id": "v501_1814_zz_note_26_11_take_to_the_streets",
+      "word": "take to the streets",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "시위하다",
+        "시위"
+      ],
+      "source_page": 26,
+      "raw_gloss": "시위하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_12_strike_down",
+      "word": "strike down",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "철회[기각]하다",
+        "철회하다",
+        "철회"
+      ],
+      "source_page": 26,
+      "raw_gloss": "철회[기각]하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_13_on_the_stump",
+      "word": "on the stump",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "선거운동 중인"
+      ],
+      "source_page": 26,
+      "raw_gloss": "선거운동 중인"
+    },
+    {
+      "id": "v501_1814_zz_note_26_14_be_caught_by_surprise",
+      "word": "be caught by surprise",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "불의의 습격을 당하다",
+        "불의의 습격을 당"
+      ],
+      "source_page": 26,
+      "raw_gloss": "불의의 습격을 당하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_15_be_taken_by_surprise",
+      "word": "be taken by surprise",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "불의의 습격을 당하다",
+        "불의의 습격을 당"
+      ],
+      "source_page": 26,
+      "raw_gloss": "불의의 습격을 당하다"
+    },
+    {
+      "id": "v501_1814_zz_note_26_16_be_swamped_with",
+      "word": "be swamped with",
+      "book": "V501",
+      "chapter": 26,
+      "type": "flat",
+      "accepted_answers": [
+        "-로 가득 차다",
+        "로 가득 차다"
+      ],
+      "source_page": 26,
+      "raw_gloss": "-로 가득 차다"
+    },
+    {
       "id": "v501_1815_the_state_of_the_union_address",
       "word": "the State of the union Address",
       "book": "V501",
@@ -354522,6 +360311,246 @@
       ],
       "source_page": 27,
       "raw_gloss": "기습공격"
+    },
+    {
+      "id": "v501_1877_zz_note_27_01_swear_in",
+      "word": "swear in",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "선서를 한 후 취임을 시키다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "선서를 한 후 취임을 시키다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_02_keep_tabs_on",
+      "word": "keep tabs on",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "감시하다",
+        "감시"
+      ],
+      "source_page": 27,
+      "raw_gloss": "감시하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_03_pick_up_the_tab",
+      "word": "pick up the tab",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "비용을 지불하다",
+        "비용을 지불"
+      ],
+      "source_page": 27,
+      "raw_gloss": "비용을 지불하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_04_turn_the_tables_on",
+      "word": "turn the tables on",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "국면을 전환해 유리한 위치에 서다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "국면을 전환해 유리한 위치에 서다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_05_take_a_back_seat",
+      "word": "take a back seat",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "물러나다, 나서지 않다",
+        "물러나다",
+        "나서지 않다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "물러나다, 나서지 않다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_06_take_hold",
+      "word": "take hold",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "확립되다, 뿌리를 내리다",
+        "확립되다",
+        "뿌리를 내리다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "확립되다, 뿌리를 내리다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_07_take_root",
+      "word": "take root",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "확립되다, 뿌리를 내리다",
+        "확립되다",
+        "뿌리를 내리다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "확립되다, 뿌리를 내리다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_08_take_on",
+      "word": "take on",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "양상을 띠다; 대항하다; 책임을 지다",
+        "양상을 띠다",
+        "대항하다",
+        "대항",
+        "책임을 지다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "양상을 띠다; 대항하다; 책임을 지다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_09_take_over",
+      "word": "take over",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "(기업을) 인수하다",
+        "인수하다",
+        "인수"
+      ],
+      "source_page": 27,
+      "raw_gloss": "(기업을) 인수하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_10_stand_tall",
+      "word": "stand tall",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "당당히 서다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "당당히 서다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_11_tamper_with",
+      "word": "tamper with",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "함부로 손을 대다; 조작하다",
+        "함부로 손을 대다; 조작",
+        "함부로 손을 대다",
+        "조작하다",
+        "조작"
+      ],
+      "source_page": 27,
+      "raw_gloss": "함부로 손을 대다; 조작하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_12_in_tandem_with",
+      "word": "in tandem with",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "-와 협력하여",
+        "와 협력하여"
+      ],
+      "source_page": 27,
+      "raw_gloss": "-와 협력하여"
+    },
+    {
+      "id": "v501_1877_zz_note_27_13_tap_into",
+      "word": "tap into",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "이용하다",
+        "이용"
+      ],
+      "source_page": 27,
+      "raw_gloss": "이용하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_14_taper_off",
+      "word": "taper off",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "차츰 줄이다"
+      ],
+      "source_page": 27,
+      "raw_gloss": "차츰 줄이다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_15_in_tatters",
+      "word": "in tatters",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "누더기가 된, 거덜 난",
+        "누더기가 된",
+        "거덜 난"
+      ],
+      "source_page": 27,
+      "raw_gloss": "누더기가 된, 거덜 난"
+    },
+    {
+      "id": "v501_1877_zz_note_27_16_be_armed_to_the_teeth",
+      "word": "be armed to the teeth",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "중무장 하다",
+        "중무장 "
+      ],
+      "source_page": 27,
+      "raw_gloss": "중무장 하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_17_give_teeth_to",
+      "word": "give teeth to",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "강화하다",
+        "강화"
+      ],
+      "source_page": 27,
+      "raw_gloss": "강화하다"
+    },
+    {
+      "id": "v501_1877_zz_note_27_18_in_the_throes_of",
+      "word": "in the throes of",
+      "book": "V501",
+      "chapter": 27,
+      "type": "flat",
+      "accepted_answers": [
+        "한창 -하는 판에"
+      ],
+      "source_page": 27,
+      "raw_gloss": "한창 -하는 판에"
     },
     {
       "id": "v501_1878_stonewall",
@@ -355738,6 +361767,265 @@
       "raw_gloss": "선구자"
     },
     {
+      "id": "v501_1971_zz_note_28_01_tick_off",
+      "word": "tick off",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "체크표시(ü)하다",
+        "체크표시하다",
+        "체크표시"
+      ],
+      "source_page": 28,
+      "raw_gloss": "체크표시(ü)하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_02_time_and_again",
+      "word": "time and again",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "반복해서"
+      ],
+      "source_page": 28,
+      "raw_gloss": "반복해서"
+    },
+    {
+      "id": "v501_1971_zz_note_28_03_tinker_with",
+      "word": "tinker with",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "어설프게 만지다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "어설프게 만지다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_04_tip_off",
+      "word": "tip off",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "비밀 정보를 제공하다, 경고하다",
+        "비밀 정보를 제공하다, 경고",
+        "비밀 정보를 제공하다",
+        "비밀 정보를 제공",
+        "경고하다",
+        "경고"
+      ],
+      "source_page": 28,
+      "raw_gloss": "비밀 정보를 제공하다, 경고하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_05_toe_the_line",
+      "word": "toe the line",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "규칙을 따르다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "규칙을 따르다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_06_by_the_same_token",
+      "word": "by the same token",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "같은 이유로"
+      ],
+      "source_page": 28,
+      "raw_gloss": "같은 이유로"
+    },
+    {
+      "id": "v501_1971_zz_note_28_07_set_the_tone_for_a",
+      "word": "set the tone for A",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "A의 분위기를 만들다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "A의 분위기를 만들다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_08_tone_down",
+      "word": "tone down",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "누그러뜨리다, 약해지다",
+        "누그러뜨리다",
+        "약해지다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "누그러뜨리다, 약해지다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_09_top_off",
+      "word": "top off",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "극적으로 끝내다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "극적으로 끝내다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_10_touch_off",
+      "word": "touch off",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "유발하다",
+        "유발"
+      ],
+      "source_page": 28,
+      "raw_gloss": "유발하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_11_throw_in_the_towel",
+      "word": "throw in the towel",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "패배를 인정하다",
+        "패배를 인정"
+      ],
+      "source_page": 28,
+      "raw_gloss": "패배를 인정하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_12_keep_track_of",
+      "word": "keep track of",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "추적하다",
+        "추적"
+      ],
+      "source_page": 28,
+      "raw_gloss": "추적하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_13_get_back_on_track",
+      "word": "get back on track",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "원래의 상태가 되다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "원래의 상태가 되다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_14_put_back_on_track",
+      "word": "put - back on track",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "원래의 상태로 놓다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "원래의 상태로 놓다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_15_track_down",
+      "word": "track down",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "철저하게 찾아내다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "철저하게 찾아내다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_16_blaze_the_trail",
+      "word": "blaze the trail",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "새로운 길을 개척하다",
+        "새로운 길을 개척"
+      ],
+      "source_page": 28,
+      "raw_gloss": "새로운 길을 개척하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_17_trot_out",
+      "word": "trot out",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "자랑삼아 내보이다"
+      ],
+      "source_page": 28,
+      "raw_gloss": "자랑삼아 내보이다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_18_trump_up",
+      "word": "trump up",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "날조하다",
+        "날조"
+      ],
+      "source_page": 28,
+      "raw_gloss": "날조하다"
+    },
+    {
+      "id": "v501_1971_zz_note_28_19_twists_and_turns",
+      "word": "twists and turns",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "우여곡절; 여러 변화",
+        "우여곡절",
+        "여러 변화"
+      ],
+      "source_page": 28,
+      "raw_gloss": "우여곡절; 여러 변화"
+    },
+    {
+      "id": "v501_1971_zz_note_28_20_in_turn",
+      "word": "in turn",
+      "book": "V501",
+      "chapter": 28,
+      "type": "flat",
+      "accepted_answers": [
+        "A가 B에 영향을 미치고, B가 다시 C에 영향을 미칠 때, B와 C사이에 쓰는 말",
+        "A가 B에 영향을 미치고",
+        "B가 다시 C에 영향을 미칠 때",
+        "B와 C사이에 쓰는 말"
+      ],
+      "source_page": 28,
+      "raw_gloss": "A가 B에 영향을 미치고, B가 다시 C에 영향을 미칠 때, B와 C사이에 쓰는 말"
+    },
+    {
       "id": "v501_1972_tornado",
       "word": "tornado",
       "book": "V501",
@@ -356841,6 +363129,149 @@
       ],
       "source_page": 29,
       "raw_gloss": "(권력, 지위 등을) 강탈하다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_01_come_unstuck",
+      "word": "come unstuck",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "실패하다",
+        "실패"
+      ],
+      "source_page": 29,
+      "raw_gloss": "실패하다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_02_usher_in",
+      "word": "usher in",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "미리 알리다; 맞이하다",
+        "미리 알리다; 맞이",
+        "미리 알리다",
+        "맞이하다",
+        "맞이"
+      ],
+      "source_page": 29,
+      "raw_gloss": "미리 알리다; 맞이하다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_03_be_versed_in",
+      "word": "be versed in",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "조예가 깊다"
+      ],
+      "source_page": 29,
+      "raw_gloss": "조예가 깊다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_04_in_vogue",
+      "word": "in vogue",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "유행하고 있는"
+      ],
+      "source_page": 29,
+      "raw_gloss": "유행하고 있는"
+    },
+    {
+      "id": "v501_2056_zz_note_29_05_in_the_wake_of",
+      "word": "in the wake of",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "-의 이후",
+        "이후"
+      ],
+      "source_page": 29,
+      "raw_gloss": "-의 이후"
+    },
+    {
+      "id": "v501_2056_zz_note_29_06_ward_off",
+      "word": "ward off",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "피하다",
+        "피"
+      ],
+      "source_page": 29,
+      "raw_gloss": "피하다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_07_the_other_way_around",
+      "word": "the other way around",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "반대의 경우"
+      ],
+      "source_page": 29,
+      "raw_gloss": "반대의 경우"
+    },
+    {
+      "id": "v501_2056_zz_note_29_08_be_wedded_to",
+      "word": "be wedded to",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "-에 집착[헌신]하다",
+        "집착하다",
+        "집착"
+      ],
+      "source_page": 29,
+      "raw_gloss": "-에 집착[헌신]하다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_09_drive_a_wedge_between_a_and_b",
+      "word": "drive a wedge between A and B",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "양쪽을 이간질하다",
+        "양쪽을 이간질"
+      ],
+      "source_page": 29,
+      "raw_gloss": "양쪽을 이간질하다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_10_be_born_out_of_wedlock",
+      "word": "be born out of wedlock",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "사생아로 태어나다"
+      ],
+      "source_page": 29,
+      "raw_gloss": "사생아로 태어나다"
+    },
+    {
+      "id": "v501_2056_zz_note_29_11_weed_out",
+      "word": "weed out",
+      "book": "V501",
+      "chapter": 29,
+      "type": "flat",
+      "accepted_answers": [
+        "색출해서 제거하다",
+        "색출해서 제거"
+      ],
+      "source_page": 29,
+      "raw_gloss": "색출해서 제거하다"
     },
     {
       "id": "v501_2057_underwriter",
@@ -358037,6 +364468,133 @@
       ],
       "source_page": 30,
       "raw_gloss": "전년 동기 대비"
+    },
+    {
+      "id": "v501_2147_zz_note_30_01_throw_one_s_weight_about",
+      "word": "throw one's weight about",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "거드름을 피우다"
+      ],
+      "source_page": 30,
+      "raw_gloss": "거드름을 피우다"
+    },
+    {
+      "id": "v501_2147_zz_note_30_02_throw_one_s_weight_around",
+      "word": "throw one's weight around",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "거드름을 피우다"
+      ],
+      "source_page": 30,
+      "raw_gloss": "거드름을 피우다"
+    },
+    {
+      "id": "v501_2147_zz_note_30_03_double_whammy",
+      "word": "double whammy",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "이중으로 재수 없는 것"
+      ],
+      "source_page": 30,
+      "raw_gloss": "이중으로 재수 없는 것"
+    },
+    {
+      "id": "v501_2147_zz_note_30_04_blow_the_whistle_on",
+      "word": "blow the whistle on",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "비밀을 폭로하다",
+        "비밀을 폭로"
+      ],
+      "source_page": 30,
+      "raw_gloss": "비밀을 폭로하다"
+    },
+    {
+      "id": "v501_2147_zz_note_30_05_wind_up",
+      "word": "wind up",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "결국 -한 상태가 되다"
+      ],
+      "source_page": 30,
+      "raw_gloss": "결국 -한 상태가 되다"
+    },
+    {
+      "id": "v501_2147_zz_note_30_06_end_up",
+      "word": "end up",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "결국 -한 상태가 되다"
+      ],
+      "source_page": 30,
+      "raw_gloss": "결국 -한 상태가 되다"
+    },
+    {
+      "id": "v501_2147_zz_note_30_07_a_window_of_opportunity",
+      "word": "a window of opportunity",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "잠깐의 기회"
+      ],
+      "source_page": 30,
+      "raw_gloss": "잠깐의 기회"
+    },
+    {
+      "id": "v501_2147_zz_note_30_08_in_the_wings",
+      "word": "in the wings",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "(보이지 않게) 대기[준비]하고 있는",
+        "대기하고 있는"
+      ],
+      "source_page": 30,
+      "raw_gloss": "(보이지 않게) 대기[준비]하고 있는"
+    },
+    {
+      "id": "v501_2147_zz_note_30_09_to_wit",
+      "word": "to wit",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "즉"
+      ],
+      "source_page": 30,
+      "raw_gloss": "즉"
+    },
+    {
+      "id": "v501_2147_zz_note_30_10_zero_in_on",
+      "word": "zero in on",
+      "book": "V501",
+      "chapter": 30,
+      "type": "flat",
+      "accepted_answers": [
+        "겨냥하다; 노력을 집중하다",
+        "겨냥하다; 노력을 집중",
+        "겨냥하다",
+        "겨냥",
+        "노력을 집중하다",
+        "노력을 집중"
+      ],
+      "source_page": 30,
+      "raw_gloss": "겨냥하다; 노력을 집중하다"
     },
     {
       "id": "v501_2148_whip",
@@ -643851,20 +650409,20 @@
     "quizlet": "quizlet/Mvp1 day1+2(표제어) Flashcards _ Quizlet.pdf"
   },
   "stats": {
-    "entry_count": 19730,
+    "entry_count": 20235,
     "semantic_bucket_count": 690,
     "entries_by_book": {
       "V101": 1981,
       "V201": 1982,
       "V301": 2572,
       "V401": 1969,
-      "V501": 2474,
+      "V501": 2979,
       "V502": 5732,
       "V601": 2920,
       "quizlet": 100
     },
     "entries_by_type": {
-      "flat": 11426,
+      "flat": 11931,
       "semantic": 8304
     },
     "chapter_counts": [
@@ -644296,152 +650854,152 @@
       {
         "book": "V501",
         "chapter": 1,
-        "count": 85
+        "count": 99
       },
       {
         "book": "V501",
         "chapter": 2,
-        "count": 88
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 3,
-        "count": 79
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 4,
-        "count": 65
+        "count": 99
       },
       {
         "book": "V501",
         "chapter": 5,
-        "count": 82
-      },
-      {
-        "book": "V501",
-        "chapter": 6,
-        "count": 87
-      },
-      {
-        "book": "V501",
-        "chapter": 7,
-        "count": 92
-      },
-      {
-        "book": "V501",
-        "chapter": 8,
-        "count": 89
-      },
-      {
-        "book": "V501",
-        "chapter": 9,
-        "count": 84
-      },
-      {
-        "book": "V501",
-        "chapter": 10,
-        "count": 87
-      },
-      {
-        "book": "V501",
-        "chapter": 11,
-        "count": 74
-      },
-      {
-        "book": "V501",
-        "chapter": 12,
-        "count": 80
-      },
-      {
-        "book": "V501",
-        "chapter": 13,
-        "count": 51
-      },
-      {
-        "book": "V501",
-        "chapter": 14,
-        "count": 79
-      },
-      {
-        "book": "V501",
-        "chapter": 15,
         "count": 98
       },
       {
         "book": "V501",
+        "chapter": 6,
+        "count": 99
+      },
+      {
+        "book": "V501",
+        "chapter": 7,
+        "count": 98
+      },
+      {
+        "book": "V501",
+        "chapter": 8,
+        "count": 101
+      },
+      {
+        "book": "V501",
+        "chapter": 9,
+        "count": 99
+      },
+      {
+        "book": "V501",
+        "chapter": 10,
+        "count": 98
+      },
+      {
+        "book": "V501",
+        "chapter": 11,
+        "count": 99
+      },
+      {
+        "book": "V501",
+        "chapter": 12,
+        "count": 99
+      },
+      {
+        "book": "V501",
+        "chapter": 13,
+        "count": 95
+      },
+      {
+        "book": "V501",
+        "chapter": 14,
+        "count": 99
+      },
+      {
+        "book": "V501",
+        "chapter": 15,
+        "count": 102
+      },
+      {
+        "book": "V501",
         "chapter": 16,
-        "count": 87
+        "count": 101
       },
       {
         "book": "V501",
         "chapter": 17,
-        "count": 88
+        "count": 101
       },
       {
         "book": "V501",
         "chapter": 18,
-        "count": 83
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 19,
-        "count": 84
+        "count": 99
       },
       {
         "book": "V501",
         "chapter": 20,
-        "count": 88
+        "count": 97
       },
       {
         "book": "V501",
         "chapter": 21,
-        "count": 89
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 22,
-        "count": 82
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 23,
-        "count": 84
+        "count": 99
       },
       {
         "book": "V501",
         "chapter": 24,
-        "count": 74
+        "count": 101
       },
       {
         "book": "V501",
         "chapter": 25,
-        "count": 74
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 26,
-        "count": 84
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 27,
-        "count": 81
+        "count": 99
       },
       {
         "book": "V501",
         "chapter": 28,
-        "count": 80
+        "count": 100
       },
       {
         "book": "V501",
         "chapter": 29,
-        "count": 86
+        "count": 97
       },
       {
         "book": "V501",
         "chapter": 30,
-        "count": 90
+        "count": 100
       },
       {
         "book": "V502",
