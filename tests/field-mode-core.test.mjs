@@ -84,6 +84,7 @@ for (const [book, expectedCount] of [
   for (const [index, bucketId] of order.entries()) {
     const target = buckets.find((bucket) => bucket.bucket_id === bucketId);
     const question = createFieldQuestion(target, buckets, seededRandom(index + 1));
+    assert.equal(question.label, target.label, `${bucketId} 원문 한글 출제 뜻`);
     const targetKeys = new Set(target.words.map(normalizeFieldWord));
     const outsiderOptions = question.options.filter((option) => option.isOutsider);
     const expectedOptionCount = Math.min(4, targetKeys.size) + 1;

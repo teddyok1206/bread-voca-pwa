@@ -1,4 +1,4 @@
-const CACHE_NAME = "voca-shell-v6";
+const CACHE_NAME = "voca-shell-v7";
 const BASE_PATH = self.location.pathname.replace(/[^/]+$/, "");
 const INDEX_URL = `${BASE_PATH}index.html`;
 const BUNDLED_PACK_URL = `${BASE_PATH}vocab_pack.json`;
