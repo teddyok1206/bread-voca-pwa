@@ -77,6 +77,6 @@ for (const book of ["V301", "V502"]) {
 }
 
 const worker = await readFile(new URL("../sw.js", import.meta.url), "utf8");
-assert.ok(bundlePath.endsWith("?v=7"), "Deploy a fresh bundle URL without clearing learning data");
-assert.ok(worker.includes('"voca-shell-v7"'), "Refresh only the service-worker shell cache");
+const shellVersion = worker.match(/const CACHE_NAME = "voca-shell-v(\d+)"/)[1];
+assert.ok(bundlePath.endsWith(`?v=${shellVersion}`), "Match the fresh bundle URL to the shell cache version without clearing learning data");
 console.log("field mode prompt: V301/V502 원문 한글 뜻·정답/오답 화면·영어 선택지 검증 완료");
